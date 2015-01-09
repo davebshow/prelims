@@ -2,8 +2,15 @@
 __pycache__/
 *.py[cod]
 
+.gitignore
+.gitignore~
 # C extensions
 *.so
+
+# projx
+
+projx/
+
 
 # Distribution / packaging
 .Python

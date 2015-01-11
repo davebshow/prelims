@@ -11,65 +11,65 @@
 <key attr.name="size" attr.type="float" for="node" id="size"/>
 <key attr.name="[Schema] Type" attr.type="string" for="node" id="NodeType"/>
 <key attr.name="[Schema] Type Id" attr.type="string" for="node" id="NodeTypeId"/>
-<key attr.name="(Aprobacion) Fecha" attr.type="string" for="node" id="n342"/>
-<key attr.name="(Aprobacion) Notas" attr.type="string" for="node" id="n344"/>
-<key attr.name="(Aprobacion) Tipo de aprobacion" attr.type="string" for="node" id="n345"/>
-<key attr.name="(Aprobacion) Titulo" attr.type="string" for="node" id="n343"/>
-<key attr.name="(Carta) Fecha" attr.type="string" for="node" id="n366"/>
-<key attr.name="(Carta) Notas" attr.type="string" for="node" id="n421"/>
-<key attr.name="(Carta) Titulo" attr.type="string" for="node" id="n367"/>
-<key attr.name="(Dedicatoria) Fecha" attr.type="string" for="node" id="n357"/>
-<key attr.name="(Dedicatoria) Notas" attr.type="string" for="node" id="n359"/>
-<key attr.name="(Dedicatoria) Titulo" attr.type="string" for="node" id="n358"/>
-<key attr.name="(Edicion) Fecha" attr.type="string" for="node" id="n369"/>
-<key attr.name="(Edicion) Informacion bibliografica" attr.type="string" for="node" id="n370"/>
-<key attr.name="(Edicion) Numero" attr.type="string" for="node" id="n368"/>
-<key attr.name="(Fe de erratas) Fecha" attr.type="string" for="node" id="n372"/>
-<key attr.name="(Fe de erratas) Titulo" attr.type="string" for="node" id="n371"/>
-<key attr.name="(Impresion) Fecha" attr.type="string" for="node" id="n347"/>
-<key attr.name="(Impresion) Fuente" attr.type="string" for="node" id="n373"/>
-<key attr.name="(Impresion) Informacion de Venta" attr.type="string" for="node" id="n396"/>
-<key attr.name="(Impresion) Nombre" attr.type="string" for="node" id="n346"/>
-<key attr.name="(Institucion) Nombre" attr.type="string" for="node" id="n356"/>
-<key attr.name="(Institucion) Validez" attr.type="string" for="node" id="n355"/>
-<key attr.name="(Lugar) Nombre" attr.type="string" for="node" id="n336"/>
-<key attr.name="(Lugar) Otros nombres" attr.type="string" for="node" id="n338"/>
-<key attr.name="(Lugar) Real" attr.type="string" for="node" id="n337"/>
-<key attr.name="(Lugar) Validez del nombre (periodo)" attr.type="string" for="node" id="n339"/>
-<key attr.name="(Lugar) Virreinato o territorio" attr.type="string" for="node" id="n335"/>
-<key attr.name="(Obra) Fecha" attr.type="string" for="node" id="n361"/>
-<key attr.name="(Obra) Genero" attr.type="string" for="node" id="n360"/>
-<key attr.name="(Obra) Informacion bibliografica" attr.type="string" for="node" id="n363"/>
-<key attr.name="(Obra) Titulo" attr.type="string" for="node" id="n362"/>
-<key attr.name="(Otro documento) Fecha" attr.type="string" for="node" id="n365"/>
-<key attr.name="(Otro documento) Nombre" attr.type="string" for="node" id="n364"/>
-<key attr.name="(Otro documento) Notas" attr.type="string" for="node" id="n422"/>
-<key attr.name="(Persona) Nombre" attr.type="string" for="node" id="n341"/>
-<key attr.name="(Persona) Notas" attr.type="string" for="node" id="n393"/>
-<key attr.name="(Persona) Real" attr.type="string" for="node" id="n340"/>
-<key attr.name="(Poema) Notas" attr.type="string" for="node" id="n353"/>
-<key attr.name="(Poema) Titulo" attr.type="string" for="node" id="n352"/>
-<key attr.name="(Privilegio/Licencia) Duracion" attr.type="string" for="node" id="n376"/>
-<key attr.name="(Privilegio/Licencia) Fecha" attr.type="string" for="node" id="n375"/>
-<key attr.name="(Privilegio/Licencia) Informacion de libreria" attr.type="string" for="node" id="n377"/>
-<key attr.name="(Privilegio/Licencia) Nombre" attr.type="string" for="node" id="n374"/>
-<key attr.name="(Privilegio/Licencia) Notas" attr.type="string" for="node" id="n394"/>
-<key attr.name="(Tasa) Fecha" attr.type="string" for="node" id="n349"/>
-<key attr.name="(Tasa) Nombre" attr.type="string" for="node" id="n348"/>
-<key attr.name="(Tasa) Notas" attr.type="string" for="node" id="n351"/>
-<key attr.name="(Tasa) Precio" attr.type="string" for="node" id="n350"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n342"/>
+<key attr.name="Notas" attr.type="string" for="node" id="n344"/>
+<key attr.name="Tipo de aprobacion" attr.type="string" for="node" id="n345"/>
+<key attr.name="Titulo" attr.type="string" for="node" id="n343"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n366"/>
+<key attr.name="Notas" attr.type="string" for="node" id="n421"/>
+<key attr.name="Titulo" attr.type="string" for="node" id="n367"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n357"/>
+<key attr.name="Notas" attr.type="string" for="node" id="n359"/>
+<key attr.name="Titulo" attr.type="string" for="node" id="n358"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n369"/>
+<key attr.name="Informacion bibliografica" attr.type="string" for="node" id="n370"/>
+<key attr.name="Numero" attr.type="string" for="node" id="n368"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n372"/>
+<key attr.name="Titulo" attr.type="string" for="node" id="n371"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n347"/>
+<key attr.name="Fuente" attr.type="string" for="node" id="n373"/>
+<key attr.name="Informacion de Venta" attr.type="string" for="node" id="n396"/>
+<key attr.name="Nombre" attr.type="string" for="node" id="n346"/>
+<key attr.name="Nombre" attr.type="string" for="node" id="n356"/>
+<key attr.name="Validez" attr.type="string" for="node" id="n355"/>
+<key attr.name="Nombre" attr.type="string" for="node" id="n336"/>
+<key attr.name="Otros nombres" attr.type="string" for="node" id="n338"/>
+<key attr.name="Real" attr.type="string" for="node" id="n337"/>
+<key attr.name="Validez del nombre (periodo)" attr.type="string" for="node" id="n339"/>
+<key attr.name="Virreinato o territorio" attr.type="string" for="node" id="n335"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n361"/>
+<key attr.name="Genero" attr.type="string" for="node" id="n360"/>
+<key attr.name="Informacion bibliografica" attr.type="string" for="node" id="n363"/>
+<key attr.name="Titulo" attr.type="string" for="node" id="n362"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n365"/>
+<key attr.name="Nombre" attr.type="string" for="node" id="n364"/>
+<key attr.name="Notas" attr.type="string" for="node" id="n422"/>
+<key attr.name="Nombre" attr.type="string" for="node" id="n341"/>
+<key attr.name="Notas" attr.type="string" for="node" id="n393"/>
+<key attr.name="Real" attr.type="string" for="node" id="n340"/>
+<key attr.name="Notas" attr.type="string" for="node" id="n353"/>
+<key attr.name="Titulo" attr.type="string" for="node" id="n352"/>
+<key attr.name="Duracion" attr.type="string" for="node" id="n376"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n375"/>
+<key attr.name="Informacion de libreria" attr.type="string" for="node" id="n377"/>
+<key attr.name="Nombre" attr.type="string" for="node" id="n374"/>
+<key attr.name="Notas" attr.type="string" for="node" id="n394"/>
+<key attr.name="Fecha" attr.type="string" for="node" id="n349"/>
+<key attr.name="Nombre" attr.type="string" for="node" id="n348"/>
+<key attr.name="Notas" attr.type="string" for="node" id="n351"/>
+<key attr.name="Precio" attr.type="string" for="node" id="n350"/>
 <key attr.name="[Schema] Allowed Relationship" attr.type="string" for="edge" id="RelationshipType"/>
 <key attr.name="[Schema] Allowed Relationship Id" attr.type="string" for="edge" id="RelationshipTypeId"/>
-<key attr.name="(escribe) Notas" attr.type="string" for="edge" id="r95"/>
-<key attr.name="(escribe) Periodo de escritura" attr.type="string" for="edge" id="r94"/>
-<key attr.name="(firma) Notas" attr.type="string" for="edge" id="r96"/>
-<key attr.name="(muere en) Fecha" attr.type="string" for="edge" id="r98"/>
-<key attr.name="(nace en) Fecha" attr.type="string" for="edge" id="r99"/>
-<key attr.name="(para) Para" attr.type="string" for="edge" id="r100"/>
-<key attr.name="(se firma en) Nombre" attr.type="string" for="edge" id="r102"/>
-<key attr.name="(se firma en) Validez del nombre" attr.type="string" for="edge" id="r103"/>
-<key attr.name="(se firma en) Virreinato o territorio" attr.type="string" for="edge" id="r101"/>
-<key attr.name="(tiene afiliacion con) Notas" attr.type="string" for="edge" id="r104"/>
+<key attr.name="Notas" attr.type="string" for="edge" id="r95"/>
+<key attr.name="Periodo de escritura" attr.type="string" for="edge" id="r94"/>
+<key attr.name="Notas" attr.type="string" for="edge" id="r96"/>
+<key attr.name="Fecha" attr.type="string" for="edge" id="r98"/>
+<key attr.name="Fecha" attr.type="string" for="edge" id="r99"/>
+<key attr.name="Para" attr.type="string" for="edge" id="r100"/>
+<key attr.name="Nombre" attr.type="string" for="edge" id="r102"/>
+<key attr.name="Validez del nombre" attr.type="string" for="edge" id="r103"/>
+<key attr.name="Virreinato o territorio" attr.type="string" for="edge" id="r101"/>
+<key attr.name="Notas" attr.type="string" for="edge" id="r104"/>
 <key attr.name="(tiene relacion biologica con) Notas" attr.type="string" for="edge" id="r106"/>
 <key attr.name="(tiene relacion formal con) Notas" attr.type="string" for="edge" id="r107"/>
 <graph edgedefault="directed">
@@ -3372,7 +3372,7 @@
 <data key="NodeTypeId">154</data>
 <data key="n375">1617-12-14</data>
 <data key="n374">Licencia_Gerardo Barcelona Cormellas 1618</data>
-<data key="n394">Latin. Firma no esta clara. Vt(c). de Caiba &amp; de Vallcera Reg.</data>
+<data key="n394">Latin. Firma no esta clara. Vt(c). de Caiba and de Vallcera Reg.</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -3672,7 +3672,7 @@
 <data key="NodeTypeId">143</data>
 <data key="n347">1600-01-04</data>
 <data key="n373">Biblioteca Nacional de Espana</data>
-<data key="n396">En la oficina de Antonio de Mariz</data>
+<data key="n396">en la oficina de Antonio de Mariz</data>
 <data key="n346">Diogo Gomez Loureiro</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -4410,7 +4410,7 @@
 <data key="NodeTypeId">143</data>
 <data key="n347">1617-01-01</data>
 <data key="n373">Biblioteca Nacional de Espana</data>
-<data key="n396">En la Águila de Oro, cerca de Palacio</data>
+<data key="n396">en la Águila de Oro, cerca de Palacio</data>
 <data key="n346">Huberto Antonio</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -4582,7 +4582,7 @@
 <data key="NodeTypeId">143</data>
 <data key="n347">1617-01-01</data>
 <data key="n373">Biblioteca Nacional de Espana</data>
-<data key="n396">En la Plateria</data>
+<data key="n396">en la Plateria</data>
 <data key="n346">Juan de la Cuesta</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -4633,11 +4633,11 @@
 <data key="y">146.99986</data>
 </node>
 <node id="2148">
-<data key="label">En este, o caminante, marmol breve</data>
+<data key="label">en este, o caminante, marmol breve</data>
 <data key="NodeType">Poema</data>
 <data key="NodeTypeId">145</data>
 <data key="n353">Al sepulcro de Cervantes</data>
-<data key="n352">En este, o caminante, marmol breve</data>
+<data key="n352">en este, o caminante, marmol breve</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -4914,7 +4914,7 @@
 <data key="NodeTypeId">143</data>
 <data key="n347">1618-01-01</data>
 <data key="n373">Biblioteca Nacional de Espana</data>
-<data key="n396">En la Águila de oro, cerca de Palacio</data>
+<data key="n396">en la Águila de oro, cerca de Palacio</data>
 <data key="n346">Huberto Antonio</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -5066,10 +5066,10 @@
 <data key="y">83.43193</data>
 </node>
 <node id="2178">
-<data key="label">Álvaro Antonio Enriquez de Almansa y Borja, Marques de Alcanices</data>
+<data key="label">Álvaro Antonio enriquez de Almansa y Borja, Marques de Alcanices</data>
 <data key="NodeType">Persona</data>
 <data key="NodeTypeId">141</data>
-<data key="n341">Álvaro Antonio Enriquez de Almansa y Borja, Marques de Alcanices</data>
+<data key="n341">Álvaro Antonio enriquez de Almansa y Borja, Marques de Alcanices</data>
 <data key="n340">True</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -7260,10 +7260,10 @@
 <data key="y">426.2681</data>
 </node>
 <node id="2451">
-<data key="label">¿En que fresco jardin de olor divino</data>
+<data key="label">¿en que fresco jardin de olor divino</data>
 <data key="NodeType">Poema</data>
 <data key="NodeTypeId">145</data>
-<data key="n352">¿En que fresco jardin de olor divino</data>
+<data key="n352">¿en que fresco jardin de olor divino</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -7923,7 +7923,7 @@
 <data key="NodeTypeId">154</data>
 <data key="n376">6 anos</data>
 <data key="n375">1607-11-07</data>
-<data key="n377">En la fuente de oro</data>
+<data key="n377">en la fuente de oro</data>
 <data key="n374">Privilegio_Justina Bruselas Brunello 1608</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -7991,7 +7991,7 @@
 <data key="NodeTypeId">143</data>
 <data key="n347">1608-01-01</data>
 <data key="n373">Biblioteca Nacional de Espana</data>
-<data key="n396">En la fuente de oro</data>
+<data key="n396">en la fuente de oro</data>
 <data key="n346">Olivero Brunello</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -8373,7 +8373,7 @@
 <data key="NodeTypeId">149</data>
 <data key="n361">1602-01-01</data>
 <data key="n360">Ficcion</data>
-<data key="n363">Guzman 2 (falso) Barcelona Amello 1602</data>
+<data key="n363">Guzman 2 Barcelona Amello 1602</data>
 <data key="n362">Segunda parte de la vida del picaro Guzman de Alfarache</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -8383,12 +8383,12 @@
 <data key="y">-162.05794</data>
 </node>
 <node id="2988">
-<data key="label">Privilegio/Licencia_Guzman 2 (falso) Barcelona Amello 1602</data>
+<data key="label">Privilegio/Licencia_Guzman 2 Barcelona Amello 1602</data>
 <data key="NodeType">Privilegio/Licencia</data>
 <data key="NodeTypeId">154</data>
 <data key="n376">10 anos</data>
 <data key="n375">1602-08-20</data>
-<data key="n374">Privilegio/Licencia_Guzman 2 (falso) Barcelona Amello 1602</data>
+<data key="n374">Privilegio/Licencia_Guzman 2 Barcelona Amello 1602</data>
 <data key="n394">Escrito en catalan. Firmado en nombre de el conde de Benaventes. Da privilegio a "dits Frances Miguel, y Borras" lo cual es algo confuso por que el libro fue impreso por Amello a costa de Ribera. Debido a la falta de informacion, aqui dejo la relacion ´para´en blanco. Tambien aparece la firma V. Guardiola Fis. Adv.</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -8439,10 +8439,10 @@
 <data key="y">-145.11195</data>
 </node>
 <node id="2990">
-<data key="label">Licencia_Guzman 2 (falso) Barcelona Amello 1602</data>
+<data key="label">Licencia_Guzman 2 Barcelona Amello 1602</data>
 <data key="NodeType">Privilegio/Licencia</data>
 <data key="NodeTypeId">154</data>
-<data key="n374">Licencia_Guzman 2 (falso) Barcelona Amello 1602</data>
+<data key="n374">Licencia_Guzman 2 Barcelona Amello 1602</data>
 <data key="n394">Una especie de licencia particular de Barcelona</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -8478,11 +8478,11 @@
 <data key="y">-128.39223</data>
 </node>
 <node id="2987">
-<data key="label">Guzman 2 (falso) Barcelona Amello 1602</data>
+<data key="label">Guzman 2 Barcelona Amello 1602</data>
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1602-08-20</data>
-<data key="n368">Guzman 2 (falso) Barcelona Amello 1602</data>
+<data key="n368">Guzman 2 Barcelona Amello 1602</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -8518,11 +8518,11 @@
 <data key="y">-71.3091</data>
 </node>
 <node id="2996">
-<data key="label">Licencia_Guzman 2 (falso) Lisboa Rodriguez 1603</data>
+<data key="label">Licencia_Guzman 2 Lisboa Rodriguez 1603</data>
 <data key="NodeType">Privilegio/Licencia</data>
 <data key="NodeTypeId">154</data>
 <data key="n375">1603-02-26</data>
-<data key="n374">Licencia_Guzman 2 (falso) Lisboa Rodriguez 1603</data>
+<data key="n374">Licencia_Guzman 2 Lisboa Rodriguez 1603</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -8531,11 +8531,11 @@
 <data key="y">-115.48918</data>
 </node>
 <node id="2993">
-<data key="label">Guzman 2 (falso) Lisboa Rodriguez 1603</data>
+<data key="label">Guzman 2 Lisboa Rodriguez 1603</data>
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1603-02-26</data>
-<data key="n368">Guzman 2 (falso) Lisboa Rodriguez 1603</data>
+<data key="n368">Guzman 2 Lisboa Rodriguez 1603</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -8562,7 +8562,7 @@
 <data key="NodeType">Dedicatoria</data>
 <data key="NodeTypeId">148</data>
 <data key="n357">1603-08-26</data>
-<data key="n359">Dedicatoria de los impresores. La misma dedicatoria aparece en Guzman 2 (falso) Milan Bordon 1603</data>
+<data key="n359">Dedicatoria de los impresores. La misma dedicatoria aparece en Guzman 2 Milan Bordon 1603</data>
 <data key="n358">Dedicatoria en "Primera parte de la vida del picaro Guzman de Alfarache" Milan</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -8613,12 +8613,12 @@
 <data key="y">-233.18983</data>
 </node>
 <node id="2997">
-<data key="label">Guzman 2 (falso) Milan Bordon 1603</data>
+<data key="label">Guzman 2 Milan Bordon 1603</data>
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1603-08-26</data>
 <data key="n370">Esta edicion se sirve de los mismos preliminares de Guzman Milan Bordon 1603. Es muy probable que fueron impresas juntas.</data>
-<data key="n368">Guzman 2 (falso) Milan Bordon 1603</data>
+<data key="n368">Guzman 2 Milan Bordon 1603</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -8745,11 +8745,11 @@
 <data key="y">-9.023913</data>
 </node>
 <node id="3010">
-<data key="label">Licencia_Guzman 2 (falso) Zaragoza Tavano 1603</data>
+<data key="label">Licencia_Guzman 2 Zaragoza Tavano 1603</data>
 <data key="NodeType">Privilegio/Licencia</data>
 <data key="NodeTypeId">154</data>
 <data key="n375">1602-11-12</data>
-<data key="n374">Licencia_Guzman 2 (falso) Zaragoza Tavano 1603</data>
+<data key="n374">Licencia_Guzman 2 Zaragoza Tavano 1603</data>
 <data key="n394">Aunque no contamos con la edicion de Zaragoza, esta licencia debe provenir de ella</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -8773,12 +8773,12 @@
 <data key="y">-97.15242</data>
 </node>
 <node id="3012">
-<data key="label">Privilegio_Guzman 2 (falso) Bruselas Velpius 1604</data>
+<data key="label">Privilegio_Guzman 2 Bruselas Velpius 1604</data>
 <data key="NodeType">Privilegio/Licencia</data>
 <data key="NodeTypeId">154</data>
 <data key="n376">6 anos</data>
 <data key="n375">1604-01-15</data>
-<data key="n374">Privilegio_Guzman 2 (falso) Bruselas Velpius 1604</data>
+<data key="n374">Privilegio_Guzman 2 Bruselas Velpius 1604</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -8787,11 +8787,11 @@
 <data key="y">312.94748</data>
 </node>
 <node id="3007">
-<data key="label">Guzman 2 (falso) Bruselas Velpius 1604</data>
+<data key="label">Guzman 2 Bruselas Velpius 1604</data>
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1604-01-15</data>
-<data key="n368">Guzman 2 (falso) Bruselas Velpius 1604</data>
+<data key="n368">Guzman 2 Bruselas Velpius 1604</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -9198,7 +9198,7 @@
 <data key="NodeTypeId">149</data>
 <data key="n361">1605-01-01</data>
 <data key="n360">Historia</data>
-<data key="n363">Entrada Sevilla 1605</data>
+<data key="n363">entrada Sevilla 1605</data>
 <data key="n362">De la entrada de algunos padres de la Compania de Jesus en la China</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -9234,11 +9234,11 @@
 <data key="y">-238.94475</data>
 </node>
 <node id="3048">
-<data key="label">Licencia_Entrada Sevilla 1605</data>
+<data key="label">Licencia_entrada Sevilla 1605</data>
 <data key="NodeType">Privilegio/Licencia</data>
 <data key="NodeTypeId">154</data>
 <data key="n375">1605-01-01</data>
-<data key="n374">Licencia_Entrada Sevilla 1605</data>
+<data key="n374">Licencia_entrada Sevilla 1605</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -9288,11 +9288,11 @@
 <data key="y">340.24332</data>
 </node>
 <node id="3046">
-<data key="label">Entrada Sevilla 1605</data>
+<data key="label">entrada Sevilla 1605</data>
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1605-01-01</data>
-<data key="n368">Entrada Sevilla 1605</data>
+<data key="n368">entrada Sevilla 1605</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -9908,10 +9908,10 @@
 <data key="y">-199.85506</data>
 </node>
 <node id="3099">
-<data key="label">En viaje tan divino</data>
+<data key="label">en viaje tan divino</data>
 <data key="NodeType">Poema</data>
 <data key="NodeTypeId">145</data>
-<data key="n352">En viaje tan divino</data>
+<data key="n352">en viaje tan divino</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -10017,10 +10017,10 @@
 <data key="y">194.61375</data>
 </node>
 <node id="3116">
-<data key="label">Entre los dulces cisnes de tu orilla</data>
+<data key="label">entre los dulces cisnes de tu orilla</data>
 <data key="NodeType">Poema</data>
 <data key="NodeTypeId">145</data>
-<data key="n352">Entre los dulces cisnes de tu orilla</data>
+<data key="n352">entre los dulces cisnes de tu orilla</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -10131,7 +10131,7 @@
 <data key="label">Dedicatoria en "El viaje entretenido" Lerida</data>
 <data key="NodeType">Dedicatoria</data>
 <data key="NodeTypeId">148</data>
-<data key="n359">Dedicatoria del impresor/mercader. Dirigida a los ilustres senores Paeres y Consejo de la Ciudad de Lerida</data>
+<data key="n359">Dedicatoria del impresor/mercader. dirigida a los ilustres senores Paeres y Consejo de la Ciudad de Lerida</data>
 <data key="n358">Dedicatoria en "El viaje entretenido" Lerida</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -10145,7 +10145,7 @@
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1611-02-04</data>
-<data key="n370">Dirigida a los ilustres senores Paeres y Consejo de la Ciudad de Lerida</data>
+<data key="n370">dirigida a los ilustres senores Paeres y Consejo de la Ciudad de Lerida</data>
 <data key="n368">Viaje Lerida Menescal 1611</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -10362,7 +10362,7 @@
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1615-01-01</data>
-<data key="n370">Dirigida a los ilustres senores Paeres y Consejo de la Ciudad de Lerida</data>
+<data key="n370">dirigida a los ilustres senores Paeres y Consejo de la Ciudad de Lerida</data>
 <data key="n368">Viaje Lerida Menescal 1615</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -10654,7 +10654,7 @@
 <data key="NodeType">Persona</data>
 <data key="NodeTypeId">141</data>
 <data key="n341">Marquesa de Tarifa</data>
-<data key="n393">Es posible que sea la esposa de Fernando Enriquez de Ribera y Cortes IV Marques de Tarifa, Ana Tellez-Giron. Se requiere mas investigacion. Esta familia esta ligada a Mexico por medio de (por lo menos) un nieto ilegitimo (Payo Enriquez de Ribera) Wikipedia.</data>
+<data key="n393">Es posible que sea la esposa de Fernando enriquez de Ribera y Cortes IV Marques de Tarifa, Ana Tellez-Giron. Se requiere mas investigacion. Esta familia esta ligada a Mexico por medio de un nieto ilegitimo (Payo enriquez de Ribera) Wikipedia.</data>
 <data key="n340">True</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -11247,7 +11247,7 @@
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1617-11-16</data>
-<data key="n370">Dirigida a la Republica de Luca</data>
+<data key="n370">dirigida a la Republica de Luca</data>
 <data key="n368">Pasajero Madrid Sanchez 1617</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -11370,7 +11370,7 @@
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1618-04-19</data>
-<data key="n370">Dirigida a la Rebulica de Luca</data>
+<data key="n370">dirigida a la Rebulica de Luca</data>
 <data key="n368">Pasajero Barcelona Margarit 1618</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -13309,10 +13309,10 @@
 <data key="y">288.87515</data>
 </node>
 <node id="3353">
-<data key="label">Aqui Cilena, mia a la corriente (Entre Delio y Cilena, Montano y Arsenio</data>
+<data key="label">Aqui Cilena, mia a la corriente (entre Delio y Cilena, Montano y Arsenio</data>
 <data key="NodeType">Poema</data>
 <data key="NodeTypeId">145</data>
-<data key="n352">Aqui Cilena, mia a la corriente (Entre Delio y Cilena, Montano y Arsenio</data>
+<data key="n352">Aqui Cilena, mia a la corriente (entre Delio y Cilena, Montano y Arsenio</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -13325,7 +13325,7 @@
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1603-11-29</data>
-<data key="n370">Aunque la portada de esta edicion indica el ano 1602, incluye la tasa de 1603. Esta libro procede a base de dialogos entre Delio y Cilena, personajes que corresponden directamente al autor y su esposa. La poesia de esta edicion se dirige muchas veces a estos personajes. En base de datos se trata a los personajes y dichas personas como iguales</data>
+<data key="n370">Aunque la portada de esta edicion indica el ano 1602, incluye la tasa de 1603. Esta libro procede a base de dialogos entre Delio y Cilena, personajes que corresponden directamente al autor y su esposa. La poesia de esta edicion se dirige muchas veces a estos personajes. en base de datos se trata a los personajes y dichas personas como iguales</data>
 <data key="n368">Miscelanea Lima Ricardo 1602</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -13442,10 +13442,10 @@
 <data key="y">38.88029</data>
 </node>
 <node id="3361">
-<data key="label">Fernando Enriquez de Ribera, duque de Alcala de los Gazules</data>
+<data key="label">Fernando enriquez de Ribera, duque de Alcala de los Gazules</data>
 <data key="NodeType">Persona</data>
 <data key="NodeTypeId">141</data>
-<data key="n341">Fernando Enriquez de Ribera, duque de Alcala de los Gazules</data>
+<data key="n341">Fernando enriquez de Ribera, duque de Alcala de los Gazules</data>
 <data key="n340">True</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -14494,7 +14494,7 @@
 <data key="label">Vega, en quien no falta flor</data>
 <data key="NodeType">Poema</data>
 <data key="NodeTypeId">145</data>
-<data key="n353">En la edicion Isidro Madrid Madrigal 1603 y otras, se indica equivocadamente que la decima ´Vega, en quien no falta flor´es escrita por Isabel de Figueroa. En la edicion princeps, Marcela Trillo de Armenta aparece como autora. </data>
+<data key="n353">en la edicion Isidro Madrid Madrigal 1603 y otras, se indica equivocadamente que la decima ´Vega, en quien no falta flor´es escrita por Isabel de Figueroa. en la edicion princeps, Marcela Trillo de Armenta aparece como autora. </data>
 <data key="n352">Vega, en quien no falta flor</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -14570,7 +14570,7 @@
 <data key="NodeType">Persona</data>
 <data key="NodeTypeId">141</data>
 <data key="n341">Marcela Trillo de Armenta</data>
-<data key="n393">En la edicion Isidro Madrid Madrigal 1603 se indica equivocadamente que la decima ´Vega, en quien no falta flor´es escrita por Isabel de Figueroa. En la edicion princeps, Marcela Trillo de Armenta aparece como autora. Esto vuelve a pasar en Isidro, posiblemente porque Lope tuvo relaciones ilicitas con ella vease edicion critica de La hermosura de Angelica p. 191</data>
+<data key="n393">en la edicion Isidro Madrid Madrigal 1603 se indica equivocadamente que la decima ´Vega, en quien no falta flor´es escrita por Isabel de Figueroa. en la edicion princeps, Marcela Trillo de Armenta aparece como autora. Esto vuelve a pasar en Isidro, posiblemente porque Lope tuvo relaciones ilicitas con ella vease edicion critica de La hermosura de Angelica p. 191</data>
 <data key="n340">True</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -14584,7 +14584,7 @@
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1599-04-26</data>
-<data key="n370">Dirigida a la muy insigne villa de Madrid</data>
+<data key="n370">dirigida a la muy insigne villa de Madrid</data>
 <data key="n368">Isidro Madrid Sanchez 1599</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -14862,7 +14862,7 @@
 <data key="NodeType">Persona</data>
 <data key="NodeTypeId">141</data>
 <data key="n341">Luis Pardo de la Casta y Aguilar, Conde de Adacuaz (Alaquas)</data>
-<data key="n393">Aparece como el conde de Adacuaz en Hermosura de Angelica. En las notas de la edicion critica indica que no lo es, sino el conde de Alaquas (189)</data>
+<data key="n393">Aparece como el conde de Adacuaz en Hermosura de Angelica. en las notas de la edicion critica indica que no lo es, sino el conde de Alaquas (189)</data>
 <data key="n340">True</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -15772,7 +15772,7 @@
 <data key="NodeTypeId">149</data>
 <data key="n361">1604-01-01</data>
 <data key="n360">Poesia</data>
-<data key="n363">En algunas ediciones se incluyen tambien La segunda parte de Rimas y El arte nuevo de hacer comedias</data>
+<data key="n363">en algunas ediciones se incluyen tambien La segunda parte de Rimas y El arte nuevo de hacer comedias</data>
 <data key="n362">Rimas</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -16445,7 +16445,7 @@
 <data key="NodeType">Persona</data>
 <data key="NodeTypeId">141</data>
 <data key="n341">Diego de Aguilar</data>
-<data key="n393">Senor de Enzinas y Canillas</data>
+<data key="n393">Senor de enzinas y Canillas</data>
 <data key="n340">True</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -18220,7 +18220,7 @@
 <data key="NodeTypeId">143</data>
 <data key="n347">1618-01-01</data>
 <data key="n373">Biblioteca Nacional de Espana</data>
-<data key="n396">En la calle de San Domingo</data>
+<data key="n396">en la calle de San Domingo</data>
 <data key="n346">Esteban Liberos</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -19197,7 +19197,7 @@
 <data key="NodeType">Persona</data>
 <data key="NodeTypeId">141</data>
 <data key="n341">Marques del Valle</data>
-<data key="n393">Es muy probable que sea Pedro Cortes Ramirez de Arellano. Se caso con Mencia Fernandez de Cabrera y Mendoza, hija de Maria de Mendoza y de la Cerda. En la dedicatoria de Patrona de Madrid restituida, Salas Barbadillo nombra a una tal Mencia de la Cerda como 'Marquesa del Valle'. Vease el enlace aqui para mas informacion</data>
+<data key="n393">Es muy probable que sea Pedro Cortes Ramirez de Arellano. Se caso con Mencia Fernandez de Cabrera y Mendoza, hija de Maria de Mendoza y de la Cerda. en la dedicatoria de Patrona de Madrid restituida, Salas Barbadillo nombra a una tal Mencia de la Cerda como 'Marquesa del Valle'. Vease el enlace aqui para mas informacion</data>
 <data key="n340">True</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -20217,10 +20217,10 @@
 <data key="y">-67.88045</data>
 </node>
 <node id="3842">
-<data key="label">Alonso Gomez de Encinas, Fray</data>
+<data key="label">Alonso Gomez de encinas, Fray</data>
 <data key="NodeType">Persona</data>
 <data key="NodeTypeId">141</data>
-<data key="n341">Alonso Gomez de Encinas, Fray</data>
+<data key="n341">Alonso Gomez de encinas, Fray</data>
 <data key="n340">True</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -20585,7 +20585,7 @@
 <data key="NodeType">Privilegio/Licencia</data>
 <data key="NodeTypeId">154</data>
 <data key="n374">Licencias_Comedias II Barcelona Cormellas 1611</data>
-<data key="n394">Imprimatur. P.P. Cassado Off. &amp; Vic. Gen.</data>
+<data key="n394">Imprimatur. P.P. Cassado Off. and Vic. Gen.</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
 <data key="g">153</data>
@@ -20612,7 +20612,7 @@
 <data key="NodeType">Edicion</data>
 <data key="NodeTypeId">152</data>
 <data key="n369">1611-01-01</data>
-<data key="n370">Segunda parte de las comedias de Lope de Vega Carpio. Segun Blecua y Seres esta edicion tiene 2 emisiones, lo cual se representa aqui como 2 impresiones. La ùnica diferencia es que la segunda emisiòn dice ´en Amberes en la casa de la viuda y los herederos de Pedro Bellero´ en vez de ´En Bruselas, Por Roger Velpio, y Huberto Antonio, Impressores´en la portada</data>
+<data key="n370">Segunda parte de las comedias de Lope de Vega Carpio. Segun Blecua y Seres esta edicion tiene 2 emisiones, lo cual se representa aqui como 2 impresiones. La ùnica diferencia es que la segunda emisiòn dice ´en Amberes en la casa de la viuda y los herederos de Pedro Bellero´ en vez de ´en Bruselas, Por Roger Velpio, y Huberto Antonio, Impressores´en la portada</data>
 <data key="n368">Comedias II Bruselas Velpius 1611</data>
 <data key="size">10.0</data>
 <data key="r">153</data>
@@ -21520,9 +21520,9 @@
 </edge>
 <edge source="1111" target="1109">
 <data key="edgeid">2774</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1116" target="1117">
@@ -22276,9 +22276,9 @@
 </edge>
 <edge source="1583" target="1905">
 <data key="edgeid">4120</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1125" target="1117">
@@ -23088,9 +23088,9 @@
 </edge>
 <edge source="1984" target="1985">
 <data key="edgeid">5125</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1991" target="1987">
@@ -23627,23 +23627,23 @@
 </edge>
 <edge source="2046" target="2052">
 <data key="edgeid">5121</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2046" target="3129">
 <data key="edgeid">8620</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2046" target="3883">
 <data key="edgeid">11475</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2049" target="1124">
@@ -23760,9 +23760,9 @@
 </edge>
 <edge source="2060" target="2042">
 <data key="edgeid">10633</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2051" target="2056">
@@ -23802,9 +23802,9 @@
 </edge>
 <edge source="2051" target="2042">
 <data key="edgeid">10634</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1160" target="1158">
@@ -23830,9 +23830,9 @@
 </edge>
 <edge source="2035" target="2032">
 <data key="edgeid">4809</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2035" target="2036">
@@ -23907,9 +23907,9 @@
 </edge>
 <edge source="2008" target="2002">
 <data key="edgeid">4828</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2008" target="2009">
@@ -23949,9 +23949,9 @@
 </edge>
 <edge source="1994" target="1953">
 <data key="edgeid">4823</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1994" target="1995">
@@ -23970,9 +23970,9 @@
 </edge>
 <edge source="1981" target="1953">
 <data key="edgeid">4836</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1981" target="1985">
@@ -24019,9 +24019,9 @@
 </edge>
 <edge source="1964" target="1953">
 <data key="edgeid">4847</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1964" target="1965">
@@ -24061,9 +24061,9 @@
 </edge>
 <edge source="1957" target="1953">
 <data key="edgeid">4856</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1957" target="1958">
@@ -24117,9 +24117,9 @@
 </edge>
 <edge source="1927" target="1697">
 <data key="edgeid">4872</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1927" target="1911">
@@ -24180,9 +24180,9 @@
 </edge>
 <edge source="1903" target="1697">
 <data key="edgeid">4914</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1903" target="1905">
@@ -24488,9 +24488,9 @@
 </edge>
 <edge source="1233" target="1215">
 <data key="edgeid">9724</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1108" target="1116">
@@ -24600,9 +24600,9 @@
 </edge>
 <edge source="1108" target="1112">
 <data key="edgeid">4982</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1108" target="1125">
@@ -24649,23 +24649,23 @@
 </edge>
 <edge source="1961" target="1307">
 <data key="edgeid">4993</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="1907" target="1117">
 <data key="edgeid">4996</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="1306" target="1307">
 <data key="edgeid">4999</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="1904" target="1927">
@@ -24917,65 +24917,65 @@
 </edge>
 <edge source="2054" target="1117">
 <data key="edgeid">5034</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2040" target="1935">
 <data key="edgeid">5037</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2039" target="1935">
 <data key="edgeid">5039</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2038" target="1935">
 <data key="edgeid">5043</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2029" target="1117">
 <data key="edgeid">5047</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2027" target="2015">
 <data key="edgeid">5050</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2013" target="1935">
 <data key="edgeid">5053</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2011" target="1935">
 <data key="edgeid">5064</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1976" target="1935">
 <data key="edgeid">5060</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1997" target="1992">
@@ -24987,30 +24987,30 @@
 </edge>
 <edge source="1997" target="1996">
 <data key="edgeid">5069</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1942" target="1935">
 <data key="edgeid">5073</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1975" target="1935">
 <data key="edgeid">5077</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1966" target="1273">
 <data key="edgeid">5082</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1966" target="1930">
@@ -25022,9 +25022,9 @@
 </edge>
 <edge source="1929" target="1189">
 <data key="edgeid">5090</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2052" target="1117">
@@ -25043,16 +25043,16 @@
 </edge>
 <edge source="1909" target="1910">
 <data key="edgeid">5093</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1309" target="1273">
 <data key="edgeid">5097</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1309" target="1290">
@@ -25071,9 +25071,9 @@
 </edge>
 <edge source="1283" target="1273">
 <data key="edgeid">5101</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1271" target="1219">
@@ -25085,9 +25085,9 @@
 </edge>
 <edge source="1271" target="1273">
 <data key="edgeid">5105</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1122" target="1107">
@@ -25113,9 +25113,9 @@
 </edge>
 <edge source="1122" target="1117">
 <data key="edgeid">5111</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1985" target="1731">
@@ -25141,9 +25141,9 @@
 </edge>
 <edge source="2069" target="1160">
 <data key="edgeid">5148</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2069" target="2072">
@@ -25239,9 +25239,9 @@
 </edge>
 <edge source="2012" target="1935">
 <data key="edgeid">5161</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2067" target="1201">
@@ -25253,9 +25253,9 @@
 </edge>
 <edge source="2067" target="1160">
 <data key="edgeid">5166</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2067" target="2068">
@@ -25372,9 +25372,9 @@
 </edge>
 <edge source="951" target="1160">
 <data key="edgeid">5174</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="951" target="1194">
@@ -25407,9 +25407,9 @@
 </edge>
 <edge source="2076" target="1160">
 <data key="edgeid">5198</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2076" target="2077">
@@ -25442,16 +25442,16 @@
 </edge>
 <edge source="2079" target="1935">
 <data key="edgeid">5206</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2080" target="2083">
 <data key="edgeid">5233</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2081" target="2084">
@@ -25477,9 +25477,9 @@
 </edge>
 <edge source="2085" target="1935">
 <data key="edgeid">5235</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2082" target="1183">
@@ -25498,9 +25498,9 @@
 </edge>
 <edge source="2082" target="1160">
 <data key="edgeid">5242</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2082" target="2084">
@@ -25547,9 +25547,9 @@
 </edge>
 <edge source="2086" target="1160">
 <data key="edgeid">5251</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2086" target="1177">
@@ -25666,16 +25666,16 @@
 </edge>
 <edge source="2058" target="2060">
 <data key="edgeid">5282</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2058" target="2051">
 <data key="edgeid">5283</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2058" target="2042">
@@ -25694,9 +25694,9 @@
 </edge>
 <edge source="2041" target="2035">
 <data key="edgeid">5285</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2014" target="2002">
@@ -25708,9 +25708,9 @@
 </edge>
 <edge source="2014" target="2008">
 <data key="edgeid">5287</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1963" target="1953">
@@ -25722,51 +25722,51 @@
 </edge>
 <edge source="1963" target="1994">
 <data key="edgeid">5289</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1963" target="1981">
 <data key="edgeid">5290</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1963" target="1964">
 <data key="edgeid">5291</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1963" target="1957">
 <data key="edgeid">5292</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1963" target="2125">
 <data key="edgeid">5409</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1963" target="2128">
 <data key="edgeid">5421</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1963" target="2131">
 <data key="edgeid">5453</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1912" target="1697">
@@ -25778,23 +25778,23 @@
 </edge>
 <edge source="1912" target="1927">
 <data key="edgeid">5294</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1912" target="1903">
 <data key="edgeid">5295</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1319" target="1303">
 <data key="edgeid">5297</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1319" target="1215">
@@ -25806,9 +25806,9 @@
 </edge>
 <edge source="1279" target="1233">
 <data key="edgeid">5299</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1279" target="1215">
@@ -25827,9 +25827,9 @@
 </edge>
 <edge source="1113" target="1108">
 <data key="edgeid">5301</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1113" target="1106">
@@ -25902,9 +25902,9 @@
 </edge>
 <edge source="2115" target="1935">
 <data key="edgeid">5338</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2116" target="1152">
@@ -25916,9 +25916,9 @@
 </edge>
 <edge source="2116" target="1935">
 <data key="edgeid">5343</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2117" target="2104">
@@ -25930,9 +25930,9 @@
 </edge>
 <edge source="2117" target="2112">
 <data key="edgeid">5378</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2119" target="1152">
@@ -25965,9 +25965,9 @@
 </edge>
 <edge source="2112" target="2104">
 <data key="edgeid">5373</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2112" target="2113">
@@ -26049,16 +26049,16 @@
 </edge>
 <edge source="2127" target="1117">
 <data key="edgeid">5389</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2125" target="1953">
 <data key="edgeid">5403</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2125" target="1966">
@@ -26105,9 +26105,9 @@
 </edge>
 <edge source="1962" target="1273">
 <data key="edgeid">5398</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1962" target="1930">
@@ -26168,9 +26168,9 @@
 </edge>
 <edge source="2128" target="1953">
 <data key="edgeid">5419</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2128" target="2130">
@@ -26245,16 +26245,16 @@
 </edge>
 <edge source="2134" target="1189">
 <data key="edgeid">5442</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2131" target="1953">
 <data key="edgeid">5450</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2131" target="1982">
@@ -26308,9 +26308,9 @@
 </edge>
 <edge source="2138" target="2142">
 <data key="edgeid">5477</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2140" target="2147">
@@ -26343,16 +26343,16 @@
 </edge>
 <edge source="2144" target="1117">
 <data key="edgeid">5482</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2145" target="1117">
 <data key="edgeid">5492</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2148" target="1930">
@@ -26371,30 +26371,30 @@
 </edge>
 <edge source="2149" target="2137">
 <data key="edgeid">5514</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2149" target="2158">
 <data key="edgeid">5557</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2149" target="2163">
 <data key="edgeid">5585</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2149" target="2171">
 <data key="edgeid">5614</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2149" target="1215">
@@ -26455,16 +26455,16 @@
 </edge>
 <edge source="2137" target="1215">
 <data key="edgeid">9725</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2150" target="2159">
 <data key="edgeid">5532</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">2.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2150" target="2198">
@@ -26553,9 +26553,9 @@
 </edge>
 <edge source="2162" target="2153">
 <data key="edgeid">5547</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2158" target="2148">
@@ -26602,9 +26602,9 @@
 </edge>
 <edge source="2158" target="1215">
 <data key="edgeid">9726</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2164" target="2165">
@@ -26630,9 +26630,9 @@
 </edge>
 <edge source="2168" target="2167">
 <data key="edgeid">5575</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2167" target="1189">
@@ -26672,9 +26672,9 @@
 </edge>
 <edge source="2163" target="1215">
 <data key="edgeid">9727</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2169" target="2173">
@@ -26700,9 +26700,9 @@
 </edge>
 <edge source="2173" target="1996">
 <data key="edgeid">5596</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2173" target="2129">
@@ -26763,9 +26763,9 @@
 </edge>
 <edge source="2171" target="1215">
 <data key="edgeid">9728</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="1901" target="1117">
@@ -26924,9 +26924,9 @@
 </edge>
 <edge source="2184" target="1117">
 <data key="edgeid">3800</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="1137" target="1146">
@@ -26945,58 +26945,58 @@
 </edge>
 <edge source="2192" target="2182">
 <data key="edgeid">3131</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2192" target="2197">
 <data key="edgeid">3197</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2192" target="2203">
 <data key="edgeid">2606</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2192" target="2210">
 <data key="edgeid">3024</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2192" target="2214">
 <data key="edgeid">4228</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2192" target="2216">
 <data key="edgeid">4313</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2192" target="2218">
 <data key="edgeid">4772</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2192" target="2228">
 <data key="edgeid">4355</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2192" target="1215">
@@ -27113,9 +27113,9 @@
 </edge>
 <edge source="2182" target="1215">
 <data key="edgeid">9729</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2182" target="2183">
@@ -27197,9 +27197,9 @@
 </edge>
 <edge source="2197" target="1215">
 <data key="edgeid">9730</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2204" target="1996">
@@ -27218,9 +27218,9 @@
 </edge>
 <edge source="2205" target="1996">
 <data key="edgeid">3806</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2205" target="2129">
@@ -27295,16 +27295,16 @@
 </edge>
 <edge source="2203" target="1215">
 <data key="edgeid">9731</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2207" target="2211">
 <data key="edgeid">2836</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2208" target="2213">
@@ -27442,9 +27442,9 @@
 </edge>
 <edge source="2214" target="1215">
 <data key="edgeid">9732</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2217" target="2153">
@@ -27470,9 +27470,9 @@
 </edge>
 <edge source="2202" target="2153">
 <data key="edgeid">4333</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2216" target="2193">
@@ -27519,16 +27519,16 @@
 </edge>
 <edge source="2216" target="1215">
 <data key="edgeid">9733</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2220" target="1117">
 <data key="edgeid">3857</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2187" target="1117">
@@ -27554,9 +27554,9 @@
 </edge>
 <edge source="2190" target="1117">
 <data key="edgeid">4766</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2190" target="1930">
@@ -27568,9 +27568,9 @@
 </edge>
 <edge source="2191" target="1117">
 <data key="edgeid">4782</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2191" target="1930">
@@ -27638,9 +27638,9 @@
 </edge>
 <edge source="2218" target="1215">
 <data key="edgeid">9734</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2218" target="2219">
@@ -27743,9 +27743,9 @@
 </edge>
 <edge source="2228" target="1215">
 <data key="edgeid">9735</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2233" target="2241">
@@ -27806,9 +27806,9 @@
 </edge>
 <edge source="2238" target="1117">
 <data key="edgeid">4039</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2241" target="1117">
@@ -27820,9 +27820,9 @@
 </edge>
 <edge source="2242" target="1117">
 <data key="edgeid">2876</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2242" target="1930">
@@ -27876,9 +27876,9 @@
 </edge>
 <edge source="2235" target="1215">
 <data key="edgeid">9736</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2235" target="2236">
@@ -27911,9 +27911,9 @@
 </edge>
 <edge source="2246" target="1996">
 <data key="edgeid">3037</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2246" target="2129">
@@ -27953,9 +27953,9 @@
 </edge>
 <edge source="2244" target="1215">
 <data key="edgeid">9737</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2225" target="2231">
@@ -28051,23 +28051,23 @@
 </edge>
 <edge source="2251" target="1935">
 <data key="edgeid">2832</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2252" target="1935">
 <data key="edgeid">2966</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2254" target="1935">
 <data key="edgeid">2764</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2255" target="1935">
@@ -28128,9 +28128,9 @@
 </edge>
 <edge source="2250" target="1215">
 <data key="edgeid">9738</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2257" target="2259">
@@ -28177,9 +28177,9 @@
 </edge>
 <edge source="2259" target="1189">
 <data key="edgeid">4210</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2146" target="1117">
@@ -28191,16 +28191,16 @@
 </edge>
 <edge source="2166" target="2165">
 <data key="edgeid">3588</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2166" target="2268">
 <data key="edgeid">2568</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2264" target="1731">
@@ -28310,9 +28310,9 @@
 </edge>
 <edge source="2269" target="1731">
 <data key="edgeid">4682</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2267" target="2268">
@@ -28345,16 +28345,16 @@
 </edge>
 <edge source="2267" target="1215">
 <data key="edgeid">9739</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2271" target="1189">
 <data key="edgeid">4630</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2278" target="2276">
@@ -28513,30 +28513,30 @@
 </edge>
 <edge source="2243" target="2235">
 <data key="edgeid">4920</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2243" target="2244">
 <data key="edgeid">3027</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2243" target="2250">
 <data key="edgeid">3028</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2243" target="2267">
 <data key="edgeid">3066</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2243" target="1215">
@@ -28555,9 +28555,9 @@
 </edge>
 <edge source="2273" target="2281">
 <data key="edgeid">5030</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2273" target="2298">
@@ -28681,9 +28681,9 @@
 </edge>
 <edge source="2311" target="2281">
 <data key="edgeid">5187</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2311" target="2298">
@@ -28765,9 +28765,9 @@
 </edge>
 <edge source="2315" target="2281">
 <data key="edgeid">5088</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2315" target="2299">
@@ -28905,9 +28905,9 @@
 </edge>
 <edge source="2331" target="1996">
 <data key="edgeid">5425</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2331" target="2320">
@@ -28919,9 +28919,9 @@
 </edge>
 <edge source="2319" target="2281">
 <data key="edgeid">5491</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2319" target="2298">
@@ -29038,16 +29038,16 @@
 </edge>
 <edge source="2318" target="1307">
 <data key="edgeid">5489</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2294" target="1117">
 <data key="edgeid">5580</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2294" target="1294">
@@ -29059,9 +29059,9 @@
 </edge>
 <edge source="2342" target="2281">
 <data key="edgeid">5621</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2342" target="2298">
@@ -29185,9 +29185,9 @@
 </edge>
 <edge source="2345" target="3127">
 <data key="edgeid">8589</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2345" target="3141">
@@ -29241,9 +29241,9 @@
 </edge>
 <edge source="2350" target="2281">
 <data key="edgeid">5705</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2350" target="2298">
@@ -29423,9 +29423,9 @@
 </edge>
 <edge source="2359" target="2281">
 <data key="edgeid">5750</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2359" target="2298">
@@ -29738,9 +29738,9 @@
 </edge>
 <edge source="2442" target="1117">
 <data key="edgeid">5930</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2442" target="1294">
@@ -29759,16 +29759,16 @@
 </edge>
 <edge source="2444" target="2391">
 <data key="edgeid">7069</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2444" target="2720">
 <data key="edgeid">7146</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2445" target="2395">
@@ -29836,9 +29836,9 @@
 </edge>
 <edge source="2391" target="2395">
 <data key="edgeid">7064</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2391" target="2439">
@@ -29955,9 +29955,9 @@
 </edge>
 <edge source="2726" target="1189">
 <data key="edgeid">7122</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2728" target="1992">
@@ -29969,9 +29969,9 @@
 </edge>
 <edge source="2728" target="1996">
 <data key="edgeid">7126</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2443" target="1273">
@@ -29983,9 +29983,9 @@
 </edge>
 <edge source="2720" target="2395">
 <data key="edgeid">7141</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2720" target="2445">
@@ -30277,9 +30277,9 @@
 </edge>
 <edge source="2788" target="1117">
 <data key="edgeid">7360</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2788" target="1294">
@@ -30291,9 +30291,9 @@
 </edge>
 <edge source="2790" target="1117">
 <data key="edgeid">7366</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2297" target="2281">
@@ -30305,44 +30305,44 @@
 </edge>
 <edge source="2297" target="2273">
 <data key="edgeid">7405</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2297" target="2315">
 <data key="edgeid">7406</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2297" target="2319">
 <data key="edgeid">7407</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2297" target="2342">
 <data key="edgeid">7408</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2297" target="2350">
 <data key="edgeid">7409</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2297" target="2359">
 <data key="edgeid">7410</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2800" target="2758">
@@ -30354,23 +30354,23 @@
 </edge>
 <edge source="2800" target="2782">
 <data key="edgeid">7539</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2800" target="2862">
 <data key="edgeid">7663</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2782" target="2758">
 <data key="edgeid">7533</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2782" target="2785">
@@ -30494,9 +30494,9 @@
 </edge>
 <edge source="2862" target="2758">
 <data key="edgeid">7660</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2862" target="2804">
@@ -30620,9 +30620,9 @@
 </edge>
 <edge source="2894" target="2889">
 <data key="edgeid">7739</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2894" target="2897">
@@ -30634,16 +30634,16 @@
 </edge>
 <edge source="2894" target="1293">
 <data key="edgeid">10301</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2895" target="1996">
 <data key="edgeid">7729</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2895" target="2892">
@@ -30697,9 +30697,9 @@
 </edge>
 <edge source="2896" target="2894">
 <data key="edgeid">7741</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2896" target="2889">
@@ -30844,9 +30844,9 @@
 </edge>
 <edge source="2963" target="1273">
 <data key="edgeid">8133</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2963" target="2959">
@@ -30977,9 +30977,9 @@
 </edge>
 <edge source="2971" target="2972">
 <data key="edgeid">8151</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2972" target="1117">
@@ -30991,9 +30991,9 @@
 </edge>
 <edge source="2974" target="1117">
 <data key="edgeid">8157</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2975" target="1117">
@@ -31026,9 +31026,9 @@
 </edge>
 <edge source="2978" target="2992">
 <data key="edgeid">8196</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="2979" target="2981">
@@ -31110,9 +31110,9 @@
 </edge>
 <edge source="2988" target="1731">
 <data key="edgeid">8177</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2982" target="2988">
@@ -31124,9 +31124,9 @@
 </edge>
 <edge source="2973" target="1117">
 <data key="edgeid">8182</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2973" target="2971">
@@ -31145,16 +31145,16 @@
 </edge>
 <edge source="2990" target="1189">
 <data key="edgeid">8188</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2991" target="2069">
 <data key="edgeid">8192</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2991" target="2979">
@@ -31166,23 +31166,23 @@
 </edge>
 <edge source="2991" target="2987">
 <data key="edgeid">8203</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2991" target="2993">
 <data key="edgeid">8221</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2991" target="3007">
 <data key="edgeid">8302</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2992" target="1189">
@@ -31194,9 +31194,9 @@
 </edge>
 <edge source="2987" target="2979">
 <data key="edgeid">8198</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2987" target="2988">
@@ -31236,16 +31236,16 @@
 </edge>
 <edge source="2996" target="1935">
 <data key="edgeid">8213</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2993" target="2979">
 <data key="edgeid">8217</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2993" target="2994">
@@ -31278,9 +31278,9 @@
 </edge>
 <edge source="2212" target="2210">
 <data key="edgeid">8224</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2099" target="2091">
@@ -31299,16 +31299,16 @@
 </edge>
 <edge source="2099" target="2096">
 <data key="edgeid">8238</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2099" target="2997">
 <data key="edgeid">8260</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2096" target="2100">
@@ -31453,9 +31453,9 @@
 </edge>
 <edge source="3010" target="3000">
 <data key="edgeid">8279</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3010" target="3004">
@@ -31474,16 +31474,16 @@
 </edge>
 <edge source="3012" target="1996">
 <data key="edgeid">8285</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3007" target="2979">
 <data key="edgeid">8296</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3007" target="3008">
@@ -31572,16 +31572,16 @@
 </edge>
 <edge source="3020" target="3032">
 <data key="edgeid">8327</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3020" target="2793">
 <data key="edgeid">3855</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3022" target="3001">
@@ -31698,9 +31698,9 @@
 </edge>
 <edge source="3036" target="3000">
 <data key="edgeid">8339</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3036" target="3020">
@@ -31719,16 +31719,16 @@
 </edge>
 <edge source="3037" target="3031">
 <data key="edgeid">8350</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3031" target="3018">
 <data key="edgeid">8344</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3031" target="3032">
@@ -31873,16 +31873,16 @@
 </edge>
 <edge source="3047" target="3046">
 <data key="edgeid">8377</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3048" target="2440">
 <data key="edgeid">8364</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3049" target="2440">
@@ -31908,9 +31908,9 @@
 </edge>
 <edge source="3046" target="3040">
 <data key="edgeid">8374</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3046" target="3048">
@@ -31936,9 +31936,9 @@
 </edge>
 <edge source="693" target="1187">
 <data key="edgeid">8379</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3052" target="3080">
@@ -32209,16 +32209,16 @@
 </edge>
 <edge source="3085" target="3086">
 <data key="edgeid">8417</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3087" target="1273">
 <data key="edgeid">8421</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3087" target="3052">
@@ -32237,16 +32237,16 @@
 </edge>
 <edge source="3088" target="3081">
 <data key="edgeid">8478</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3088" target="3128">
 <data key="edgeid">8689</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3093" target="3052">
@@ -32265,9 +32265,9 @@
 </edge>
 <edge source="3081" target="3054">
 <data key="edgeid">8472</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3081" target="3083">
@@ -32517,16 +32517,16 @@
 </edge>
 <edge source="3126" target="3110">
 <data key="edgeid">8586</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3126" target="3140">
 <data key="edgeid">8751</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3110" target="3089">
@@ -32734,9 +32734,9 @@
 </edge>
 <edge source="3138" target="1117">
 <data key="edgeid">8627</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3084" target="1273">
@@ -32748,9 +32748,9 @@
 </edge>
 <edge source="3139" target="1117">
 <data key="edgeid">8635</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3139" target="2046">
@@ -32874,9 +32874,9 @@
 </edge>
 <edge source="3128" target="3054">
 <data key="edgeid">8683</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3128" target="3089">
@@ -33343,9 +33343,9 @@
 </edge>
 <edge source="3151" target="1117">
 <data key="edgeid">8772</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3152" target="1117">
@@ -33357,9 +33357,9 @@
 </edge>
 <edge source="3154" target="1117">
 <data key="edgeid">8782</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3154" target="1164">
@@ -33392,16 +33392,16 @@
 </edge>
 <edge source="3155" target="3143">
 <data key="edgeid">8801</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3143" target="3144">
 <data key="edgeid">8794</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3143" target="3149">
@@ -33756,9 +33756,9 @@
 </edge>
 <edge source="3179" target="3174">
 <data key="edgeid">8922</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3180" target="1989">
@@ -33798,9 +33798,9 @@
 </edge>
 <edge source="3174" target="1989">
 <data key="edgeid">8917</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3174" target="3175">
@@ -34127,16 +34127,16 @@
 </edge>
 <edge source="3211" target="3204">
 <data key="edgeid">8963</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3211" target="3212">
 <data key="edgeid">9008</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3204" target="3205">
@@ -34211,9 +34211,9 @@
 </edge>
 <edge source="2346" target="3582">
 <data key="edgeid">10307</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3215" target="1189">
@@ -34232,9 +34232,9 @@
 </edge>
 <edge source="3207" target="1117">
 <data key="edgeid">8987</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3207" target="3199">
@@ -34246,16 +34246,16 @@
 </edge>
 <edge source="3216" target="1189">
 <data key="edgeid">8991</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3217" target="3000">
 <data key="edgeid">8995</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3212" target="3213">
@@ -34694,9 +34694,9 @@
 </edge>
 <edge source="3240" target="1117">
 <data key="edgeid">9074</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3240" target="3224">
@@ -34743,9 +34743,9 @@
 </edge>
 <edge source="3243" target="3221">
 <data key="edgeid">9086</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3243" target="3224">
@@ -34771,9 +34771,9 @@
 </edge>
 <edge source="3246" target="1117">
 <data key="edgeid">9096</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3225" target="3220">
@@ -35128,9 +35128,9 @@
 </edge>
 <edge source="3265" target="1215">
 <data key="edgeid">9740</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3281" target="3280">
@@ -35163,16 +35163,16 @@
 </edge>
 <edge source="3269" target="3265">
 <data key="edgeid">9210</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3269" target="3279">
 <data key="edgeid">9259</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3268" target="3221">
@@ -35191,16 +35191,16 @@
 </edge>
 <edge source="3268" target="3265">
 <data key="edgeid">9214</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3268" target="3279">
 <data key="edgeid">9258</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3272" target="1290">
@@ -35226,9 +35226,9 @@
 </edge>
 <edge source="3279" target="3250">
 <data key="edgeid">9254</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3279" target="3280">
@@ -35338,9 +35338,9 @@
 </edge>
 <edge source="3289" target="1935">
 <data key="edgeid">9276</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3290" target="3283">
@@ -35352,16 +35352,16 @@
 </edge>
 <edge source="3290" target="3285">
 <data key="edgeid">9285</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3285" target="3283">
 <data key="edgeid">9281</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3285" target="3287">
@@ -35471,9 +35471,9 @@
 </edge>
 <edge source="3298" target="1117">
 <data key="edgeid">9330</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3298" target="1930">
@@ -35492,9 +35492,9 @@
 </edge>
 <edge source="3300" target="1117">
 <data key="edgeid">9336</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="1139" target="1148">
@@ -35513,9 +35513,9 @@
 </edge>
 <edge source="3292" target="3293">
 <data key="edgeid">9348</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3292" target="3296">
@@ -35569,9 +35569,9 @@
 </edge>
 <edge source="3301" target="3292">
 <data key="edgeid">9355</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3303" target="1117">
@@ -35940,9 +35940,9 @@
 </edge>
 <edge source="3333" target="3304">
 <data key="edgeid">9401</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3333" target="3310">
@@ -35982,9 +35982,9 @@
 </edge>
 <edge source="3338" target="3330">
 <data key="edgeid">9486</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3339" target="3310">
@@ -36101,9 +36101,9 @@
 </edge>
 <edge source="3330" target="3311">
 <data key="edgeid">9480</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3330" target="3331">
@@ -36479,9 +36479,9 @@
 </edge>
 <edge source="3379" target="3372">
 <data key="edgeid">9584</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3381" target="3354">
@@ -36500,9 +36500,9 @@
 </edge>
 <edge source="3394" target="1117">
 <data key="edgeid">9551</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3394" target="3354">
@@ -36514,9 +36514,9 @@
 </edge>
 <edge source="3395" target="1117">
 <data key="edgeid">9554</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3396" target="1117">
@@ -36731,9 +36731,9 @@
 </edge>
 <edge source="3406" target="1117">
 <data key="edgeid">9595</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3406" target="3401">
@@ -36773,9 +36773,9 @@
 </edge>
 <edge source="3408" target="3405">
 <data key="edgeid">9610</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3400" target="3398">
@@ -36801,9 +36801,9 @@
 </edge>
 <edge source="3405" target="3400">
 <data key="edgeid">9607</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3409" target="3411">
@@ -37004,9 +37004,9 @@
 </edge>
 <edge source="3428" target="3415">
 <data key="edgeid">9662</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3428" target="1294">
@@ -37109,23 +37109,23 @@
 </edge>
 <edge source="3441" target="3411">
 <data key="edgeid">9791</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3441" target="3420">
 <data key="edgeid">9812</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3441" target="3423">
 <data key="edgeid">9833</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3442" target="1117">
@@ -37571,9 +37571,9 @@
 </edge>
 <edge source="3446" target="2411">
 <data key="edgeid">9838</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3446" target="3448">
@@ -37725,9 +37725,9 @@
 </edge>
 <edge source="3447" target="2411">
 <data key="edgeid">9840</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3447" target="3472">
@@ -38019,9 +38019,9 @@
 </edge>
 <edge source="3468" target="1273">
 <data key="edgeid">9868</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3468" target="1294">
@@ -38124,16 +38124,16 @@
 </edge>
 <edge source="3471" target="3446">
 <data key="edgeid">9940</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3471" target="3447">
 <data key="edgeid">9939</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3470" target="1189">
@@ -38236,9 +38236,9 @@
 </edge>
 <edge source="3489" target="3680">
 <data key="edgeid">10648</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3490" target="1124">
@@ -38341,9 +38341,9 @@
 </edge>
 <edge source="3503" target="1117">
 <data key="edgeid">10058</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3504" target="1117">
@@ -38355,9 +38355,9 @@
 </edge>
 <edge source="3505" target="1273">
 <data key="edgeid">10065</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3505" target="1294">
@@ -38376,16 +38376,16 @@
 </edge>
 <edge source="3507" target="3497">
 <data key="edgeid">10109</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3507" target="3499">
 <data key="edgeid">10156</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3508" target="3491">
@@ -38418,9 +38418,9 @@
 </edge>
 <edge source="3497" target="1989">
 <data key="edgeid">10103</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3497" target="3498">
@@ -38516,30 +38516,30 @@
 </edge>
 <edge source="3519" target="1935">
 <data key="edgeid">10118</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3520" target="1935">
 <data key="edgeid">10122</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3522" target="1935">
 <data key="edgeid">10135</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3499" target="1989">
 <data key="edgeid">10148</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3499" target="3500">
@@ -38726,9 +38726,9 @@
 </edge>
 <edge source="3537" target="3534">
 <data key="edgeid">10214</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3546" target="2411">
@@ -38943,9 +38943,9 @@
 </edge>
 <edge source="3559" target="1117">
 <data key="edgeid">10248</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2177" target="2175">
@@ -39006,9 +39006,9 @@
 </edge>
 <edge source="3561" target="1117">
 <data key="edgeid">10255</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3561" target="1294">
@@ -39020,9 +39020,9 @@
 </edge>
 <edge source="3562" target="1117">
 <data key="edgeid">10260</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3562" target="1294">
@@ -39041,9 +39041,9 @@
 </edge>
 <edge source="3563" target="3549">
 <data key="edgeid">10290</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3557" target="3566">
@@ -39062,9 +39062,9 @@
 </edge>
 <edge source="3549" target="3551">
 <data key="edgeid">10283</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3549" target="3558">
@@ -39251,51 +39251,51 @@
 </edge>
 <edge source="1293" target="1304">
 <data key="edgeid">10297</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1293" target="2343">
 <data key="edgeid">10298</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1293" target="3529">
 <data key="edgeid">10299</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1293" target="3550">
 <data key="edgeid">10300</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1293" target="3608">
 <data key="edgeid">10379</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1293" target="3628">
 <data key="edgeid">10441</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1293" target="3852">
 <data key="edgeid">11336</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3573" target="3593">
@@ -39370,9 +39370,9 @@
 </edge>
 <edge source="3584" target="1189">
 <data key="edgeid">10312</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3585" target="1215">
@@ -39384,9 +39384,9 @@
 </edge>
 <edge source="3585" target="3581">
 <data key="edgeid">10369</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3590" target="1215">
@@ -39447,9 +39447,9 @@
 </edge>
 <edge source="3581" target="1215">
 <data key="edgeid">10365</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3581" target="3582">
@@ -39650,16 +39650,16 @@
 </edge>
 <edge source="3610" target="1117">
 <data key="edgeid">10384</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3611" target="1117">
 <data key="edgeid">10388</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3611" target="3567">
@@ -39741,9 +39741,9 @@
 </edge>
 <edge source="3619" target="3607">
 <data key="edgeid">10427</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3607" target="3608">
@@ -39888,9 +39888,9 @@
 </edge>
 <edge source="3624" target="2047">
 <data key="edgeid">10431</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3624" target="3628">
@@ -39951,9 +39951,9 @@
 </edge>
 <edge source="3625" target="2047">
 <data key="edgeid">10433</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3625" target="3629">
@@ -40000,9 +40000,9 @@
 </edge>
 <edge source="3627" target="2047">
 <data key="edgeid">10437</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3627" target="3631">
@@ -40091,9 +40091,9 @@
 </edge>
 <edge source="3626" target="2047">
 <data key="edgeid">10452</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3626" target="3630">
@@ -40154,9 +40154,9 @@
 </edge>
 <edge source="3633" target="1273">
 <data key="edgeid">10462</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3633" target="3567">
@@ -40182,30 +40182,30 @@
 </edge>
 <edge source="3636" target="3624">
 <data key="edgeid">10475</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3636" target="3625">
 <data key="edgeid">10476</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3636" target="3627">
 <data key="edgeid">10477</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3636" target="3626">
 <data key="edgeid">10478</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3637" target="3567">
@@ -40336,9 +40336,9 @@
 </edge>
 <edge source="3635" target="1117">
 <data key="edgeid">10522</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3646" target="3652">
@@ -40441,9 +40441,9 @@
 </edge>
 <edge source="3653" target="1117">
 <data key="edgeid">10542</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3654" target="1117">
@@ -40476,9 +40476,9 @@
 </edge>
 <edge source="3658" target="1117">
 <data key="edgeid">10559</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3658" target="3645">
@@ -40490,9 +40490,9 @@
 </edge>
 <edge source="3650" target="1989">
 <data key="edgeid">10562</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3650" target="3652">
@@ -40581,9 +40581,9 @@
 </edge>
 <edge source="3666" target="1117">
 <data key="edgeid">10582</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="2139" target="1124">
@@ -40658,9 +40658,9 @@
 </edge>
 <edge source="3667" target="3668">
 <data key="edgeid">10589</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3669" target="3670">
@@ -40693,16 +40693,16 @@
 </edge>
 <edge source="3672" target="3663">
 <data key="edgeid">10618</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3663" target="3661">
 <data key="edgeid">10611</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3663" target="3664">
@@ -40826,9 +40826,9 @@
 </edge>
 <edge source="3683" target="1117">
 <data key="edgeid">10664</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3683" target="2139">
@@ -40854,9 +40854,9 @@
 </edge>
 <edge source="3686" target="3679">
 <data key="edgeid">10704</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3687" target="2139">
@@ -40966,9 +40966,9 @@
 </edge>
 <edge source="3679" target="2042">
 <data key="edgeid">10697</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3679" target="3680">
@@ -41106,9 +41106,9 @@
 </edge>
 <edge source="3699" target="1117">
 <data key="edgeid">10731</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3699" target="2139">
@@ -41120,9 +41120,9 @@
 </edge>
 <edge source="3701" target="2042">
 <data key="edgeid">10735</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3701" target="3702">
@@ -41162,16 +41162,16 @@
 </edge>
 <edge source="3703" target="1189">
 <data key="edgeid">10740</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3704" target="1189">
 <data key="edgeid">10745</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3705" target="2043">
@@ -41190,16 +41190,16 @@
 </edge>
 <edge source="3706" target="3701">
 <data key="edgeid">10752</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3696" target="2042">
 <data key="edgeid">10753</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3696" target="3697">
@@ -41337,9 +41337,9 @@
 </edge>
 <edge source="3721" target="3720">
 <data key="edgeid">10771</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3721" target="3763">
@@ -41414,9 +41414,9 @@
 </edge>
 <edge source="3731" target="1117">
 <data key="edgeid">10801</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3731" target="3707">
@@ -41428,9 +41428,9 @@
 </edge>
 <edge source="3732" target="1117">
 <data key="edgeid">10804</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3733" target="3723">
@@ -41673,9 +41673,9 @@
 </edge>
 <edge source="3751" target="3668">
 <data key="edgeid">10851</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3751" target="3744">
@@ -41687,9 +41687,9 @@
 </edge>
 <edge source="3752" target="1117">
 <data key="edgeid">10854</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3753" target="1117">
@@ -41729,9 +41729,9 @@
 </edge>
 <edge source="3756" target="3749">
 <data key="edgeid">10898</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3757" target="3745">
@@ -41750,9 +41750,9 @@
 </edge>
 <edge source="3749" target="3745">
 <data key="edgeid">10891</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3749" target="3750">
@@ -41834,9 +41834,9 @@
 </edge>
 <edge source="3723" target="3717">
 <data key="edgeid">10901</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3723" target="3724">
@@ -41883,9 +41883,9 @@
 </edge>
 <edge source="3716" target="3717">
 <data key="edgeid">10920</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3716" target="3720">
@@ -42205,9 +42205,9 @@
 </edge>
 <edge source="3786" target="3815">
 <data key="edgeid">11118</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3789" target="1293">
@@ -42275,16 +42275,16 @@
 </edge>
 <edge source="3795" target="3000">
 <data key="edgeid">11007</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3796" target="3000">
 <data key="edgeid">11012</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3796" target="3004">
@@ -42345,9 +42345,9 @@
 </edge>
 <edge source="3792" target="3776">
 <data key="edgeid">11024</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3792" target="3793">
@@ -42387,16 +42387,16 @@
 </edge>
 <edge source="3797" target="3792">
 <data key="edgeid">11032</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3798" target="3781">
 <data key="edgeid">11033</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3798" target="3799">
@@ -42464,9 +42464,9 @@
 </edge>
 <edge source="3804" target="1273">
 <data key="edgeid">11053</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3804" target="1293">
@@ -42478,9 +42478,9 @@
 </edge>
 <edge source="3806" target="3784">
 <data key="edgeid">11058</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3806" target="3807">
@@ -42597,9 +42597,9 @@
 </edge>
 <edge source="3783" target="3807">
 <data key="edgeid">11068</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3808" target="1935">
@@ -42611,9 +42611,9 @@
 </edge>
 <edge source="3809" target="1935">
 <data key="edgeid">11072</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3810" target="3784">
@@ -42625,16 +42625,16 @@
 </edge>
 <edge source="3810" target="3806">
 <data key="edgeid">11090</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3811" target="3781">
 <data key="edgeid">11093</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3811" target="3812">
@@ -42681,16 +42681,16 @@
 </edge>
 <edge source="3801" target="1273">
 <data key="edgeid">11101</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3814" target="3787">
 <data key="edgeid">11114</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3814" target="3815">
@@ -42730,16 +42730,16 @@
 </edge>
 <edge source="3817" target="3814">
 <data key="edgeid">11125</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3818" target="3781">
 <data key="edgeid">11126</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3818" target="3819">
@@ -42772,30 +42772,30 @@
 </edge>
 <edge source="3805" target="3798">
 <data key="edgeid">11140</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3805" target="3811">
 <data key="edgeid">11139</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3805" target="3818">
 <data key="edgeid">11141</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3821" target="3791">
 <data key="edgeid">11144</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3821" target="3822">
@@ -42884,9 +42884,9 @@
 </edge>
 <edge source="3825" target="1273">
 <data key="edgeid">11159</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3802" target="1273">
@@ -43486,16 +43486,16 @@
 </edge>
 <edge source="3839" target="1935">
 <data key="edgeid">11286</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3768" target="1117">
 <data key="edgeid">11291</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3768" target="3760">
@@ -43521,9 +43521,9 @@
 </edge>
 <edge source="3844" target="3860">
 <data key="edgeid">11362</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="3845" target="3865">
@@ -43794,9 +43794,9 @@
 </edge>
 <edge source="3851" target="3840">
 <data key="edgeid">11333</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3851" target="3852">
@@ -43850,16 +43850,16 @@
 </edge>
 <edge source="3854" target="1117">
 <data key="edgeid">11341</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3859" target="3843">
 <data key="edgeid">11356</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3859" target="3860">
@@ -43927,16 +43927,16 @@
 </edge>
 <edge source="3863" target="1273">
 <data key="edgeid">11367</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3864" target="1117">
 <data key="edgeid">11371</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3864" target="3844">
@@ -43955,16 +43955,16 @@
 </edge>
 <edge source="3865" target="3859">
 <data key="edgeid">11375</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3866" target="3840">
 <data key="edgeid">11385</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3866" target="3867">
@@ -44032,9 +44032,9 @@
 </edge>
 <edge source="3855" target="1117">
 <data key="edgeid">11394</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3855" target="1293">
@@ -44060,9 +44060,9 @@
 </edge>
 <edge source="3870" target="3840">
 <data key="edgeid">11420</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3870" target="3871">
@@ -44123,9 +44123,9 @@
 </edge>
 <edge source="3874" target="1996">
 <data key="edgeid">11441</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3874" target="2129">
@@ -44137,9 +44137,9 @@
 </edge>
 <edge source="3875" target="3847">
 <data key="edgeid">11444</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3875" target="3876">
@@ -44207,23 +44207,23 @@
 </edge>
 <edge source="3878" target="1935">
 <data key="edgeid">11457</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3879" target="1935">
 <data key="edgeid">11462</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3880" target="1935">
 <data key="edgeid">11465</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3881" target="3847">
@@ -44235,16 +44235,16 @@
 </edge>
 <edge source="3881" target="3875">
 <data key="edgeid">11471</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3882" target="3840">
 <data key="edgeid">11472</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3882" target="3883">
@@ -44319,9 +44319,9 @@
 </edge>
 <edge source="3885" target="1117">
 <data key="edgeid">11480</data>
-<data key="edgelabel">Se da en</data>
+<data key="edgelabel">se da en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se da en</data>
+<data key="RelationshipType">se da en</data>
 <data key="RelationshipTypeId">247</data>
 </edge>
 <edge source="3857" target="1117">
@@ -44340,9 +44340,9 @@
 </edge>
 <edge source="3886" target="1117">
 <data key="edgeid">11503</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3886" target="2046">
@@ -44893,30 +44893,30 @@
 </edge>
 <edge source="3856" target="3851">
 <data key="edgeid">11605</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3856" target="3866">
 <data key="edgeid">11606</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3856" target="3870">
 <data key="edgeid">11604</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3856" target="3882">
 <data key="edgeid">11607</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="2695" target="2793">
@@ -44942,9 +44942,9 @@
 </edge>
 <edge source="2798" target="3000">
 <data key="edgeid">3196</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="3034" target="3029">
@@ -44956,16 +44956,16 @@
 </edge>
 <edge source="3029" target="3000">
 <data key="edgeid">2958</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="2579" target="1160">
 <data key="edgeid">3659</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="2579" target="2793">
@@ -45005,9 +45005,9 @@
 </edge>
 <edge source="1178" target="1117">
 <data key="edgeid">5692</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="1178" target="1152">
@@ -45040,9 +45040,9 @@
 </edge>
 <edge source="3943" target="1160">
 <data key="edgeid">5724</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3943" target="1175">
@@ -45075,9 +45075,9 @@
 </edge>
 <edge source="3945" target="3948">
 <data key="edgeid">5949</data>
-<data key="edgelabel">A costa de</data>
+<data key="edgelabel">a costa de</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">A costa de</data>
+<data key="RelationshipType">a costa de</data>
 <data key="RelationshipTypeId">251</data>
 </edge>
 <edge source="1194" target="1189">
@@ -45103,9 +45103,9 @@
 </edge>
 <edge source="3950" target="1189">
 <data key="edgeid">5907</data>
-<data key="edgelabel">Se firma en</data>
+<data key="edgelabel">se firma en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Se firma en</data>
+<data key="RelationshipType">se firma en</data>
 <data key="RelationshipTypeId">253</data>
 </edge>
 <edge source="506" target="3950">
@@ -45138,72 +45138,72 @@
 </edge>
 <edge source="1179" target="2069">
 <data key="edgeid">5908</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="2067">
 <data key="edgeid">5764</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="1173">
 <data key="edgeid">5810</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="951">
 <data key="edgeid">5798</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="2076">
 <data key="edgeid">5814</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="2082">
 <data key="edgeid">5819</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="2086">
 <data key="edgeid">5820</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="2579">
 <data key="edgeid">5822</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="3943">
 <data key="edgeid">5824</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="1179" target="3946">
 <data key="edgeid">5902</data>
-<data key="edgelabel">En</data>
+<data key="edgelabel">en</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">En</data>
+<data key="RelationshipType">en</data>
 <data key="RelationshipTypeId">264</data>
 </edge>
 <edge source="3946" target="1201">
@@ -45215,9 +45215,9 @@
 </edge>
 <edge source="3946" target="1160">
 <data key="edgeid">5894</data>
-<data key="edgelabel">Dirigida a</data>
+<data key="edgelabel">dirigida a</data>
 <data key="weight">1.0</data>
-<data key="RelationshipType">Dirigida a</data>
+<data key="RelationshipType">dirigida a</data>
 <data key="RelationshipTypeId">260</data>
 </edge>
 <edge source="3946" target="1194">

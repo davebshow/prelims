@@ -1,4 +1,6 @@
+import csv
 import json
+import os
 import pickle
 import random
 
@@ -6,6 +8,51 @@ import random
 def write_schema(graph, filename):
     s = NX2SylvaSchemaConverter(graph)
     s.build_schemas(filename)
+
+
+def write_csvs(graph, node_dir, edge_dir, dest_dir, node_type_attr="type"):
+    nodefiles = os.listdir(node_dir)
+    edgefiles = os.listdir(edge_dir)
+    for nodefile in nodefiles:
+        node_type = nodefile.split("-")[0]
+        full_nodefile = node_dir + '/' + nodefile
+        rows = []
+        with open(full_nodefile, 'r') as f:
+            reader = csv.reader(f)
+            write_attrs = reader.next()
+            rows.append(write_attrs)
+            for node, attrs in graph.nodes(data=True):
+                if attrs[node_type_attr].lower() == node_type:
+                    row = []
+                    for wa in write_attrs:
+                        row.append(attrs.get(wa, "").encode('utf-8'))
+                    rows.append(row)
+        dest = dest_dir + "/nodes/" + nodefile
+        with open(dest, 'w') as f:
+            writer = csv.writer(f)
+            writer.writerows(rows)
+    for edgefile in edgefiles:
+        node_type = edgefile.split("-")[0]
+        full_edgefile = edge_dir + '/' + edgefile
+        rows = []
+        with open(full_edgefile, 'r') as f:
+            reader = csv.reader(f)
+            write_hdr = reader.next()
+            rows.append(write_hdr)
+            write_attrs = write_hdr[-2:]
+            for s, t, attrs in graph.edges(data=True):
+                if attrs[node_type_attr].lower() == node_type:
+                    row = [s, t]
+                    for wa in write_attrs:
+                        row.append(attrs.get(wa, "").encode('utf-8'))
+                    rows.append(row)
+        dest = dest_dir + "/relationships/" + edgefile
+        with open(dest, 'w') as f:
+            writer = csv.writer(f)
+            writer.writerows(rows)
+
+
+
 
  
 class NX2SylvaSchemaConverter(object):

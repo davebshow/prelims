@@ -7,8 +7,8 @@
       <attribute id="3" title="fecha" type="string" />
       <attribute id="4" title="type" type="string" />
       <attribute id="5" title="numero" type="string" />
-      <attribute id="6" title="informacion de venta" type="string" />
-      <attribute id="7" title="fuente" type="string" />
+      <attribute id="6" title="fuente" type="string" />
+      <attribute id="7" title="informacion de venta" type="string" />
       <attribute id="8" title="notas" type="string" />
       <attribute id="9" title="precio" type="string" />
       <attribute id="10" title="tipo de aprobacion" type="string" />
@@ -41,11 +41,10 @@
       </node>
       <node id="2" label="1605-04-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Juan de Montoya': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1605-04-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1605-04-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Juan de Montoya" />
         </attvalues>
       </node>
       <node id="3" label="1599-11-27, 122">
@@ -83,9 +82,8 @@
       </node>
       <node id="7" label="1602-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1602-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1602-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -172,9 +170,8 @@
       </node>
       <node id="20" label="1617-01-27, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-01-27': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-01-27" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -279,9 +276,8 @@
       <node id="35" label="Dedicatoria en El peregrino en su patria">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en El peregrino en su patria" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="36" label="Dadle, senor, las alas y las plumas">
@@ -354,9 +350,8 @@
       <node id="46" label="Dedicatoria en La Florida del Inca">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en La Florida del Inca" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="47" label="Simon Ángel Ufay">
@@ -464,9 +459,8 @@
       </node>
       <node id="62" label="1607-03-07, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1607-03-07': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1607-03-07" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -531,9 +525,8 @@
       </node>
       <node id="71" label="1614-01-01, Thomas Fisher Rare Books Library">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Thomas Fisher Rare Books Library': 1}" />
-          <attvalue for="3" value="{'1614-01-01': 1}" />
+          <attvalue for="6" value="Thomas Fisher Rare Books Library" />
+          <attvalue for="3" value="1614-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -625,9 +618,8 @@
       </node>
       <node id="85" label="1599-03-04, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1599-03-04': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1599-03-04" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -641,9 +633,8 @@
       <node id="87" label="Dedicatoria en Primera parte de la vida del picaro Guzman de Alfarache">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Primera parte de la vida del picaro Guzman de Alfarache" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="88" label="Privilegio/Licencia_Guzman Madrid Varez de Castro 1599">
@@ -1053,11 +1044,10 @@
       </node>
       <node id="146" label="1618-01-01, Biblioteca Complutense">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Miguel Martinez. La calle mayor, a las gradas de San Felipe': 1}" />
-          <attvalue for="7" value="{'Biblioteca Complutense': 1}" />
-          <attvalue for="3" value="{'1618-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Complutense" />
+          <attvalue for="3" value="1618-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Miguel Martinez. La calle mayor, a las gradas de San Felipe" />
         </attvalues>
       </node>
       <node id="147" label="1617-12-12, 196">
@@ -1147,9 +1137,8 @@
       </node>
       <node id="158" label="1616-09-12, University of Kansas">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'University of Kansas': 1}" />
-          <attvalue for="3" value="{'1616-09-12': 1}" />
+          <attvalue for="6" value="University of Kansas" />
+          <attvalue for="3" value="1616-09-12" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1162,9 +1151,8 @@
       </node>
       <node id="160" label="1604-01-01, McMaster University">
         <attvalues>
-          <attvalue for="0" value="{u'Sevilla': 1}" />
-          <attvalue for="7" value="{'McMaster University': 1}" />
-          <attvalue for="3" value="{'1604-01-01': 1}" />
+          <attvalue for="6" value="McMaster University" />
+          <attvalue for="3" value="1604-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1264,9 +1252,8 @@
       </node>
       <node id="174" label="1605-03-29, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1605-03-29': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1605-03-29" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1350,9 +1337,8 @@
       </node>
       <node id="187" label="1605-02-09, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1605-02-09': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1605-02-09" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1367,9 +1353,8 @@
       </node>
       <node id="189" label="1615-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Sevilla': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1615-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1615-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1403,9 +1388,8 @@
       <node id="193" label="Dedicatoria en El ingenioso hidalgo don Quixote de la Mancha">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en El ingenioso hidalgo don Quixote de la Mancha" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="194" label="Francisco de Lyra Varreto">
@@ -1579,20 +1563,18 @@
       </node>
       <node id="220" label="1609-07-24, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Valladolid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Antonio Coello': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1609-07-24': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1609-07-24" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Antonio Coello" />
         </attvalues>
       </node>
       <node id="221" label="1609-07-24, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Valladolid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Antonio Coello': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1609-07-24': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1609-07-24" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Antonio Coello" />
         </attvalues>
       </node>
       <node id="222" label="Comedias I Valladolid Bostillo 1609">
@@ -1634,11 +1616,10 @@
       <node id="227" label="1603-08-26, Dedicatoria en Primera parte de la vida del picaro Guzman de Alfarache Milan">
         <attvalues>
           <attvalue for="0" value="{u'Milan': 1}" />
-          <attvalue for="1" value="{u'Dedicatoria': 1}" />
           <attvalue for="8" value="{'Dedicatoria de los impresores. La misma dedicatoria aparece en Guzman 2 Milan Bordon 1603': 1}" />
           <attvalue for="2" value="{'Dedicatoria en Primera parte de la vida del picaro Guzman de Alfarache Milan': 1}" />
           <attvalue for="3" value="{'1603-08-26': 1}" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="228" label="Juan Luis de la Cerda">
@@ -1678,9 +1659,8 @@
       </node>
       <node id="233" label="1613-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Sevilla': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1613-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1613-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1731,9 +1711,8 @@
       <node id="239" label="Dedicatoria en Letania moral">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Letania moral" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="240" label="Privilegio/Licencia_Novelas Madrid Cuesta 1613">
@@ -1757,9 +1736,8 @@
       <node id="242" label="Dedicatoria en Novelas ejemplares">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Novelas ejemplares" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="243" label="Si en el moral ejemplo, y dulce aviso">
@@ -1796,9 +1774,8 @@
       </node>
       <node id="248" label="1614-01-11, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Pamplona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1614-01-11': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1614-01-11" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1842,9 +1819,8 @@
       </node>
       <node id="254" label="1614-05-10, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1614-05-10': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1614-05-10" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1953,9 +1929,8 @@
       </node>
       <node id="269" label="1612-10-11, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Toledo': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1612-10-11': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1612-10-11" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -1968,9 +1943,8 @@
       <node id="271" label="Dedicatoria en Primera parte del romancero espiritual, en gracia de los esclavos del Santismo Sacramento, para cantar, cuando se muestra descubierto">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Primera parte del romancero espiritual, en gracia de los esclavos del Santismo Sacramento, para cantar, cuando se muestra descubierto" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="272" label="1612-10-11">
@@ -2033,9 +2007,8 @@
       </node>
       <node id="280" label="1611-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Milan': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1611-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1611-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2049,9 +2022,8 @@
       <node id="282" label="Dedicatoria en Rimas Milan">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Rimas Milan" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del impresor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="283" label="Licencia_Rimas Milan Bordon 1611">
@@ -2296,9 +2268,8 @@
       </node>
       <node id="320" label="1603-08-26, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Milan': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1603-08-26': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1603-08-26" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2330,8 +2301,7 @@
       <node id="325" label="Dedicatoria en Segunda parte de la vida del picaro Guzman de Alfarache">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Segunda parte de la vida del picaro Guzman de Alfarache" />
-          <attvalue for="4" value="Documento" />
-          <attvalue for="1" value="Dedicatoria" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="326" label="Privilegio/Licencia_Relacion Zaragoza Larombe 1617">
@@ -2346,16 +2316,14 @@
       <node id="327" label="Dedicatoria en Relacion de la persecucion que hubo estos anos contra la iglesia de Japon y los ministros de ella">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Relacion de la persecucion que hubo estos anos contra la iglesia de Japon y los ministros de ella" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del mercador de libros" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="328" label="1603-02-26, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1603-02-26': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1603-02-26" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2407,9 +2375,8 @@
       </node>
       <node id="335" label="1602-08, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1602-08': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1602-08" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2439,9 +2406,8 @@
       </node>
       <node id="339" label="1617-04-18, Biblioteca Nacional de Portugal">
         <attvalues>
-          <attvalue for="0" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Portugal': 1}" />
-          <attvalue for="3" value="{'1617-04-18': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Portugal" />
+          <attvalue for="3" value="1617-04-18" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2467,9 +2433,8 @@
       </node>
       <node id="342" label="1615-03-23, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1615-03-23': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1615-03-23" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2500,11 +2465,10 @@
       </node>
       <node id="347" label="1605-07-14, D.B. Weldon Library. Ref. Comedias de Lope de Vega">
         <attvalues>
-          <attvalue for="0" value="{u'Valladolid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Alonso Perez y Antonio Cuello': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library. Ref. Comedias de Lope de Vega': 1}" />
-          <attvalue for="3" value="{'1605-07-14': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library. Ref. Comedias de Lope de Vega" />
+          <attvalue for="3" value="1605-07-14" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Alonso Perez y Antonio Cuello" />
         </attvalues>
       </node>
       <node id="348" label="1605-07-14">
@@ -2519,9 +2483,8 @@
       <node id="349" label="Dedicatoria en Las comedias del famoso poeta Lope de Vega Carpio Lisboa">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Las comedias del famoso poeta Lope de Vega Carpio Lisboa" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del mercador de libros" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="350" label="Comedias I Valladolid Bostillo 1605">
@@ -2545,9 +2508,8 @@
       <node id="352" label="Dedicatoria en Las comedias del famoso poeta Lope de Vega Carpio Valencia">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Las comedias del famoso poeta Lope de Vega Carpio Valencia" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del mercador de libros" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="353" label="Comedias I Valencia Leget 1605">
@@ -2560,9 +2522,8 @@
       </node>
       <node id="354" label="1605-01-01, D.B. Weldon Library. Ref. Comedias de Lope de Vega">
         <attvalues>
-          <attvalue for="0" value="{u'Valencia': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library. Ref. Comedias de Lope de Vega': 1}" />
-          <attvalue for="3" value="{'1605-01-01': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library. Ref. Comedias de Lope de Vega" />
+          <attvalue for="3" value="1605-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2576,19 +2537,17 @@
       </node>
       <node id="356" label="1607-01-01, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Amberes': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1607-01-01': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1607-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
       <node id="357" label="1613-08-12, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en la casa de Francisco de Robles': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1613-08-12': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1613-08-12" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en la casa de Francisco de Robles" />
         </attvalues>
       </node>
       <node id="358" label="Novelas Madrid Cuesta 1613">
@@ -2679,18 +2638,16 @@
       </node>
       <node id="368" label="1615-08-01, Dedicatoria en Novelas ejemplares Milan">
         <attvalues>
-          <attvalue for="1" value="Dedicatoria" />
-          <attvalue for="8" value="dedicatoria del mercador de libros" />
           <attvalue for="2" value="Dedicatoria en Novelas ejemplares Milan" />
           <attvalue for="3" value="1615-08-01" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
+          <attvalue for="8" value="dedicatoria del mercador de libros" />
         </attvalues>
       </node>
       <node id="369" label="1615-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Milan': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1615-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1615-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2703,9 +2660,8 @@
       </node>
       <node id="371" label="1617-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Pamplona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2718,9 +2674,8 @@
       </node>
       <node id="373" label="1615-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Pamplona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1615-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1615-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2733,11 +2688,10 @@
       </node>
       <node id="375" label="1617-09-24, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en la casa de Francisco de Robles': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-09-24': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-09-24" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en la casa de Francisco de Robles" />
         </attvalues>
       </node>
       <node id="376" label="Novelas Madrid Cuesta 1617">
@@ -2749,9 +2703,8 @@
       </node>
       <node id="377" label="1604-02-27, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Sevilla': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1604-02-27': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1604-02-27" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2779,11 +2732,10 @@
       </node>
       <node id="381" label="1608-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="6" value="{'Al Ãguila de oro, cerca del Palacio': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1608-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1608-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Al Ãguila de oro, cerca del Palacio" />
         </attvalues>
       </node>
       <node id="382" label="Peregrino Bruselas Velpius 1608">
@@ -2906,9 +2858,8 @@
       </node>
       <node id="400" label="1605-03-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1605-03-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1605-03-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -2966,11 +2917,10 @@
       </node>
       <node id="408" label="1617-11-16, Trent University">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en la casa de Santa Cruz': 1}" />
-          <attvalue for="7" value="{'Trent University': 1}" />
-          <attvalue for="3" value="{'1617-11-16': 1}" />
+          <attvalue for="6" value="Trent University" />
+          <attvalue for="3" value="1617-11-16" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en la casa de Santa Cruz" />
         </attvalues>
       </node>
       <node id="409" label="Privilegio/Licencia_Miscelanea Lima Ricardo 1602/1603">
@@ -2990,9 +2940,8 @@
       </node>
       <node id="411" label="1603-11-29, Brown University">
         <attvalues>
-          <attvalue for="0" value="{u'Lima': 1}" />
-          <attvalue for="7" value="{'Brown University': 1}" />
-          <attvalue for="3" value="{'1603-11-29': 1}" />
+          <attvalue for="6" value="Brown University" />
+          <attvalue for="3" value="1603-11-29" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3055,11 +3004,10 @@
       <node id="419" label="1601-09-06, Dedicatoria en Primera parte de la miscelanea austral con la Defensa de damas">
         <attvalues>
           <attvalue for="0" value="{u'La Paz': 1}" />
-          <attvalue for="1" value="{u'Dedicatoria': 1}" />
           <attvalue for="8" value="{'dedicatoria del autor': 1}" />
           <attvalue for="2" value="{'Dedicatoria en Primera parte de la miscelanea austral con la Defensa de damas': 1}" />
           <attvalue for="3" value="{'1601-09-06': 1}" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="420" label="Orden de San Agustin">
@@ -3251,9 +3199,8 @@
       </node>
       <node id="447" label="1607-07-17, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1607-07-17': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1607-07-17" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3306,9 +3253,8 @@
       <node id="454" label="Dedicatoria en Las comedias del famoso poeta Lope de Vega Carpio Valladolid">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Las comedias del famoso poeta Lope de Vega Carpio Valladolid" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del mercador de libros" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="455" label="Licencia_Comedias I Valladolid Sanchez 1604">
@@ -3321,11 +3267,10 @@
       </node>
       <node id="456" label="1605-01-01, Biblioteca Nacional de Portugal">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Estevao Lopez y la capilla del Rey': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Portugal': 1}" />
-          <attvalue for="3" value="{'1605-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Portugal" />
+          <attvalue for="3" value="1605-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Estevao Lopez y la capilla del Rey" />
         </attvalues>
       </node>
       <node id="457" label="Comedias I Lisboa Rodriguez 1605">
@@ -3386,9 +3331,8 @@
       </node>
       <node id="464" label="1617-01-21, University of Kansas">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'University of Kansas': 1}" />
-          <attvalue for="3" value="{'1617-01-21': 1}" />
+          <attvalue for="6" value="University of Kansas" />
+          <attvalue for="3" value="1617-01-21" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3445,9 +3389,8 @@
       </node>
       <node id="473" label="1601-01-01, University of Alberta">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'University of Alberta': 1}" />
-          <attvalue for="3" value="{'1601-01-01': 1}" />
+          <attvalue for="6" value="University of Alberta" />
+          <attvalue for="3" value="1601-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3466,9 +3409,8 @@
       </node>
       <node id="476" label="1600-01-18, Biblioteca Nacional de Portugal">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Portugal': 1}" />
-          <attvalue for="3" value="{'1600-01-18': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Portugal" />
+          <attvalue for="3" value="1600-01-18" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3527,11 +3469,10 @@
       </node>
       <node id="484" label="1604-07-28, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Valladolid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Alonso Perez': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1604-07-28': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1604-07-28" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Alonso Perez" />
         </attvalues>
       </node>
       <node id="485" label="Comedias I Valladolid Sanchez 1604">
@@ -3563,9 +3504,8 @@
       <node id="488" label="Dedicatoria en Las comedias del famoso poeta Lope de Vega Carpio Zaragoza">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Las comedias del famoso poeta Lope de Vega Carpio Zaragoza" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del impresor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="489" label="Licencia_Comedias I Zaragoza Tavanno 1604">
@@ -3592,9 +3532,8 @@
       </node>
       <node id="492" label="1604-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1604-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1604-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3665,9 +3604,8 @@
       </node>
       <node id="503" label="1617-11-17, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Pamplona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-11-17': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-11-17" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3736,9 +3674,8 @@
       </node>
       <node id="514" label="1605-01-01, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1605-01-01': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1605-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3880,9 +3817,8 @@
       </node>
       <node id="533" label="1614-11-17, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1614-11-17': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1614-11-17" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -3898,9 +3834,8 @@
       <node id="535" label="Dedicatoria en Viaje del Parnaso">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Viaje del Parnaso" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="A V.M. Se supone que esto quiere decir a Rodrigo de Tapia" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="536" label="Juan de Arguijo">
@@ -3981,9 +3916,8 @@
       </node>
       <node id="548" label="1618-01-12, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1618-01-12': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1618-01-12" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -4177,17 +4111,15 @@
       </node>
       <node id="577" label="1611-01-01, D.B. Weldon Library. Ref. Comedias de Lope de Vega">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library. Ref. Comedias de Lope de Vega': 1}" />
-          <attvalue for="3" value="{'1611-01-01': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library. Ref. Comedias de Lope de Vega" />
+          <attvalue for="3" value="1611-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
       <node id="578" label="1611-01-01, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Amberes': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1611-01-01': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1611-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -4217,11 +4149,10 @@
       </node>
       <node id="582" label="1612-01-30, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="6" value="{'Vendese en la rua nova, en cas de Manoel Pereira librero': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1612-01-30': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1612-01-30" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en la rua nova, en cas de Manoel Pereira librero" />
         </attvalues>
       </node>
       <node id="583" label="Eclesiastica, de Comedias II">
@@ -4367,11 +4298,10 @@
       </node>
       <node id="602" label="1615-11-05, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en la casa de Francisco de Robles': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1615-11-05': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1615-11-05" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en la casa de Francisco de Robles" />
         </attvalues>
       </node>
       <node id="603" label="Geronimo Velez de Guevara">
@@ -4383,11 +4313,10 @@
       </node>
       <node id="604" label="1609-02-10, Hathi Trust">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en Toledo en casa de Cristobal de Loarte': 1}" />
-          <attvalue for="7" value="{'Hathi Trust': 1}" />
-          <attvalue for="3" value="{'1609-02-10': 1}" />
+          <attvalue for="6" value="Hathi Trust" />
+          <attvalue for="3" value="1609-02-10" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en Toledo en casa de Cristobal de Loarte" />
         </attvalues>
       </node>
       <node id="605" label="Jerusalen Lisboa Álvarez 1611">
@@ -4554,9 +4483,8 @@
       </node>
       <node id="627" label="1618-03-13, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Najera': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1618-03-13': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1618-03-13" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -4613,11 +4541,10 @@
       </node>
       <node id="634" label="1617-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'en la Plateria': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="en la Plateria" />
         </attvalues>
       </node>
       <node id="635" label="Luis Francisco Calderon">
@@ -4635,8 +4562,7 @@
       <node id="637" label="Dedicatoria en Los trabajos de Persiles y Sigismunda, historia senentrional">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Los trabajos de Persiles y Sigismunda, historia senentrional" />
-          <attvalue for="4" value="Documento" />
-          <attvalue for="1" value="Dedicatoria" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="638" label="en este, o caminante, marmol breve">
@@ -4702,9 +4628,8 @@
       </node>
       <node id="647" label="1618-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1618-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1618-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -4767,8 +4692,7 @@
       <node id="656" label="Dedicatoria en La hermosura de Angelica. Con otras diversas rimas">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en La hermosura de Angelica. Con otras diversas rimas" />
-          <attvalue for="4" value="Documento" />
-          <attvalue for="1" value="Dedicatoria" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="657" label="Pinta, pues eres milagroso Apeles">
@@ -4918,9 +4842,8 @@
       </node>
       <node id="680" label="1604-01-15, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1604-01-15': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1604-01-15" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -4990,19 +4913,17 @@
       </node>
       <node id="691" label="1608-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="6" value="{'en la fuente de oro': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1608-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1608-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="en la fuente de oro" />
         </attvalues>
       </node>
       <node id="692" label="Dedicatoria en Libro de entretenimiento de la picara Justina">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Libro de entretenimiento de la picara Justina" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="693" label="Consejo de Guerra">
@@ -5046,9 +4967,8 @@
       </node>
       <node id="699" label="1617-08-18, Houghton Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Houghton Library': 1}" />
-          <attvalue for="3" value="{'1617-08-18': 1}" />
+          <attvalue for="6" value="Houghton Library" />
+          <attvalue for="3" value="1617-08-18" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -5095,19 +5015,17 @@
       </node>
       <node id="705" label="1611-06-22, D.B. Weldon Library. Ref. Comedias de Lope de Vega">
         <attvalues>
-          <attvalue for="0" value="{u'Valladolid': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library. Ref. Comedias de Lope de Vega': 1}" />
-          <attvalue for="3" value="{'1611-06-22': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library. Ref. Comedias de Lope de Vega" />
+          <attvalue for="3" value="1611-06-22" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
       <node id="706" label="1611-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="6" value="{'Vendese en la misma imprenta': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1611-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1611-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en la misma imprenta" />
         </attvalues>
       </node>
       <node id="707" label="Comedias II Barcelona Cormellas 1611">
@@ -5121,8 +5039,7 @@
       <node id="708" label="Dedicatoria en Segunda parte de las comedias de Lope de Vega Carpio Valladolid">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Segunda parte de las comedias de Lope de Vega Carpio Valladolid" />
-          <attvalue for="4" value="Documento" />
-          <attvalue for="1" value="Dedicatoria" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="709" label="Licencia_Comedias II Valladolid Rueda 1611">
@@ -5373,9 +5290,8 @@
       <node id="745" label="Dedicatoria en Pastores de Belen, prosas, y versos divinos de Lope de Vega Carpio">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Pastores de Belen, prosas, y versos divinos de Lope de Vega Carpio" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="746" label="Gonzalo de Berrio">
@@ -5386,11 +5302,10 @@
       </node>
       <node id="747" label="1618-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="6" value="{'en la Ãguila de oro, cerca de Palacio': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1618-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1618-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="en la Ãguila de oro, cerca de Palacio" />
         </attvalues>
       </node>
       <node id="748" label="Privelegio_Trabajos Pamplona Antonio">
@@ -5504,21 +5419,19 @@
       <node id="764" label="1602-10-20, Dedicatoria en Grandeza mexicana">
         <attvalues>
           <attvalue for="0" value="{u'Mexico': 1}" />
-          <attvalue for="1" value="{u'Dedicatoria': 1}" />
           <attvalue for="8" value="{'dedicatoria del autor/tratado sobre la poesia': 1}" />
           <attvalue for="2" value="{'Dedicatoria en Grandeza mexicana': 1}" />
           <attvalue for="3" value="{'1602-10-20': 1}" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="765" label="1603-09-15, Dedicatoria en Grandeza mexicana">
         <attvalues>
           <attvalue for="0" value="{u'Mexico': 1}" />
-          <attvalue for="1" value="{u'Dedicatoria': 1}" />
           <attvalue for="8" value="{'dedicatoria del autor': 1}" />
           <attvalue for="2" value="{'Dedicatoria en Grandeza mexicana': 1}" />
           <attvalue for="3" value="{'1603-09-15': 1}" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="766" label="Quixote 1 Lisboa Rodriquez 1605">
@@ -5705,9 +5618,8 @@
       <node id="794" label="Dedicatoria en Los mas fieles amantes Leucipe y Clitofonte">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Los mas fieles amantes Leucipe y Clitofonte" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="795" label="Juan de Luna y Mendoza, Marques de Montesclaros">
@@ -5761,9 +5673,8 @@
       <node id="802" label="Dedicatoria en Segunda parte de las comedias de Lope de Vega Carpio Madrid">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Segunda parte de las comedias de Lope de Vega Carpio Madrid" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del mercador de libros" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="803" label="Eclesiastica, de Comedias II">
@@ -5795,9 +5706,8 @@
       </node>
       <node id="806" label="1609-11-18, D.B. Weldon Library. Ref. Comedias de Lope de Vega">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library. Ref. Comedias de Lope de Vega': 1}" />
-          <attvalue for="3" value="{'1609-11-18': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library. Ref. Comedias de Lope de Vega" />
+          <attvalue for="3" value="1609-11-18" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -5850,9 +5760,8 @@
       </node>
       <node id="813" label="1612-11-06, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1612-11-06': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1612-11-06" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -5875,9 +5784,8 @@
       <node id="816" label="Dedicatoria en Espana defendida, poema heroico">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Espana defendida, poema heroico" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="817" label="Consejo de Estado">
@@ -5944,9 +5852,8 @@
       </node>
       <node id="826" label="1607-02-23, Princeton">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Princeton': 1}" />
-          <attvalue for="3" value="{'1607-02-23': 1}" />
+          <attvalue for="6" value="Princeton" />
+          <attvalue for="3" value="1607-02-23" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -5972,9 +5879,8 @@
       <node id="829" label="Dedicatoria en Segunda parte de los conceptos espirituales y morales">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Segunda parte de los conceptos espirituales y morales" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="830" label="Cum tua facta brev nequam celebrare camaena">
@@ -6041,9 +5947,8 @@
       </node>
       <node id="840" label="1617-06-04, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-06-04': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-06-04" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -6055,9 +5960,8 @@
       </node>
       <node id="842" label="1617-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -6199,8 +6103,7 @@
       <node id="859" label="Dedicatoria en El Narciso">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en El Narciso" />
-          <attvalue for="4" value="Documento" />
-          <attvalue for="1" value="Dedicatoria" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="860" label="Viaje del Parnaso">
@@ -6360,9 +6263,8 @@
       <node id="884" label="Dedicatoria en Tragedias de amor">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Tragedias de amor" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="885" label="1607-07-17, 81">
@@ -6470,9 +6372,8 @@
       </node>
       <node id="900" label="1608-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1608-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1608-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -6736,9 +6637,8 @@
       <node id="938" label="Dedicatoria en Relaciones de la vida del escudero Marcos de Obregon">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Relaciones de la vida del escudero Marcos de Obregon" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="939" label="De su rica y fertil vena">
@@ -6838,9 +6738,8 @@
       </node>
       <node id="954" label="1604-12-04, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1604-12-04': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1604-12-04" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -6874,9 +6773,8 @@
       <node id="958" label="Dedicatoria en Segunda parte de la vida de Guzman de Alfarache atalaya de la vida humana">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Segunda parte de la vida de Guzman de Alfarache atalaya de la vida humana" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="959" label="Ya llegas a la cumbre">
@@ -6957,25 +6855,22 @@
       </node>
       <node id="970" label="1604, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Mexico': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1604': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1604" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
       <node id="971" label="1604-01-01, Thomas Fisher Rare Books Library">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Thomas Fisher Rare Books Library': 1}" />
-          <attvalue for="3" value="{'1604-01-01': 1}" />
+          <attvalue for="6" value="Thomas Fisher Rare Books Library" />
+          <attvalue for="3" value="1604-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
       <node id="972" label="1602-11-30, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1602-11-30': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1602-11-30" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7012,9 +6907,8 @@
       <node id="977" label="Dedicatoria en Isidro. Poema castellano">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Isidro. Poema castellano" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor a la muy insigne villa de Madrid. " />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="978" label="Hallo la antiguedad un hablar mudo">
@@ -7049,9 +6943,8 @@
       </node>
       <node id="982" label="1617-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Cordoba': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7165,9 +7058,8 @@
       </node>
       <node id="998" label="1618-03-06, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1618-03-06': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1618-03-06" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7282,9 +7174,8 @@
       </node>
       <node id="1015" label="1618-07-24, British Museum">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'British Museum': 1}" />
-          <attvalue for="3" value="{'1618-07-24': 1}" />
+          <attvalue for="6" value="British Museum" />
+          <attvalue for="3" value="1618-07-24" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7310,11 +7201,10 @@
       </node>
       <node id="1019" label="1614-05-17, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en la calle mayor en las gradas de S. Felipe': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1614-05-17': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1614-05-17" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en la calle mayor en las gradas de S. Felipe" />
         </attvalues>
       </node>
       <node id="1020" label="Agustin Osorio, Fray">
@@ -7345,16 +7235,14 @@
       <node id="1024" label="Dedicatoria en El viaje entretenido Lerida">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en El viaje entretenido Lerida" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="Dedicatoria del impresor/mercader. dirigida a los ilustres senores Paeres y Consejo de la Ciudad de Lerida" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1025" label="1611-02-04, New York Public Library">
         <attvalues>
-          <attvalue for="0" value="{u'Lerida': 1}" />
-          <attvalue for="7" value="{'New York Public Library': 1}" />
-          <attvalue for="3" value="{'1611-02-04': 1}" />
+          <attvalue for="6" value="New York Public Library" />
+          <attvalue for="3" value="1611-02-04" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7441,9 +7329,8 @@
       <node id="1038" label="Dedicatoria en Siglo de oro en las selvas de Erifile">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Siglo de oro en las selvas de Erifile" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1039" label="De las Indias del Poniente">
@@ -7454,9 +7341,8 @@
       </node>
       <node id="1040" label="1603-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Tarragona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1603-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1603-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7475,9 +7361,8 @@
       </node>
       <node id="1043" label="1600-01-01, Archive.org">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Archive.org': 1}" />
-          <attvalue for="3" value="{'1600-01-01': 1}" />
+          <attvalue for="6" value="Archive.org" />
+          <attvalue for="3" value="1600-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7584,11 +7469,10 @@
       </node>
       <node id="1056" label="1598-11-27, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Juan de Montoya': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1598-11-27': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1598-11-27" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Juan de Montoya" />
         </attvalues>
       </node>
       <node id="1057" label="Luis Rosicler del Carpio">
@@ -7614,9 +7498,8 @@
       <node id="1060" label="Dedicatoria en Arcadia, prosas, y versos de Lope de Vega Carpio">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Arcadia, prosas, y versos de Lope de Vega Carpio" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1061" label="Eclesiastica, de Arcadia, prosas, y versos">
@@ -7649,9 +7532,8 @@
       </node>
       <node id="1064" label="1617-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Anvers': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7677,9 +7559,8 @@
       </node>
       <node id="1067" label="1616-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1616-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1616-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7714,9 +7595,8 @@
       </node>
       <node id="1071" label="1615-06-05, Houghton Library">
         <attvalues>
-          <attvalue for="0" value="{u'Alcala': 1}" />
-          <attvalue for="7" value="{'Houghton Library': 1}" />
-          <attvalue for="3" value="{'1615-06-05': 1}" />
+          <attvalue for="6" value="Houghton Library" />
+          <attvalue for="3" value="1615-06-05" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7759,9 +7639,8 @@
       </node>
       <node id="1078" label="1603-08-26, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Milan': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1603-08-26': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1603-08-26" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -7876,9 +7755,8 @@
       </node>
       <node id="1096" label="1605-03-08, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1605-03-08': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1605-03-08" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -8038,11 +7916,10 @@
       </node>
       <node id="1120" label="1605-01-01, Thomas Fisher Rare Books Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1, u'Barcelona': 1}" />
-          <attvalue for="6" value="{'Al Call. Vendese en la misma imprenta': 1}" />
-          <attvalue for="7" value="{'Thomas Fisher Rare Books Library': 1}" />
-          <attvalue for="3" value="{'1605-01-01': 1}" />
+          <attvalue for="6" value="Thomas Fisher Rare Books Library" />
+          <attvalue for="3" value="1605-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Al Call. Vendese en la misma imprenta" />
         </attvalues>
       </node>
       <node id="1121" label="Dialogos Bruselas Velpius 1610">
@@ -8055,11 +7932,10 @@
       </node>
       <node id="1122" label="1609-01-01, Houghton Library">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="6" value="{'La calle de Pedrixol (imprenta)': 1}" />
-          <attvalue for="7" value="{'Houghton Library': 1}" />
-          <attvalue for="3" value="{'1609-01-01': 1}" />
+          <attvalue for="6" value="Houghton Library" />
+          <attvalue for="3" value="1609-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="La calle de Pedrixol (imprenta)" />
         </attvalues>
       </node>
       <node id="1123" label="Dialogos Barcelona Cormellas 1605">
@@ -8107,17 +7983,15 @@
       </node>
       <node id="1128" label="1610-01-01, Duke University">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Duke University': 1}" />
-          <attvalue for="3" value="{'1610-01-01': 1}" />
+          <attvalue for="6" value="Duke University" />
+          <attvalue for="3" value="1610-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
       <node id="1129" label="1605-01-01, Biblioteca Nacional de Portugal">
         <attvalues>
-          <attvalue for="0" value="{u'Sevilla': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Portugal': 1}" />
-          <attvalue for="3" value="{'1605-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Portugal" />
+          <attvalue for="3" value="1605-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -8171,10 +8045,9 @@
       <node id="1137" label="1605-04-23, Dedicatoria en De la entrada de algunos padres de la Compania de Jesus en la China">
         <attvalues>
           <attvalue for="0" value="{u'Sevilla': 1}" />
-          <attvalue for="1" value="{u'Dedicatoria': 1}" />
           <attvalue for="2" value="{'Dedicatoria en De la entrada de algunos padres de la Compania de Jesus en la China': 1}" />
           <attvalue for="3" value="{'1605-04-23': 1}" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1138" label="entrada Sevilla 1605">
@@ -8187,9 +8060,8 @@
       <node id="1139" label="Dedicatoria en Poema tragico del espanol Gerardo y desengano del amor lascivo">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Poema tragico del espanol Gerardo y desengano del amor lascivo" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1140" label="Luis de Salzedo">
@@ -8406,7 +8278,7 @@
       </node>
       <node id="1170" label="1611-04-14, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="7" value="Biblioteca Nacional de Espana" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
           <attvalue for="3" value="1611-04-14" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
@@ -8433,9 +8305,8 @@
       </node>
       <node id="1174" label="1612-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lerida': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1612-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1612-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -8569,11 +8440,10 @@
       </node>
       <node id="1194" label="1617-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="6" value="{'en la Ãguila de Oro, cerca de Palacio': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="en la Ãguila de Oro, cerca de Palacio" />
         </attvalues>
       </node>
       <node id="1195" label="Quixote 1 Barcelona Sorita 1617">
@@ -8641,11 +8511,10 @@
       </node>
       <node id="1203" label="1603-01-01, Bayerische Staats Bibliothek">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Juan de Montoya': 1}" />
-          <attvalue for="7" value="{'Bayerische Staats Bibliothek': 1}" />
-          <attvalue for="3" value="{'1603-01-01': 1}" />
+          <attvalue for="6" value="Bayerische Staats Bibliothek" />
+          <attvalue for="3" value="1603-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Juan de Montoya" />
         </attvalues>
       </node>
       <node id="1204" label="Isidro Madrid Madrigal 1603">
@@ -8671,9 +8540,8 @@
       </node>
       <node id="1207" label="1607-01-01, University of Wisconsin">
         <attvalues>
-          <attvalue for="0" value="{u'Alcala': 1}" />
-          <attvalue for="7" value="{'University of Wisconsin': 1}" />
-          <attvalue for="3" value="{'1607-01-01': 1}" />
+          <attvalue for="6" value="University of Wisconsin" />
+          <attvalue for="3" value="1607-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -8743,9 +8611,8 @@
       </node>
       <node id="1218" label="1609-09-02, Biblioteca Nacional de Portugal">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Portugal': 1}" />
-          <attvalue for="3" value="{'1609-09-02': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Portugal" />
+          <attvalue for="3" value="1609-09-02" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -8797,9 +8664,8 @@
       </node>
       <node id="1226" label="1614-09-24, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1614-09-24': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1614-09-24" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -8838,9 +8704,8 @@
       </node>
       <node id="1231" label="1615-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lerida': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1615-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1615-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -8886,20 +8751,18 @@
       </node>
       <node id="1238" label="1612-02-09, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Alonso Perez': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1612-02-09': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1612-02-09" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Alonso Perez" />
         </attvalues>
       </node>
       <node id="1239" label="1609-04-01, British Museum">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa del autor, a la moreria vieja': 1}" />
-          <attvalue for="7" value="{'British Museum': 1}" />
-          <attvalue for="3" value="{'1609-04-01': 1}" />
+          <attvalue for="6" value="British Museum" />
+          <attvalue for="3" value="1609-04-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa del autor, a la moreria vieja" />
         </attvalues>
       </node>
       <node id="1240" label="Si tibi ad Arcadici praecurri habitacula pannos">
@@ -9075,9 +8938,8 @@
       </node>
       <node id="1268" label="1604-01-01, Digital Archive">
         <attvalues>
-          <attvalue for="0" value="{u'Mexico': 1}" />
-          <attvalue for="7" value="{'Digital Archive': 1}" />
-          <attvalue for="3" value="{'1604-01-01': 1}" />
+          <attvalue for="6" value="Digital Archive" />
+          <attvalue for="3" value="1604-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -9178,9 +9040,8 @@
       <node id="1281" label="Dedicatoria en Romancero y monstruo imaginado">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Romancero y monstruo imaginado" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1282" label="Ahora en dulce lyra">
@@ -9228,17 +9089,15 @@
       </node>
       <node id="1287" label="1616-06-06, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lerida': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1616-06-06': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1616-06-06" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
       <node id="1288" label="1616-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1616-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1616-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -9262,9 +9121,8 @@
       </node>
       <node id="1292" label="1611-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1611-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1611-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -9289,11 +9147,10 @@
       </node>
       <node id="1296" label="1618-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="6" value="{'en la calle de San Domingo': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1618-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1618-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="en la calle de San Domingo" />
         </attvalues>
       </node>
       <node id="1297" label="Licencia_Sagrario Barcelona 1618">
@@ -9321,9 +9178,8 @@
       <node id="1300" label="Dedicatoria en Sagrio de Toledo, poema heroico">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Sagrio de Toledo, poema heroico" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1301" label="Francisco de Ávila">
@@ -9400,11 +9256,10 @@
       </node>
       <node id="1311" label="1608-06-25, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Francisco de Robles': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1608-06-25': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1608-06-25" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Francisco de Robles" />
         </attvalues>
       </node>
       <node id="1312" label="Huberto Antonio">
@@ -9459,11 +9314,10 @@
       </node>
       <node id="1320" label="1599-04-26, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Juan de Montoya': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1599-04-26': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1599-04-26" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Juan de Montoya" />
         </attvalues>
       </node>
       <node id="1321" label="Isidro Madrid Sanchez 1599">
@@ -9506,9 +9360,8 @@
       <node id="1327" label="Dedicatoria en Primera parte de los comentarios reales">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Primera parte de los comentarios reales" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1328" label="Barrera">
@@ -9570,9 +9423,8 @@
       <node id="1335" label="Dedicatoria en Rimas sacras. Primera parte">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Rimas sacras. Primera parte" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1336" label="1614-09-24, 91">
@@ -9708,11 +9560,10 @@
       <node id="1353" label="1608-12-12, Dedicatoria en Patrona de Madrid restituida">
         <attvalues>
           <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="1" value="{u'Dedicatoria': 1}" />
           <attvalue for="8" value="{'dedicatoria del autor': 1}" />
           <attvalue for="2" value="{'Dedicatoria en Patrona de Madrid restituida': 1}" />
           <attvalue for="3" value="{'1608-12-12': 1}" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1354" label="Privilegio/Licencia_Patrona Madrid Martin 1609">
@@ -9749,9 +9600,8 @@
       <node id="1358" label="Dedicatoria en El pasajero advertencias utilisimas a la vida humana">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en El pasajero advertencias utilisimas a la vida humana" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="A la Republica de Luca" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1359" label="Su´l po gl´amori ardenti">
@@ -9826,9 +9676,8 @@
       </node>
       <node id="1369" label="1618-04-19, Thomas Fisher Rare Books Library">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Thomas Fisher Rare Books Library': 1}" />
-          <attvalue for="3" value="{'1618-04-19': 1}" />
+          <attvalue for="6" value="Thomas Fisher Rare Books Library" />
+          <attvalue for="3" value="1618-04-19" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -9841,9 +9690,8 @@
       <node id="1371" label="Dedicatoria en El viaje entretenido">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en El viaje entretenido" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1372" label="Privilegio/Licencia_Viaje Madrid Imprenta Real 1603">
@@ -9908,11 +9756,10 @@
       </node>
       <node id="1379" label="1603-10-22, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="6" value="{'Vendese en casa de Francisco de  Robles': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1603-10-22': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1603-10-22" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Vendese en casa de Francisco de  Robles" />
         </attvalues>
       </node>
       <node id="1380" label="Erratas_Comedias II Madrid Cuesta 1618">
@@ -9953,9 +9800,8 @@
       <node id="1384" label="Dedicatoria en Segunda parte de las comedias de Lope de Vega Carpio Lisboa">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Segunda parte de las comedias de Lope de Vega Carpio Lisboa" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del mercador de libros" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1385" label="Licencia_Comedias II Lisboa Crasbeeck 1612">
@@ -9969,9 +9815,8 @@
       </node>
       <node id="1386" label="1618-06-25, D.B. Weldon Library">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'D.B. Weldon Library': 1}" />
-          <attvalue for="3" value="{'1618-06-25': 1}" />
+          <attvalue for="6" value="D.B. Weldon Library" />
+          <attvalue for="3" value="1618-06-25" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10000,17 +9845,15 @@
       </node>
       <node id="1390" label="1616-08-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1616-08-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1616-08-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
       <node id="1391" label="1615-10-19, University of Nebraska">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'University of Nebraska': 1}" />
-          <attvalue for="3" value="{'1615-10-19': 1}" />
+          <attvalue for="6" value="University of Nebraska" />
+          <attvalue for="3" value="1615-10-19" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10178,9 +10021,8 @@
       </node>
       <node id="1416" label="1616-02-04, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1616-02-04': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1616-02-04" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10231,9 +10073,8 @@
       <node id="1422" label="Dedicatoria en Segunda parte del ingenioso caballero don Quixote de la Mancha">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Segunda parte del ingenioso caballero don Quixote de la Mancha" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1423" label="Alonso Ordonez de San Pedro">
@@ -10281,9 +10122,8 @@
       </node>
       <node id="1429" label="1609-03-15, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1, u'Toledo': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1609-03-15': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1609-03-15" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10308,8 +10148,7 @@
       <node id="1432" label="Dedicatoria en Al Santisimo Sacramento, en su fiesta">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Al Santisimo Sacramento, en su fiesta" />
-          <attvalue for="4" value="Documento" />
-          <attvalue for="1" value="Dedicatoria" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1433" label="Licencia_Rimas Jauregui Sevilla Lyra 1618">
@@ -10321,9 +10160,8 @@
       </node>
       <node id="1434" label="1600-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1600-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1600-01-01" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10361,9 +10199,8 @@
       </node>
       <node id="1439" label="1599-06-22, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1599-06-22': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1599-06-22" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10413,9 +10250,8 @@
       </node>
       <node id="1446" label="1618-04-09, Hathi Trust">
         <attvalues>
-          <attvalue for="0" value="{u'Sevilla': 1}" />
-          <attvalue for="7" value="{'Hathi Trust': 1}" />
-          <attvalue for="3" value="{'1618-04-09': 1}" />
+          <attvalue for="6" value="Hathi Trust" />
+          <attvalue for="3" value="1618-04-09" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10743,11 +10579,10 @@
       </node>
       <node id="1498" label="1605-01-01, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Anvers': 1}" />
-          <attvalue for="6" value="{'A la ensena de las dos Ciguenas': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1605-01-01': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1605-01-01" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="A la ensena de las dos Ciguenas" />
         </attvalues>
       </node>
       <node id="1499" label="Martin Nucio">
@@ -10774,9 +10609,8 @@
       <node id="1502" label="Dedicatoria en Juegos de Nochebuena moraliazados a la vida de Cristo, martirio de santos, y reformacion de costumbres">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Juegos de Nochebuena moraliazados a la vida de Cristo, martirio de santos, y reformacion de costumbres" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="A la serenisima virgen reina de los engeles y senora nuestra" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1503" label="Juan Lopez">
@@ -10833,9 +10667,8 @@
       </node>
       <node id="1510" label="1613-06-12, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Cordoba': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1613-06-12': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1613-06-12" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10878,9 +10711,8 @@
       </node>
       <node id="1516" label="1617-01-17, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1617-01-17': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1617-01-17" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -10974,11 +10806,10 @@
       </node>
       <node id="1528" label="1600-05-15, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Bruselas': 1}" />
-          <attvalue for="6" value="{'Detras la casa de la Villa (imprenta).': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1600-05-15': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1600-05-15" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Detras la casa de la Villa (imprenta)." />
         </attvalues>
       </node>
       <node id="1529" label="Privilegio_Guzman 1 Bruselas Mommarte 1600">
@@ -11003,11 +10834,10 @@
       </node>
       <node id="1532" label="1600-01-04, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Coimbra': 1}" />
-          <attvalue for="6" value="{'en la oficina de Antonio de Mariz': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1600-01-04': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1600-01-04" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="en la oficina de Antonio de Mariz" />
         </attvalues>
       </node>
       <node id="1533" label="Guzman 1 Coimbra Gomez 1600">
@@ -11044,9 +10874,8 @@
       </node>
       <node id="1538" label="1611-01-14, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1611-01-14': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1611-01-14" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -11100,9 +10929,8 @@
       <node id="1545" label="Dedicatoria en Jerusalen conquistada, epopeya tragica">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en Jerusalen conquistada, epopeya tragica" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1546" label="Sessa Aurunca">
@@ -11124,11 +10952,10 @@
       </node>
       <node id="1549" label="1605-07-18, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Valencia': 1}" />
-          <attvalue for="6" value="{'Jusepe Ferrer. Delante la diputacion.': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1605-07-18': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1605-07-18" />
           <attvalue for="4" value="Impresion" />
+          <attvalue for="7" value="Jusepe Ferrer. Delante la diputacion." />
         </attvalues>
       </node>
       <node id="1550" label="Eclesiastica, El ingenioso hidalgo don Quixote de la Mancha">
@@ -11217,9 +11044,8 @@
       <node id="1563" label="Dedicatoria en El peregrino indiano">
         <attvalues>
           <attvalue for="2" value="Dedicatoria en El peregrino indiano" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
           <attvalue for="8" value="dedicatoria del autor" />
-          <attvalue for="1" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1564" label="Civil, de El peregrino indiano">
@@ -11264,9 +11090,8 @@
       </node>
       <node id="1569" label="1599-03-17, University of Toronto">
         <attvalues>
-          <attvalue for="0" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'University of Toronto': 1}" />
-          <attvalue for="3" value="{'1599-03-17': 1}" />
+          <attvalue for="6" value="University of Toronto" />
+          <attvalue for="3" value="1599-03-17" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -11297,10 +11122,9 @@
       <node id="1573" label="1607-07-15, Dedicatoria en Rimas (Jauregui)">
         <attvalues>
           <attvalue for="0" value="{u'Roma': 1}" />
-          <attvalue for="1" value="{u'Dedicatoria': 1}" />
           <attvalue for="2" value="{'Dedicatoria en Rimas (Jauregui)': 1}" />
           <attvalue for="3" value="{'1607-07-15': 1}" />
-          <attvalue for="4" value="Documento" />
+          <attvalue for="4" value="Dedicatoria" />
         </attvalues>
       </node>
       <node id="1574" label="Barcelona">
@@ -11319,9 +11143,8 @@
       </node>
       <node id="1576" label="1599-04-30, Biblioteca Nacional de Espana">
         <attvalues>
-          <attvalue for="0" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Biblioteca Nacional de Espana': 1}" />
-          <attvalue for="3" value="{'1599-04-30': 1}" />
+          <attvalue for="6" value="Biblioteca Nacional de Espana" />
+          <attvalue for="3" value="1599-04-30" />
           <attvalue for="4" value="Impresion" />
         </attvalues>
       </node>
@@ -11566,7 +11389,7 @@
       <edge id="2" source="0" target="1293" type="documento_edicion" />
       <edge id="3" source="0" target="903" type="documento_lugar" />
       <edge id="4" source="1" target="930" type="edicion_persona" />
-      <edge id="5" source="1" target="1060" type="documento_edicion" />
+      <edge id="5" source="1" target="1060" type="edicion_dedicatoria" />
       <edge id="6" source="1" target="1061" type="documento_edicion" />
       <edge id="7" source="1" target="134" type="edicion_obra" />
       <edge id="8" source="1" target="8" type="edicion_poema" />
@@ -11593,7 +11416,7 @@
       <edge id="29" source="4" target="9" type="documento_edicion" />
       <edge id="30" source="4" target="1173" type="documento_edicion" />
       <edge id="31" source="4" target="1574" type="documento_lugar" />
-      <edge id="32" source="5" target="1060" type="documento_edicion" />
+      <edge id="32" source="5" target="1060" type="edicion_dedicatoria" />
       <edge id="33" source="5" target="1061" type="documento_edicion" />
       <edge id="34" source="5" target="134" type="edicion_obra" />
       <edge id="35" source="5" target="1063" type="documento_edicion" />
@@ -11646,7 +11469,7 @@
       <edge id="82" source="14" target="675" type="persona_institucion" />
       <edge id="83" source="14" target="486" type="documento_persona" />
       <edge id="84" source="14" target="678" type="persona_persona" />
-      <edge id="85" source="15" target="488" type="documento_persona" />
+      <edge id="85" source="15" target="488" type="persona_dedicatoria" />
       <edge id="86" source="15" target="16" type="persona_institucion" />
       <edge id="87" source="15" target="493" type="edicion_persona" />
       <edge id="88" source="16" target="17" type="institucion_lugar" />
@@ -11670,7 +11493,7 @@
       <edge id="106" source="25" target="28" type="persona_persona" />
       <edge id="107" source="26" target="131" type="documento_edicion" />
       <edge id="108" source="26" target="132" type="documento_edicion" />
-      <edge id="109" source="26" target="1422" type="documento_edicion" />
+      <edge id="109" source="26" target="1422" type="edicion_dedicatoria" />
       <edge id="110" source="26" target="600" type="edicion_obra" />
       <edge id="111" source="26" target="686" type="edicion_persona" />
       <edge id="112" source="27" target="392" type="persona_institucion" />
@@ -11689,7 +11512,7 @@
       <edge id="125" source="31" target="1446" type="impresion_lugar" />
       <edge id="126" source="31" target="1129" type="impresion_lugar" />
       <edge id="127" source="31" target="1130" type="documento_lugar" />
-      <edge id="128" source="31" target="1137" type="documento_lugar" />
+      <edge id="128" source="31" target="1137" type="lugar_dedicatoria" />
       <edge id="129" source="31" target="233" type="impresion_lugar" />
       <edge id="130" source="31" target="377" type="impresion_lugar" />
       <edge id="131" source="31" target="189" type="impresion_lugar" />
@@ -11703,9 +11526,9 @@
       <edge id="139" source="34" target="740" type="edicion_poema" />
       <edge id="140" source="34" target="1596" type="poema_persona" />
       <edge id="141" source="34" target="382" type="edicion_poema" />
-      <edge id="142" source="35" target="737" type="documento_persona" />
-      <edge id="143" source="35" target="740" type="documento_edicion" />
-      <edge id="144" source="35" target="382" type="documento_edicion" />
+      <edge id="142" source="35" target="737" type="persona_dedicatoria" />
+      <edge id="143" source="35" target="740" type="edicion_dedicatoria" />
+      <edge id="144" source="35" target="382" type="edicion_dedicatoria" />
       <edge id="145" source="36" target="504" type="poema_persona" />
       <edge id="146" source="36" target="737" type="poema_persona" />
       <edge id="147" source="36" target="740" type="edicion_poema" />
@@ -11723,7 +11546,7 @@
       <edge id="159" source="39" target="1148" type="documento_persona" />
       <edge id="160" source="39" target="1386" type="impresion_persona" />
       <edge id="161" source="39" target="1383" type="documento_persona" />
-      <edge id="162" source="40" target="1281" type="documento_persona" />
+      <edge id="162" source="40" target="1281" type="persona_dedicatoria" />
       <edge id="163" source="40" target="47" type="persona_persona" />
       <edge id="164" source="40" target="177" type="persona_institucion" />
       <edge id="165" source="40" target="1396" type="edicion_persona" />
@@ -11747,18 +11570,18 @@
       <edge id="183" source="43" target="157" type="edicion_persona" />
       <edge id="184" source="43" target="817" type="persona_institucion" />
       <edge id="185" source="43" target="1299" type="edicion_persona" />
-      <edge id="186" source="43" target="1300" type="documento_persona" />
+      <edge id="186" source="43" target="1300" type="persona_dedicatoria" />
       <edge id="187" source="43" target="597" type="persona_persona" />
-      <edge id="188" source="43" target="271" type="documento_persona" />
-      <edge id="189" source="43" target="938" type="documento_persona" />
+      <edge id="188" source="43" target="271" type="persona_dedicatoria" />
+      <edge id="189" source="43" target="938" type="persona_dedicatoria" />
       <edge id="190" source="43" target="1438" type="edicion_persona" />
       <edge id="191" source="44" target="1303" type="documento_lugar" />
       <edge id="192" source="44" target="1429" type="impresion_lugar" />
       <edge id="193" source="44" target="269" type="impresion_lugar" />
       <edge id="194" source="45" target="1097" type="documento_edicion" />
       <edge id="195" source="45" target="762" type="documento_lugar" />
-      <edge id="196" source="46" target="1097" type="documento_edicion" />
-      <edge id="197" source="46" target="1100" type="documento_persona" />
+      <edge id="196" source="46" target="1097" type="edicion_dedicatoria" />
+      <edge id="197" source="46" target="1100" type="persona_dedicatoria" />
       <edge id="198" source="47" target="148" type="documento_persona" />
       <edge id="199" source="47" target="1382" type="documento_persona" />
       <edge id="200" source="47" target="431" type="persona_institucion" />
@@ -11816,7 +11639,7 @@
       <edge id="252" source="62" target="65" type="impresion_lugar" />
       <edge id="253" source="62" target="63" type="edicion_impresion" />
       <edge id="254" source="63" target="64" type="documento_edicion" />
-      <edge id="255" source="63" target="193" type="documento_edicion" />
+      <edge id="255" source="63" target="193" type="edicion_dedicatoria" />
       <edge id="256" source="63" target="511" type="edicion_persona" />
       <edge id="257" source="63" target="767" type="edicion_obra" />
       <edge id="258" source="64" target="800" type="documento_persona" />
@@ -11853,7 +11676,7 @@
       <edge id="289" source="69" target="112" type="documento_edicion" />
       <edge id="290" source="70" target="1462" type="edicion_poema" />
       <edge id="291" source="70" target="71" type="edicion_impresion" />
-      <edge id="292" source="70" target="745" type="documento_edicion" />
+      <edge id="292" source="70" target="745" type="edicion_dedicatoria" />
       <edge id="293" source="70" target="1047" type="edicion_obra" />
       <edge id="294" source="70" target="333" type="edicion_poema" />
       <edge id="295" source="70" target="1469" type="edicion_poema" />
@@ -11918,18 +11741,18 @@
       <edge id="354" source="86" target="1580" type="edicion_poema" />
       <edge id="355" source="86" target="1581" type="documento_edicion" />
       <edge id="356" source="86" target="1582" type="edicion_poema" />
-      <edge id="357" source="86" target="87" type="documento_edicion" />
+      <edge id="357" source="86" target="87" type="edicion_dedicatoria" />
       <edge id="358" source="86" target="88" type="documento_edicion" />
-      <edge id="359" source="87" target="1435" type="documento_edicion" />
-      <edge id="360" source="87" target="1445" type="documento_edicion" />
-      <edge id="361" source="87" target="936" type="documento_edicion" />
-      <edge id="362" source="87" target="1196" type="documento_edicion" />
-      <edge id="363" source="87" target="1042" type="documento_edicion" />
-      <edge id="364" source="87" target="1586" type="documento_persona" />
-      <edge id="365" source="87" target="1045" type="documento_edicion" />
-      <edge id="366" source="87" target="475" type="documento_edicion" />
-      <edge id="367" source="87" target="1533" type="documento_edicion" />
-      <edge id="368" source="87" target="479" type="documento_edicion" />
+      <edge id="359" source="87" target="1435" type="edicion_dedicatoria" />
+      <edge id="360" source="87" target="1445" type="edicion_dedicatoria" />
+      <edge id="361" source="87" target="936" type="edicion_dedicatoria" />
+      <edge id="362" source="87" target="1196" type="edicion_dedicatoria" />
+      <edge id="363" source="87" target="1042" type="edicion_dedicatoria" />
+      <edge id="364" source="87" target="1586" type="persona_dedicatoria" />
+      <edge id="365" source="87" target="1045" type="edicion_dedicatoria" />
+      <edge id="366" source="87" target="475" type="edicion_dedicatoria" />
+      <edge id="367" source="87" target="1533" type="edicion_dedicatoria" />
+      <edge id="368" source="87" target="479" type="edicion_dedicatoria" />
       <edge id="369" source="88" target="1042" type="documento_edicion" />
       <edge id="370" source="88" target="318" type="documento_persona" />
       <edge id="371" source="88" target="314" type="documento_persona" />
@@ -12055,7 +11878,7 @@
       <edge id="491" source="111" target="1173" type="edicion_poema" />
       <edge id="492" source="112" target="417" type="edicion_obra" />
       <edge id="493" source="112" target="1355" type="documento_edicion" />
-      <edge id="494" source="112" target="1358" type="documento_edicion" />
+      <edge id="494" source="112" target="1358" type="edicion_dedicatoria" />
       <edge id="495" source="112" target="406" type="documento_edicion" />
       <edge id="496" source="112" target="407" type="documento_edicion" />
       <edge id="497" source="112" target="408" type="edicion_impresion" />
@@ -12089,7 +11912,7 @@
       <edge id="525" source="118" target="236" type="documento_edicion" />
       <edge id="526" source="118" target="237" type="documento_edicion" />
       <edge id="527" source="118" target="238" type="edicion_poema" />
-      <edge id="528" source="118" target="239" type="documento_edicion" />
+      <edge id="528" source="118" target="239" type="edicion_dedicatoria" />
       <edge id="529" source="118" target="122" type="edicion_persona" />
       <edge id="530" source="119" target="231" type="poema_persona" />
       <edge id="531" source="120" target="121" type="persona_persona" />
@@ -12098,7 +11921,7 @@
       <edge id="534" source="121" target="230" type="poema_persona" />
       <edge id="535" source="121" target="238" type="poema_persona" />
       <edge id="536" source="122" target="238" type="poema_persona" />
-      <edge id="537" source="122" target="239" type="documento_persona" />
+      <edge id="537" source="122" target="239" type="persona_dedicatoria" />
       <edge id="538" source="123" target="1402" type="obra_persona" />
       <edge id="539" source="123" target="1074" type="edicion_obra" />
       <edge id="540" source="123" target="1405" type="edicion_obra" />
@@ -12123,7 +11946,7 @@
       <edge id="559" source="132" target="778" type="documento_lugar" />
       <edge id="560" source="133" target="1056" type="edicion_impresion" />
       <edge id="561" source="133" target="930" type="edicion_persona" />
-      <edge id="562" source="133" target="1060" type="documento_edicion" />
+      <edge id="562" source="133" target="1060" type="edicion_dedicatoria" />
       <edge id="563" source="133" target="1062" type="documento_edicion" />
       <edge id="564" source="133" target="134" type="edicion_obra" />
       <edge id="565" source="133" target="1063" type="documento_edicion" />
@@ -12156,7 +11979,7 @@
       <edge id="592" source="142" target="740" type="edicion_poema" />
       <edge id="593" source="142" target="1598" type="poema_persona" />
       <edge id="594" source="142" target="382" type="edicion_poema" />
-      <edge id="595" source="143" target="938" type="documento_edicion" />
+      <edge id="595" source="143" target="938" type="edicion_dedicatoria" />
       <edge id="596" source="143" target="144" type="edicion_obra" />
       <edge id="597" source="143" target="146" type="edicion_impresion" />
       <edge id="598" source="143" target="147" type="documento_edicion" />
@@ -12279,7 +12102,7 @@
       <edge id="715" source="184" target="515" type="documento_persona" />
       <edge id="716" source="185" target="1555" type="persona_institucion" />
       <edge id="717" source="186" target="192" type="documento_edicion" />
-      <edge id="718" source="186" target="193" type="documento_edicion" />
+      <edge id="718" source="186" target="193" type="edicion_dedicatoria" />
       <edge id="719" source="186" target="767" type="edicion_obra" />
       <edge id="720" source="186" target="187" type="edicion_impresion" />
       <edge id="721" source="186" target="188" type="documento_edicion" />
@@ -12305,12 +12128,12 @@
       <edge id="741" source="192" target="887" type="documento_lugar" />
       <edge id="742" source="192" target="507" type="documento_edicion" />
       <edge id="743" source="192" target="1308" type="documento_edicion" />
-      <edge id="744" source="193" target="1313" type="documento_edicion" />
-      <edge id="745" source="193" target="1195" type="documento_edicion" />
-      <edge id="746" source="193" target="1553" type="documento_edicion" />
-      <edge id="747" source="193" target="511" type="documento_persona" />
-      <edge id="748" source="193" target="507" type="documento_edicion" />
-      <edge id="749" source="193" target="1308" type="documento_edicion" />
+      <edge id="744" source="193" target="1313" type="edicion_dedicatoria" />
+      <edge id="745" source="193" target="1195" type="edicion_dedicatoria" />
+      <edge id="746" source="193" target="1553" type="edicion_dedicatoria" />
+      <edge id="747" source="193" target="511" type="persona_dedicatoria" />
+      <edge id="748" source="193" target="507" type="edicion_dedicatoria" />
+      <edge id="749" source="193" target="1308" type="edicion_dedicatoria" />
       <edge id="750" source="194" target="1446" type="impresion_persona" />
       <edge id="751" source="195" target="1448" type="obra_persona" />
       <edge id="752" source="195" target="1249" type="poema_persona" />
@@ -12406,10 +12229,10 @@
       <edge id="842" source="225" target="350" type="edicion_obra" />
       <edge id="843" source="225" target="1598" type="obra_persona" />
       <edge id="844" source="226" target="1560" type="poema_persona" />
-      <edge id="845" source="227" target="616" type="documento_edicion" />
-      <edge id="846" source="227" target="331" type="documento_edicion" />
-      <edge id="847" source="227" target="613" type="documento_lugar" />
-      <edge id="848" source="227" target="423" type="documento_persona" />
+      <edge id="845" source="227" target="616" type="edicion_dedicatoria" />
+      <edge id="846" source="227" target="331" type="edicion_dedicatoria" />
+      <edge id="847" source="227" target="613" type="lugar_dedicatoria" />
+      <edge id="848" source="227" target="423" type="persona_dedicatoria" />
       <edge id="849" source="228" target="560" type="persona_institucion" />
       <edge id="850" source="228" target="275" type="documento_persona" />
       <edge id="851" source="228" target="1324" type="persona_institucion" />
@@ -12435,15 +12258,15 @@
       <edge id="871" source="241" target="798" type="documento_lugar" />
       <edge id="872" source="241" target="358" type="documento_edicion" />
       <edge id="873" source="241" target="759" type="documento_persona" />
-      <edge id="874" source="242" target="358" type="documento_edicion" />
-      <edge id="875" source="242" target="686" type="documento_persona" />
-      <edge id="876" source="242" target="463" type="documento_edicion" />
-      <edge id="877" source="242" target="370" type="documento_edicion" />
-      <edge id="878" source="242" target="372" type="documento_edicion" />
-      <edge id="879" source="242" target="374" type="documento_edicion" />
-      <edge id="880" source="242" target="247" type="documento_edicion" />
-      <edge id="881" source="242" target="376" type="documento_edicion" />
-      <edge id="882" source="242" target="253" type="documento_edicion" />
+      <edge id="874" source="242" target="358" type="edicion_dedicatoria" />
+      <edge id="875" source="242" target="686" type="persona_dedicatoria" />
+      <edge id="876" source="242" target="463" type="edicion_dedicatoria" />
+      <edge id="877" source="242" target="370" type="edicion_dedicatoria" />
+      <edge id="878" source="242" target="372" type="edicion_dedicatoria" />
+      <edge id="879" source="242" target="374" type="edicion_dedicatoria" />
+      <edge id="880" source="242" target="247" type="edicion_dedicatoria" />
+      <edge id="881" source="242" target="376" type="edicion_dedicatoria" />
+      <edge id="882" source="242" target="253" type="edicion_dedicatoria" />
       <edge id="883" source="243" target="358" type="edicion_poema" />
       <edge id="884" source="243" target="247" type="edicion_poema" />
       <edge id="885" source="243" target="370" type="edicion_poema" />
@@ -12507,7 +12330,7 @@
       <edge id="943" source="257" target="369" type="impresion_persona" />
       <edge id="944" source="258" target="283" type="documento_persona" />
       <edge id="945" source="258" target="367" type="documento_persona" />
-      <edge id="946" source="259" target="368" type="documento_persona" />
+      <edge id="946" source="259" target="368" type="persona_dedicatoria" />
       <edge id="947" source="260" target="722" type="poema_persona" />
       <edge id="948" source="260" target="725" type="poema_persona" />
       <edge id="949" source="260" target="1598" type="persona_persona" />
@@ -12536,7 +12359,7 @@
       <edge id="972" source="270" target="904" type="poema_persona" />
       <edge id="973" source="270" target="1198" type="poema_persona" />
       <edge id="974" source="270" target="815" type="edicion_poema" />
-      <edge id="975" source="271" target="815" type="documento_edicion" />
+      <edge id="975" source="271" target="815" type="edicion_dedicatoria" />
       <edge id="976" source="272" target="992" type="documento_persona" />
       <edge id="977" source="272" target="798" type="documento_lugar" />
       <edge id="978" source="272" target="815" type="documento_edicion" />
@@ -12546,13 +12369,13 @@
       <edge id="982" source="274" target="1346" type="documento_edicion" />
       <edge id="983" source="274" target="1345" type="documento_edicion" />
       <edge id="984" source="274" target="1355" type="documento_edicion" />
-      <edge id="985" source="274" target="1358" type="documento_edicion" />
+      <edge id="985" source="274" target="1358" type="edicion_dedicatoria" />
       <edge id="986" source="274" target="406" type="documento_edicion" />
       <edge id="987" source="274" target="407" type="documento_edicion" />
       <edge id="988" source="274" target="1369" type="edicion_impresion" />
       <edge id="989" source="275" target="1524" type="documento_edicion" />
       <edge id="990" source="276" target="285" type="poema_persona" />
-      <edge id="991" source="277" target="282" type="documento_persona" />
+      <edge id="991" source="277" target="282" type="persona_dedicatoria" />
       <edge id="992" source="278" target="1113" type="poema_persona" />
       <edge id="993" source="279" target="1112" type="poema_persona" />
       <edge id="994" source="280" target="281" type="edicion_impresion" />
@@ -12565,7 +12388,7 @@
       <edge id="1001" source="281" target="1109" type="edicion_poema" />
       <edge id="1002" source="281" target="1110" type="edicion_poema" />
       <edge id="1003" source="281" target="1113" type="edicion_poema" />
-      <edge id="1004" source="281" target="282" type="documento_edicion" />
+      <edge id="1004" source="281" target="282" type="edicion_dedicatoria" />
       <edge id="1005" source="281" target="1115" type="edicion_poema" />
       <edge id="1006" source="281" target="284" type="edicion_poema" />
       <edge id="1007" source="281" target="1114" type="edicion_poema" />
@@ -12590,8 +12413,8 @@
       <edge id="1026" source="294" target="970" type="impresion_lugar" />
       <edge id="1027" source="294" target="1455" type="institucion_lugar" />
       <edge id="1028" source="294" target="1268" type="impresion_lugar" />
-      <edge id="1029" source="294" target="764" type="documento_lugar" />
-      <edge id="1030" source="294" target="765" type="documento_lugar" />
+      <edge id="1029" source="294" target="764" type="lugar_dedicatoria" />
+      <edge id="1030" source="294" target="765" type="lugar_dedicatoria" />
       <edge id="1031" source="295" target="767" type="edicion_obra" />
       <edge id="1032" source="296" target="297" type="institucion_lugar" />
       <edge id="1033" source="297" target="524" type="documento_lugar" />
@@ -12639,17 +12462,17 @@
       <edge id="1075" source="324" target="1011" type="documento_edicion" />
       <edge id="1076" source="324" target="445" type="documento_persona" />
       <edge id="1077" source="324" target="1574" type="documento_lugar" />
-      <edge id="1078" source="325" target="336" type="documento_edicion" />
-      <edge id="1079" source="325" target="673" type="documento_edicion" />
-      <edge id="1080" source="325" target="1435" type="documento_edicion" />
-      <edge id="1081" source="325" target="995" type="documento_persona" />
-      <edge id="1082" source="325" target="1011" type="documento_edicion" />
+      <edge id="1078" source="325" target="336" type="edicion_dedicatoria" />
+      <edge id="1079" source="325" target="673" type="edicion_dedicatoria" />
+      <edge id="1080" source="325" target="1435" type="edicion_dedicatoria" />
+      <edge id="1081" source="325" target="995" type="persona_dedicatoria" />
+      <edge id="1082" source="325" target="1011" type="edicion_dedicatoria" />
       <edge id="1083" source="326" target="1016" type="documento_persona" />
       <edge id="1084" source="326" target="329" type="documento_edicion" />
       <edge id="1085" source="326" target="442" type="documento_persona" />
       <edge id="1086" source="326" target="676" type="documento_lugar" />
-      <edge id="1087" source="327" target="329" type="documento_edicion" />
-      <edge id="1088" source="327" target="550" type="documento_persona" />
+      <edge id="1087" source="327" target="329" type="edicion_dedicatoria" />
+      <edge id="1088" source="327" target="550" type="persona_dedicatoria" />
       <edge id="1089" source="328" target="336" type="edicion_impresion" />
       <edge id="1090" source="328" target="762" type="impresion_lugar" />
       <edge id="1091" source="328" target="758" type="impresion_persona" />
@@ -12711,7 +12534,7 @@
       <edge id="1147" source="344" target="855" type="documento_edicion" />
       <edge id="1148" source="344" target="856" type="documento_edicion" />
       <edge id="1149" source="344" target="857" type="edicion_obra" />
-      <edge id="1150" source="344" target="1139" type="documento_edicion" />
+      <edge id="1150" source="344" target="1139" type="edicion_dedicatoria" />
       <edge id="1151" source="344" target="1150" type="edicion_poema" />
       <edge id="1152" source="344" target="1151" type="edicion_poema" />
       <edge id="1153" source="345" target="960" type="poema_persona" />
@@ -12724,25 +12547,25 @@
       <edge id="1160" source="348" target="992" type="documento_persona" />
       <edge id="1161" source="348" target="350" type="documento_edicion" />
       <edge id="1162" source="348" target="887" type="documento_lugar" />
-      <edge id="1163" source="349" target="457" type="documento_edicion" />
-      <edge id="1164" source="349" target="390" type="documento_persona" />
+      <edge id="1163" source="349" target="457" type="edicion_dedicatoria" />
+      <edge id="1164" source="349" target="390" type="persona_dedicatoria" />
       <edge id="1165" source="350" target="461" type="documento_edicion" />
-      <edge id="1166" source="350" target="454" type="documento_edicion" />
+      <edge id="1166" source="350" target="454" type="edicion_dedicatoria" />
       <edge id="1167" source="350" target="387" type="edicion_persona" />
       <edge id="1168" source="350" target="458" type="documento_edicion" />
       <edge id="1169" source="351" target="392" type="documento_persona" />
       <edge id="1170" source="351" target="353" type="documento_edicion" />
       <edge id="1171" source="351" target="778" type="documento_lugar" />
       <edge id="1172" source="351" target="1223" type="documento_persona" />
-      <edge id="1173" source="352" target="353" type="documento_edicion" />
-      <edge id="1174" source="352" target="389" type="documento_persona" />
+      <edge id="1173" source="352" target="353" type="edicion_dedicatoria" />
+      <edge id="1174" source="352" target="389" type="persona_dedicatoria" />
       <edge id="1175" source="353" target="354" type="edicion_impresion" />
       <edge id="1176" source="353" target="389" type="edicion_persona" />
       <edge id="1177" source="354" target="778" type="impresion_lugar" />
       <edge id="1178" source="354" target="388" type="impresion_persona" />
       <edge id="1179" source="354" target="391" type="impresion_persona" />
       <edge id="1180" source="355" target="461" type="documento_edicion" />
-      <edge id="1181" source="355" target="454" type="documento_edicion" />
+      <edge id="1181" source="355" target="454" type="edicion_dedicatoria" />
       <edge id="1182" source="355" target="387" type="edicion_persona" />
       <edge id="1183" source="355" target="356" type="edicion_impresion" />
       <edge id="1184" source="356" target="1499" type="impresion_persona" />
@@ -12784,7 +12607,7 @@
       <edge id="1220" source="366" target="370" type="documento_edicion" />
       <edge id="1221" source="366" target="1579" type="documento_persona" />
       <edge id="1222" source="367" target="370" type="documento_edicion" />
-      <edge id="1223" source="368" target="370" type="documento_edicion" />
+      <edge id="1223" source="368" target="370" type="edicion_dedicatoria" />
       <edge id="1224" source="369" target="370" type="edicion_impresion" />
       <edge id="1225" source="369" target="613" type="impresion_lugar" />
       <edge id="1226" source="371" target="498" type="impresion_persona" />
@@ -12820,7 +12643,7 @@
       <edge id="1256" source="386" target="489" type="documento_persona" />
       <edge id="1257" source="386" target="671" type="persona_persona" />
       <edge id="1258" source="387" target="431" type="persona_institucion" />
-      <edge id="1259" source="387" target="454" type="documento_persona" />
+      <edge id="1259" source="387" target="454" type="persona_dedicatoria" />
       <edge id="1260" source="387" target="485" type="edicion_persona" />
       <edge id="1261" source="390" target="457" type="edicion_persona" />
       <edge id="1262" source="392" target="439" type="persona_persona" />
@@ -12866,7 +12689,7 @@
       <edge id="1302" source="413" target="899" type="documento_edicion" />
       <edge id="1303" source="413" target="667" type="documento_persona" />
       <edge id="1304" source="413" target="670" type="documento_persona" />
-      <edge id="1305" source="414" target="419" type="documento_lugar" />
+      <edge id="1305" source="414" target="419" type="lugar_dedicatoria" />
       <edge id="1306" source="415" target="530" type="documento_lugar" />
       <edge id="1307" source="415" target="899" type="documento_edicion" />
       <edge id="1308" source="415" target="669" type="documento_persona" />
@@ -12877,8 +12700,8 @@
       <edge id="1313" source="418" target="664" type="poema_persona" />
       <edge id="1314" source="418" target="899" type="edicion_poema" />
       <edge id="1315" source="418" target="662" type="poema_persona" />
-      <edge id="1316" source="419" target="899" type="documento_edicion" />
-      <edge id="1317" source="419" target="663" type="documento_persona" />
+      <edge id="1316" source="419" target="899" type="edicion_dedicatoria" />
+      <edge id="1317" source="419" target="663" type="persona_dedicatoria" />
       <edge id="1318" source="420" target="422" type="persona_institucion" />
       <edge id="1319" source="421" target="422" type="persona_institucion" />
       <edge id="1320" source="422" target="1355" type="documento_persona" />
@@ -12974,7 +12797,7 @@
       <edge id="1410" source="450" target="685" type="obra_persona" />
       <edge id="1411" source="451" target="1004" type="documento_edicion" />
       <edge id="1412" source="451" target="686" type="edicion_persona" />
-      <edge id="1413" source="451" target="884" type="documento_edicion" />
+      <edge id="1413" source="451" target="884" type="edicion_dedicatoria" />
       <edge id="1414" source="451" target="885" type="documento_edicion" />
       <edge id="1415" source="451" target="886" type="documento_edicion" />
       <edge id="1416" source="451" target="888" type="documento_edicion" />
@@ -12985,7 +12808,7 @@
       <edge id="1421" source="453" target="457" type="documento_edicion" />
       <edge id="1422" source="453" target="762" type="documento_lugar" />
       <edge id="1423" source="453" target="757" type="documento_persona" />
-      <edge id="1424" source="454" target="485" type="documento_edicion" />
+      <edge id="1424" source="454" target="485" type="edicion_dedicatoria" />
       <edge id="1425" source="455" target="992" type="documento_persona" />
       <edge id="1426" source="455" target="1593" type="documento_persona" />
       <edge id="1427" source="455" target="485" type="documento_edicion" />
@@ -13063,7 +12886,7 @@
       <edge id="1499" source="487" target="676" type="documento_lugar" />
       <edge id="1500" source="487" target="493" type="documento_edicion" />
       <edge id="1501" source="487" target="678" type="documento_persona" />
-      <edge id="1502" source="488" target="493" type="documento_edicion" />
+      <edge id="1502" source="488" target="493" type="edicion_dedicatoria" />
       <edge id="1503" source="489" target="672" type="documento_persona" />
       <edge id="1504" source="489" target="676" type="documento_lugar" />
       <edge id="1505" source="489" target="493" type="documento_edicion" />
@@ -13097,7 +12920,7 @@
       <edge id="1533" source="502" target="847" type="documento_edicion" />
       <edge id="1534" source="502" target="629" type="edicion_poema" />
       <edge id="1535" source="502" target="503" type="edicion_impresion" />
-      <edge id="1536" source="502" target="637" type="documento_edicion" />
+      <edge id="1536" source="502" target="637" type="edicion_dedicatoria" />
       <edge id="1537" source="502" target="638" type="edicion_poema" />
       <edge id="1538" source="505" target="793" type="persona_persona" />
       <edge id="1539" source="505" target="1003" type="persona_institucion" />
@@ -13162,14 +12985,14 @@
       <edge id="1598" source="534" target="800" type="documento_persona" />
       <edge id="1599" source="534" target="861" type="documento_edicion" />
       <edge id="1600" source="534" target="798" type="documento_lugar" />
-      <edge id="1601" source="535" target="861" type="documento_edicion" />
+      <edge id="1601" source="535" target="861" type="edicion_dedicatoria" />
       <edge id="1602" source="536" target="651" type="poema_persona" />
       <edge id="1603" source="536" target="652" type="poema_persona" />
       <edge id="1604" source="536" target="975" type="edicion_persona" />
       <edge id="1605" source="536" target="976" type="edicion_persona" />
       <edge id="1606" source="536" target="658" type="poema_persona" />
       <edge id="1607" source="536" target="1110" type="poema_persona" />
-      <edge id="1608" source="536" target="656" type="documento_persona" />
+      <edge id="1608" source="536" target="656" type="persona_dedicatoria" />
       <edge id="1609" source="536" target="1243" type="poema_persona" />
       <edge id="1610" source="537" target="1186" type="documento_persona" />
       <edge id="1611" source="537" target="1189" type="documento_edicion" />
@@ -13232,7 +13055,7 @@
       <edge id="1668" source="571" target="690" type="edicion_obra" />
       <edge id="1669" source="571" target="572" type="obra_persona" />
       <edge id="1670" source="573" target="690" type="edicion_persona" />
-      <edge id="1671" source="573" target="692" type="documento_persona" />
+      <edge id="1671" source="573" target="692" type="persona_dedicatoria" />
       <edge id="1672" source="573" target="693" type="persona_institucion" />
       <edge id="1673" source="574" target="760" type="documento_persona" />
       <edge id="1674" source="574" target="762" type="documento_lugar" />
@@ -13247,7 +13070,7 @@
       <edge id="1683" source="576" target="580" type="documento_edicion" />
       <edge id="1684" source="576" target="810" type="documento_edicion" />
       <edge id="1685" source="576" target="1388" type="edicion_obra" />
-      <edge id="1686" source="576" target="802" type="documento_edicion" />
+      <edge id="1686" source="576" target="802" type="edicion_dedicatoria" />
       <edge id="1687" source="576" target="590" type="edicion_obra" />
       <edge id="1688" source="576" target="912" type="edicion_persona" />
       <edge id="1689" source="576" target="1269" type="edicion_obra" />
@@ -13267,7 +13090,7 @@
       <edge id="1703" source="581" target="1273" type="edicion_obra" />
       <edge id="1704" source="581" target="582" type="edicion_impresion" />
       <edge id="1705" source="581" target="583" type="documento_edicion" />
-      <edge id="1706" source="581" target="1384" type="documento_edicion" />
+      <edge id="1706" source="581" target="1384" type="edicion_dedicatoria" />
       <edge id="1707" source="581" target="1385" type="documento_edicion" />
       <edge id="1708" source="581" target="1388" type="edicion_obra" />
       <edge id="1709" source="581" target="590" type="edicion_obra" />
@@ -13307,7 +13130,7 @@
       <edge id="1743" source="592" target="965" type="edicion_poema" />
       <edge id="1744" source="592" target="647" type="edicion_impresion" />
       <edge id="1745" source="592" target="648" type="documento_edicion" />
-      <edge id="1746" source="592" target="1139" type="documento_edicion" />
+      <edge id="1746" source="592" target="1139" type="edicion_dedicatoria" />
       <edge id="1747" source="592" target="853" type="documento_edicion" />
       <edge id="1748" source="592" target="857" type="edicion_obra" />
       <edge id="1749" source="592" target="883" type="edicion_persona" />
@@ -13322,7 +13145,7 @@
       <edge id="1758" source="599" target="1420" type="documento_edicion" />
       <edge id="1759" source="599" target="1421" type="documento_edicion" />
       <edge id="1760" source="599" target="686" type="edicion_persona" />
-      <edge id="1761" source="599" target="1422" type="documento_edicion" />
+      <edge id="1761" source="599" target="1422" type="edicion_dedicatoria" />
       <edge id="1762" source="599" target="600" type="edicion_obra" />
       <edge id="1763" source="599" target="601" type="documento_edicion" />
       <edge id="1764" source="599" target="602" type="edicion_impresion" />
@@ -13341,7 +13164,7 @@
       <edge id="1777" source="605" target="1537" type="edicion_poema" />
       <edge id="1778" source="605" target="1538" type="edicion_impresion" />
       <edge id="1779" source="605" target="1544" type="documento_edicion" />
-      <edge id="1780" source="605" target="1545" type="documento_edicion" />
+      <edge id="1780" source="605" target="1545" type="edicion_dedicatoria" />
       <edge id="1781" source="605" target="606" type="edicion_obra" />
       <edge id="1782" source="605" target="1557" type="edicion_persona" />
       <edge id="1783" source="606" target="1598" type="obra_persona" />
@@ -13353,7 +13176,7 @@
       <edge id="1789" source="607" target="1542" type="documento_edicion" />
       <edge id="1790" source="607" target="1543" type="documento_edicion" />
       <edge id="1791" source="607" target="1544" type="documento_edicion" />
-      <edge id="1792" source="607" target="1545" type="documento_edicion" />
+      <edge id="1792" source="607" target="1545" type="edicion_dedicatoria" />
       <edge id="1793" source="607" target="1557" type="edicion_persona" />
       <edge id="1794" source="608" target="1385" type="documento_persona" />
       <edge id="1795" source="609" target="1385" type="documento_persona" />
@@ -13416,10 +13239,10 @@
       <edge id="1852" source="634" target="798" type="impresion_lugar" />
       <edge id="1853" source="634" target="1189" type="edicion_impresion" />
       <edge id="1854" source="635" target="638" type="poema_persona" />
-      <edge id="1855" source="637" target="750" type="documento_edicion" />
-      <edge id="1856" source="637" target="846" type="documento_edicion" />
-      <edge id="1857" source="637" target="686" type="documento_persona" />
-      <edge id="1858" source="637" target="1189" type="documento_edicion" />
+      <edge id="1855" source="637" target="750" type="edicion_dedicatoria" />
+      <edge id="1856" source="637" target="846" type="edicion_dedicatoria" />
+      <edge id="1857" source="637" target="686" type="persona_dedicatoria" />
+      <edge id="1858" source="637" target="1189" type="edicion_dedicatoria" />
       <edge id="1859" source="638" target="1189" type="edicion_poema" />
       <edge id="1860" source="638" target="750" type="edicion_poema" />
       <edge id="1861" source="638" target="759" type="poema_persona" />
@@ -13452,8 +13275,8 @@
       <edge id="1888" source="650" target="836" type="edicion_persona" />
       <edge id="1889" source="650" target="970" type="edicion_impresion" />
       <edge id="1890" source="650" target="761" type="edicion_obra" />
-      <edge id="1891" source="650" target="764" type="documento_edicion" />
-      <edge id="1892" source="650" target="765" type="documento_edicion" />
+      <edge id="1891" source="650" target="764" type="edicion_dedicatoria" />
+      <edge id="1892" source="650" target="765" type="edicion_dedicatoria" />
       <edge id="1893" source="651" target="864" type="poema_persona" />
       <edge id="1894" source="651" target="976" type="edicion_poema" />
       <edge id="1895" source="651" target="975" type="edicion_poema" />
@@ -13472,8 +13295,8 @@
       <edge id="1908" source="655" target="865" type="documento_persona" />
       <edge id="1909" source="655" target="1574" type="documento_lugar" />
       <edge id="1910" source="655" target="975" type="documento_edicion" />
-      <edge id="1911" source="656" target="976" type="documento_edicion" />
-      <edge id="1912" source="656" target="975" type="documento_edicion" />
+      <edge id="1911" source="656" target="976" type="edicion_dedicatoria" />
+      <edge id="1912" source="656" target="975" type="edicion_dedicatoria" />
       <edge id="1913" source="657" target="1344" type="poema_persona" />
       <edge id="1914" source="657" target="976" type="edicion_poema" />
       <edge id="1915" source="657" target="1598" type="poema_persona" />
@@ -13513,7 +13336,7 @@
       <edge id="1949" source="684" target="686" type="persona_institucion" />
       <edge id="1950" source="684" target="1167" type="persona_institucion" />
       <edge id="1951" source="686" target="1415" type="edicion_persona" />
-      <edge id="1952" source="686" target="1422" type="documento_persona" />
+      <edge id="1952" source="686" target="1422" type="persona_dedicatoria" />
       <edge id="1953" source="686" target="687" type="persona_institucion" />
       <edge id="1954" source="686" target="1189" type="edicion_persona" />
       <edge id="1955" source="686" target="1191" type="persona_institucion" />
@@ -13521,12 +13344,12 @@
       <edge id="1957" source="686" target="1522" type="edicion_persona" />
       <edge id="1958" source="686" target="942" type="poema_persona" />
       <edge id="1959" source="686" target="943" type="poema_persona" />
-      <edge id="1960" source="686" target="884" type="documento_persona" />
-      <edge id="1961" source="686" target="829" type="documento_persona" />
+      <edge id="1960" source="686" target="884" type="persona_dedicatoria" />
+      <edge id="1961" source="686" target="829" type="persona_dedicatoria" />
       <edge id="1962" source="686" target="1088" type="poema_persona" />
       <edge id="1963" source="686" target="825" type="edicion_persona" />
       <edge id="1964" source="686" target="846" type="edicion_persona" />
-      <edge id="1965" source="686" target="1038" type="documento_persona" />
+      <edge id="1965" source="686" target="1038" type="persona_dedicatoria" />
       <edge id="1966" source="686" target="1263" type="edicion_persona" />
       <edge id="1967" source="686" target="750" type="edicion_persona" />
       <edge id="1968" source="688" target="886" type="documento_persona" />
@@ -13534,14 +13357,14 @@
       <edge id="1970" source="689" target="694" type="documento_persona" />
       <edge id="1971" source="689" target="695" type="documento_persona" />
       <edge id="1972" source="690" target="691" type="edicion_impresion" />
-      <edge id="1973" source="690" target="692" type="documento_edicion" />
+      <edge id="1973" source="690" target="692" type="edicion_dedicatoria" />
       <edge id="1974" source="690" target="1593" type="edicion_persona" />
       <edge id="1975" source="691" target="695" type="impresion_persona" />
       <edge id="1976" source="694" target="1547" type="persona_institucion" />
       <edge id="1977" source="696" target="698" type="edicion_obra" />
       <edge id="1978" source="696" target="697" type="obra_persona" />
-      <edge id="1979" source="696" target="794" type="obra_documento" />
-      <edge id="1980" source="698" target="794" type="documento_edicion" />
+      <edge id="1979" source="696" target="794" type="obra_dedicatoria" />
+      <edge id="1980" source="698" target="794" type="edicion_dedicatoria" />
       <edge id="1981" source="698" target="795" type="edicion_persona" />
       <edge id="1982" source="698" target="799" type="documento_edicion" />
       <edge id="1983" source="698" target="801" type="documento_edicion" />
@@ -13570,7 +13393,7 @@
       <edge id="2006" source="707" target="1276" type="edicion_obra" />
       <edge id="2007" source="707" target="810" type="documento_edicion" />
       <edge id="2008" source="707" target="1388" type="edicion_obra" />
-      <edge id="2009" source="707" target="802" type="documento_edicion" />
+      <edge id="2009" source="707" target="802" type="edicion_dedicatoria" />
       <edge id="2010" source="707" target="1277" type="edicion_obra" />
       <edge id="2011" source="707" target="912" type="edicion_persona" />
       <edge id="2012" source="707" target="1269" type="edicion_obra" />
@@ -13581,9 +13404,9 @@
       <edge id="2017" source="707" target="1274" type="edicion_obra" />
       <edge id="2018" source="707" target="1275" type="edicion_obra" />
       <edge id="2019" source="707" target="1278" type="edicion_obra" />
-      <edge id="2020" source="708" target="913" type="documento_persona" />
-      <edge id="2021" source="708" target="915" type="documento_persona" />
-      <edge id="2022" source="708" target="811" type="documento_edicion" />
+      <edge id="2020" source="708" target="913" type="persona_dedicatoria" />
+      <edge id="2021" source="708" target="915" type="persona_dedicatoria" />
+      <edge id="2022" source="708" target="811" type="edicion_dedicatoria" />
       <edge id="2023" source="709" target="992" type="documento_persona" />
       <edge id="2024" source="709" target="811" type="documento_edicion" />
       <edge id="2025" source="709" target="916" type="documento_persona" />
@@ -13654,8 +13477,8 @@
       <edge id="2090" source="742" target="1599" type="persona_institucion" />
       <edge id="2091" source="743" target="1558" type="poema_persona" />
       <edge id="2092" source="744" target="1241" type="poema_persona" />
-      <edge id="2093" source="745" target="1524" type="documento_edicion" />
-      <edge id="2094" source="745" target="991" type="documento_persona" />
+      <edge id="2093" source="745" target="1524" type="edicion_dedicatoria" />
+      <edge id="2094" source="745" target="991" type="persona_dedicatoria" />
       <edge id="2095" source="746" target="1493" type="poema_persona" />
       <edge id="2096" source="747" target="1312" type="impresion_persona" />
       <edge id="2097" source="747" target="750" type="edicion_impresion" />
@@ -13720,10 +13543,10 @@
       <edge id="2156" source="762" target="763" type="institucion_lugar" />
       <edge id="2157" source="763" target="1413" type="persona_institucion" />
       <edge id="2158" source="763" target="1266" type="persona_institucion" />
-      <edge id="2159" source="764" target="1253" type="documento_persona" />
-      <edge id="2160" source="764" target="1263" type="documento_edicion" />
-      <edge id="2161" source="765" target="836" type="documento_persona" />
-      <edge id="2162" source="765" target="1263" type="documento_edicion" />
+      <edge id="2159" source="764" target="1253" type="persona_dedicatoria" />
+      <edge id="2160" source="764" target="1263" type="edicion_dedicatoria" />
+      <edge id="2161" source="765" target="836" type="persona_dedicatoria" />
+      <edge id="2162" source="765" target="1263" type="edicion_dedicatoria" />
       <edge id="2163" source="766" target="767" type="edicion_obra" />
       <edge id="2164" source="767" target="1313" type="edicion_obra" />
       <edge id="2165" source="767" target="1195" type="edicion_obra" />
@@ -13772,7 +13595,7 @@
       <edge id="2208" source="793" target="1311" type="impresion_persona" />
       <edge id="2209" source="793" target="813" type="impresion_persona" />
       <edge id="2210" source="793" target="1238" type="impresion_persona" />
-      <edge id="2211" source="794" target="795" type="documento_persona" />
+      <edge id="2211" source="794" target="795" type="persona_dedicatoria" />
       <edge id="2212" source="796" target="1600" type="documento_persona" />
       <edge id="2213" source="796" target="1154" type="documento_persona" />
       <edge id="2214" source="796" target="1381" type="documento_persona" />
@@ -13852,7 +13675,7 @@
       <edge id="2288" source="798" target="1348" type="documento_lugar" />
       <edge id="2289" source="798" target="1349" type="documento_lugar" />
       <edge id="2290" source="798" target="1350" type="documento_lugar" />
-      <edge id="2291" source="798" target="1353" type="documento_lugar" />
+      <edge id="2291" source="798" target="1353" type="lugar_dedicatoria" />
       <edge id="2292" source="798" target="1354" type="documento_lugar" />
       <edge id="2293" source="798" target="1355" type="documento_lugar" />
       <edge id="2294" source="798" target="1363" type="documento_lugar" />
@@ -13915,9 +13738,9 @@
       <edge id="2351" source="800" target="1380" type="documento_persona" />
       <edge id="2352" source="800" target="1149" type="documento_persona" />
       <edge id="2353" source="800" target="1206" type="documento_persona" />
-      <edge id="2354" source="802" target="912" type="documento_persona" />
-      <edge id="2355" source="802" target="1387" type="documento_edicion" />
-      <edge id="2356" source="802" target="809" type="documento_edicion" />
+      <edge id="2354" source="802" target="912" type="persona_dedicatoria" />
+      <edge id="2355" source="802" target="1387" type="edicion_dedicatoria" />
+      <edge id="2356" source="802" target="809" type="edicion_dedicatoria" />
       <edge id="2357" source="803" target="809" type="documento_edicion" />
       <edge id="2358" source="803" target="1387" type="documento_edicion" />
       <edge id="2359" source="803" target="811" type="documento_edicion" />
@@ -13963,8 +13786,8 @@
       <edge id="2399" source="814" target="1198" type="obra_persona" />
       <edge id="2400" source="814" target="815" type="edicion_obra" />
       <edge id="2401" source="815" target="937" type="edicion_poema" />
-      <edge id="2402" source="816" target="925" type="documento_persona" />
-      <edge id="2403" source="816" target="927" type="documento_edicion" />
+      <edge id="2402" source="816" target="925" type="persona_dedicatoria" />
+      <edge id="2403" source="816" target="927" type="edicion_dedicatoria" />
       <edge id="2404" source="818" target="932" type="documento_persona" />
       <edge id="2405" source="818" target="927" type="documento_edicion" />
       <edge id="2406" source="819" target="1598" type="documento_persona" />
@@ -13986,7 +13809,7 @@
       <edge id="2422" source="825" target="826" type="edicion_impresion" />
       <edge id="2423" source="825" target="827" type="documento_edicion" />
       <edge id="2424" source="825" target="828" type="documento_edicion" />
-      <edge id="2425" source="825" target="829" type="documento_edicion" />
+      <edge id="2425" source="825" target="829" type="edicion_dedicatoria" />
       <edge id="2426" source="825" target="830" type="edicion_poema" />
       <edge id="2427" source="825" target="831" type="edicion_poema" />
       <edge id="2428" source="826" target="1291" type="impresion_persona" />
@@ -14025,8 +13848,8 @@
       <edge id="2461" source="855" target="1186" type="documento_persona" />
       <edge id="2462" source="858" target="861" type="documento_edicion" />
       <edge id="2463" source="858" target="1198" type="documento_persona" />
-      <edge id="2464" source="859" target="1017" type="documento_edicion" />
-      <edge id="2465" source="859" target="967" type="documento_persona" />
+      <edge id="2464" source="859" target="1017" type="edicion_dedicatoria" />
+      <edge id="2465" source="859" target="967" type="persona_dedicatoria" />
       <edge id="2466" source="860" target="861" type="edicion_obra" />
       <edge id="2467" source="861" target="862" type="edicion_persona" />
       <edge id="2468" source="862" target="874" type="persona_institucion" />
@@ -14047,7 +13870,7 @@
       <edge id="2483" source="881" target="882" type="persona_institucion" />
       <edge id="2484" source="883" target="965" type="poema_persona" />
       <edge id="2485" source="883" target="1007" type="persona_institucion" />
-      <edge id="2486" source="883" target="1139" type="documento_persona" />
+      <edge id="2486" source="883" target="1139" type="persona_dedicatoria" />
       <edge id="2487" source="886" target="887" type="documento_lugar" />
       <edge id="2488" source="887" target="1410" type="institucion_lugar" />
       <edge id="2489" source="887" target="1286" type="documento_lugar" />
@@ -14099,7 +13922,7 @@
       <edge id="2535" source="897" target="1230" type="edicion_poema" />
       <edge id="2536" source="898" target="1027" type="documento_edicion" />
       <edge id="2537" source="898" target="1025" type="edicion_impresion" />
-      <edge id="2538" source="898" target="1024" type="documento_edicion" />
+      <edge id="2538" source="898" target="1024" type="edicion_dedicatoria" />
       <edge id="2539" source="898" target="1370" type="edicion_poema" />
       <edge id="2540" source="898" target="1377" type="edicion_obra" />
       <edge id="2541" source="898" target="1255" type="edicion_poema" />
@@ -14135,7 +13958,7 @@
       <edge id="2571" source="907" target="1035" type="edicion_poema" />
       <edge id="2572" source="907" target="1036" type="edicion_poema" />
       <edge id="2573" source="907" target="1037" type="documento_edicion" />
-      <edge id="2574" source="907" target="1038" type="documento_edicion" />
+      <edge id="2574" source="907" target="1038" type="edicion_dedicatoria" />
       <edge id="2575" source="907" target="1039" type="edicion_poema" />
       <edge id="2576" source="907" target="909" type="documento_edicion" />
       <edge id="2577" source="907" target="1030" type="edicion_poema" />
@@ -14145,7 +13968,7 @@
       <edge id="2581" source="910" target="1594" type="persona_persona" />
       <edge id="2582" source="911" target="912" type="persona_persona" />
       <edge id="2583" source="912" target="1387" type="edicion_persona" />
-      <edge id="2584" source="917" target="1384" type="documento_persona" />
+      <edge id="2584" source="917" target="1384" type="persona_dedicatoria" />
       <edge id="2585" source="921" target="1186" type="documento_persona" />
       <edge id="2586" source="921" target="927" type="documento_edicion" />
       <edge id="2587" source="923" target="1610" type="documento_persona" />
@@ -14157,7 +13980,7 @@
       <edge id="2593" source="927" target="928" type="edicion_obra" />
       <edge id="2594" source="928" target="1610" type="obra_persona" />
       <edge id="2595" source="929" target="930" type="persona_institucion" />
-      <edge id="2596" source="930" target="1060" type="documento_persona" />
+      <edge id="2596" source="930" target="1060" type="persona_dedicatoria" />
       <edge id="2597" source="930" target="1293" type="edicion_persona" />
       <edge id="2598" source="930" target="1171" type="edicion_persona" />
       <edge id="2599" source="930" target="1173" type="edicion_persona" />
@@ -14173,7 +13996,7 @@
       <edge id="2609" source="936" target="1436" type="documento_edicion" />
       <edge id="2610" source="936" target="1439" type="edicion_impresion" />
       <edge id="2611" source="937" target="1198" type="poema_persona" />
-      <edge id="2612" source="938" target="1438" type="documento_edicion" />
+      <edge id="2612" source="938" target="1438" type="edicion_dedicatoria" />
       <edge id="2613" source="939" target="1458" type="poema_persona" />
       <edge id="2614" source="940" target="1339" type="poema_persona" />
       <edge id="2615" source="940" target="1459" type="poema_persona" />
@@ -14204,10 +14027,10 @@
       <edge id="2640" source="953" target="1307" type="edicion_poema" />
       <edge id="2641" source="953" target="1084" type="edicion_persona" />
       <edge id="2642" source="953" target="1309" type="edicion_poema" />
-      <edge id="2643" source="953" target="958" type="documento_edicion" />
+      <edge id="2643" source="953" target="958" type="edicion_dedicatoria" />
       <edge id="2644" source="956" target="1266" type="documento_persona" />
       <edge id="2645" source="957" target="1083" type="documento_persona" />
-      <edge id="2646" source="958" target="1084" type="documento_persona" />
+      <edge id="2646" source="958" target="1084" type="persona_dedicatoria" />
       <edge id="2647" source="961" target="1017" type="documento_edicion" />
       <edge id="2648" source="961" target="1413" type="documento_persona" />
       <edge id="2649" source="962" target="1013" type="documento_persona" />
@@ -14232,9 +14055,9 @@
       <edge id="2668" source="974" target="1204" type="documento_edicion" />
       <edge id="2669" source="974" target="1598" type="documento_persona" />
       <edge id="2670" source="974" target="1321" type="documento_edicion" />
-      <edge id="2671" source="977" target="1201" type="documento_edicion" />
-      <edge id="2672" source="977" target="1204" type="documento_edicion" />
-      <edge id="2673" source="977" target="1321" type="documento_edicion" />
+      <edge id="2671" source="977" target="1201" type="edicion_dedicatoria" />
+      <edge id="2672" source="977" target="1204" type="edicion_dedicatoria" />
+      <edge id="2673" source="977" target="1321" type="edicion_dedicatoria" />
       <edge id="2674" source="978" target="1201" type="edicion_poema" />
       <edge id="2675" source="978" target="1322" type="poema_persona" />
       <edge id="2676" source="978" target="1204" type="edicion_poema" />
@@ -14312,7 +14135,7 @@
       <edge id="2748" source="1016" target="1439" type="impresion_persona" />
       <edge id="2749" source="1018" target="1155" type="edicion_persona" />
       <edge id="2750" source="1018" target="1370" type="edicion_poema" />
-      <edge id="2751" source="1018" target="1371" type="documento_edicion" />
+      <edge id="2751" source="1018" target="1371" type="edicion_dedicatoria" />
       <edge id="2752" source="1018" target="1373" type="documento_edicion" />
       <edge id="2753" source="1018" target="1377" type="edicion_obra" />
       <edge id="2754" source="1018" target="1255" type="edicion_poema" />
@@ -14339,7 +14162,7 @@
       <edge id="2775" source="1022" target="1230" type="edicion_poema" />
       <edge id="2776" source="1023" target="1376" type="edicion_poema" />
       <edge id="2777" source="1023" target="1230" type="edicion_poema" />
-      <edge id="2778" source="1024" target="1230" type="documento_edicion" />
+      <edge id="2778" source="1024" target="1230" type="edicion_dedicatoria" />
       <edge id="2779" source="1025" target="1289" type="impresion_persona" />
       <edge id="2780" source="1025" target="1290" type="impresion_lugar" />
       <edge id="2781" source="1026" target="1290" type="institucion_lugar" />
@@ -14394,9 +14217,9 @@
       <edge id="2830" source="1057" target="1598" type="persona_persona" />
       <edge id="2831" source="1058" target="1257" type="poema_persona" />
       <edge id="2832" source="1058" target="1094" type="poema_persona" />
-      <edge id="2833" source="1060" target="1293" type="documento_edicion" />
-      <edge id="2834" source="1060" target="1171" type="documento_edicion" />
-      <edge id="2835" source="1060" target="1173" type="documento_edicion" />
+      <edge id="2833" source="1060" target="1293" type="edicion_dedicatoria" />
+      <edge id="2834" source="1060" target="1171" type="edicion_dedicatoria" />
+      <edge id="2835" source="1060" target="1173" type="edicion_dedicatoria" />
       <edge id="2836" source="1061" target="1293" type="documento_edicion" />
       <edge id="2837" source="1061" target="1171" type="documento_edicion" />
       <edge id="2838" source="1061" target="1173" type="documento_edicion" />
@@ -14496,7 +14319,7 @@
       <edge id="2932" source="1117" target="1228" type="documento_edicion" />
       <edge id="2933" source="1117" target="1340" type="edicion_poema" />
       <edge id="2934" source="1117" target="1334" type="documento_edicion" />
-      <edge id="2935" source="1117" target="1335" type="documento_edicion" />
+      <edge id="2935" source="1117" target="1335" type="edicion_dedicatoria" />
       <edge id="2936" source="1117" target="1336" type="documento_edicion" />
       <edge id="2937" source="1117" target="1337" type="documento_edicion" />
       <edge id="2938" source="1117" target="1338" type="edicion_poema" />
@@ -14525,13 +14348,13 @@
       <edge id="2961" source="1131" target="1159" type="documento_persona" />
       <edge id="2962" source="1131" target="1324" type="persona_institucion" />
       <edge id="2963" source="1131" target="1135" type="obra_persona" />
-      <edge id="2964" source="1132" target="1137" type="documento_persona" />
+      <edge id="2964" source="1132" target="1137" type="persona_dedicatoria" />
       <edge id="2965" source="1132" target="1138" type="edicion_persona" />
-      <edge id="2966" source="1134" target="1137" type="documento_persona" />
+      <edge id="2966" source="1134" target="1137" type="persona_dedicatoria" />
       <edge id="2967" source="1135" target="1138" type="edicion_obra" />
       <edge id="2968" source="1136" target="1324" type="persona_institucion" />
       <edge id="2969" source="1136" target="1159" type="documento_persona" />
-      <edge id="2970" source="1137" target="1138" type="documento_edicion" />
+      <edge id="2970" source="1137" target="1138" type="edicion_dedicatoria" />
       <edge id="2971" source="1138" target="1159" type="documento_edicion" />
       <edge id="2972" source="1140" target="1148" type="documento_persona" />
       <edge id="2973" source="1141" target="1148" type="documento_persona" />
@@ -14550,7 +14373,7 @@
       <edge id="2986" source="1152" target="1445" type="documento_edicion" />
       <edge id="2987" source="1154" target="1156" type="documento_persona" />
       <edge id="2988" source="1155" target="1376" type="edicion_persona" />
-      <edge id="2989" source="1155" target="1371" type="documento_persona" />
+      <edge id="2989" source="1155" target="1371" type="persona_dedicatoria" />
       <edge id="2990" source="1159" target="1160" type="documento_lugar" />
       <edge id="2991" source="1161" target="1162" type="persona_persona" />
       <edge id="2992" source="1163" target="1181" type="persona_institucion" />
@@ -14560,7 +14383,7 @@
       <edge id="2996" source="1165" target="1501" type="documento_edicion" />
       <edge id="2997" source="1165" target="1393" type="edicion_poema" />
       <edge id="2998" source="1165" target="1170" type="edicion_impresion" />
-      <edge id="2999" source="1165" target="1502" type="documento_edicion" />
+      <edge id="2999" source="1165" target="1502" type="edicion_dedicatoria" />
       <edge id="3000" source="1166" target="1339" type="obra_persona" />
       <edge id="3001" source="1167" target="1501" type="documento_persona" />
       <edge id="3002" source="1170" target="1593" type="impresion_persona" />
@@ -14625,7 +14448,7 @@
       <edge id="3061" source="1207" target="1208" type="impresion_persona" />
       <edge id="3062" source="1209" target="1217" type="edicion_persona" />
       <edge id="3063" source="1209" target="1211" type="persona_institucion" />
-      <edge id="3064" source="1209" target="1327" type="documento_persona" />
+      <edge id="3064" source="1209" target="1327" type="persona_dedicatoria" />
       <edge id="3065" source="1210" target="1215" type="persona_institucion" />
       <edge id="3066" source="1212" target="1214" type="obra_persona" />
       <edge id="3067" source="1213" target="1332" type="documento_persona" />
@@ -14634,7 +14457,7 @@
       <edge id="3070" source="1215" target="1521" type="documento_persona" />
       <edge id="3071" source="1216" target="1333" type="documento_persona" />
       <edge id="3072" source="1217" target="1218" type="edicion_impresion" />
-      <edge id="3073" source="1217" target="1327" type="documento_edicion" />
+      <edge id="3073" source="1217" target="1327" type="edicion_dedicatoria" />
       <edge id="3074" source="1217" target="1330" type="documento_edicion" />
       <edge id="3075" source="1217" target="1331" type="documento_edicion" />
       <edge id="3076" source="1217" target="1332" type="documento_edicion" />
@@ -14651,7 +14474,7 @@
       <edge id="3087" source="1224" target="1228" type="documento_persona" />
       <edge id="3088" source="1224" target="1319" type="persona_institucion" />
       <edge id="3089" source="1225" target="1319" type="persona_institucion" />
-      <edge id="3090" source="1225" target="1335" type="documento_persona" />
+      <edge id="3090" source="1225" target="1335" type="persona_dedicatoria" />
       <edge id="3091" source="1226" target="1593" type="impresion_persona" />
       <edge id="3092" source="1229" target="1576" type="impresion_persona" />
       <edge id="3093" source="1230" target="1231" type="edicion_impresion" />
@@ -14676,12 +14499,12 @@
       <edge id="3112" source="1233" target="1349" type="documento_edicion" />
       <edge id="3113" source="1233" target="1350" type="documento_edicion" />
       <edge id="3114" source="1233" target="1352" type="documento_edicion" />
-      <edge id="3115" source="1233" target="1353" type="documento_edicion" />
+      <edge id="3115" source="1233" target="1353" type="edicion_dedicatoria" />
       <edge id="3116" source="1233" target="1354" type="documento_edicion" />
       <edge id="3117" source="1233" target="1234" type="edicion_persona" />
       <edge id="3118" source="1233" target="1239" type="edicion_impresion" />
       <edge id="3119" source="1234" target="1235" type="persona_institucion" />
-      <edge id="3120" source="1234" target="1353" type="documento_persona" />
+      <edge id="3120" source="1234" target="1353" type="persona_dedicatoria" />
       <edge id="3121" source="1235" target="1236" type="institucion_lugar" />
       <edge id="3122" source="1237" target="1347" type="documento_persona" />
       <edge id="3123" source="1238" target="1524" type="edicion_impresion" />
@@ -14697,7 +14520,7 @@
       <edge id="3133" source="1246" target="1447" type="edicion_poema" />
       <edge id="3134" source="1247" target="1483" type="poema_persona" />
       <edge id="3135" source="1247" target="1447" type="edicion_poema" />
-      <edge id="3136" source="1248" target="1573" type="documento_lugar" />
+      <edge id="3136" source="1248" target="1573" type="lugar_dedicatoria" />
       <edge id="3137" source="1249" target="1482" type="poema_persona" />
       <edge id="3138" source="1249" target="1447" type="edicion_poema" />
       <edge id="3139" source="1250" target="1478" type="poema_persona" />
@@ -14750,10 +14573,10 @@
       <edge id="3186" source="1280" target="1397" type="edicion_poema" />
       <edge id="3187" source="1280" target="1398" type="edicion_poema" />
       <edge id="3188" source="1280" target="1399" type="edicion_poema" />
-      <edge id="3189" source="1281" target="1396" type="documento_edicion" />
-      <edge id="3190" source="1281" target="1397" type="documento_edicion" />
-      <edge id="3191" source="1281" target="1398" type="documento_edicion" />
-      <edge id="3192" source="1281" target="1399" type="documento_edicion" />
+      <edge id="3189" source="1281" target="1396" type="edicion_dedicatoria" />
+      <edge id="3190" source="1281" target="1397" type="edicion_dedicatoria" />
+      <edge id="3191" source="1281" target="1398" type="edicion_dedicatoria" />
+      <edge id="3192" source="1281" target="1399" type="edicion_dedicatoria" />
       <edge id="3193" source="1282" target="1395" type="poema_persona" />
       <edge id="3194" source="1282" target="1396" type="edicion_poema" />
       <edge id="3195" source="1282" target="1397" type="edicion_poema" />
@@ -14788,7 +14611,7 @@
       <edge id="3224" source="1296" target="1574" type="impresion_lugar" />
       <edge id="3225" source="1297" target="1299" type="documento_edicion" />
       <edge id="3226" source="1297" target="1574" type="documento_lugar" />
-      <edge id="3227" source="1299" target="1300" type="documento_edicion" />
+      <edge id="3227" source="1299" target="1300" type="edicion_dedicatoria" />
       <edge id="3228" source="1299" target="1302" type="documento_edicion" />
       <edge id="3229" source="1299" target="1303" type="documento_edicion" />
       <edge id="3230" source="1301" target="1405" type="edicion_persona" />
@@ -14841,7 +14664,7 @@
       <edge id="3277" source="1368" target="1424" type="persona_institucion" />
       <edge id="3278" source="1369" target="1574" type="impresion_lugar" />
       <edge id="3279" source="1370" target="1376" type="edicion_poema" />
-      <edge id="3280" source="1371" target="1376" type="documento_edicion" />
+      <edge id="3280" source="1371" target="1376" type="edicion_dedicatoria" />
       <edge id="3281" source="1372" target="1376" type="documento_edicion" />
       <edge id="3282" source="1372" target="1375" type="documento_lugar" />
       <edge id="3283" source="1373" target="1376" type="documento_edicion" />
@@ -14873,18 +14696,18 @@
       <edge id="3309" source="1415" target="1416" type="edicion_impresion" />
       <edge id="3310" source="1415" target="1417" type="documento_edicion" />
       <edge id="3311" source="1415" target="1419" type="documento_edicion" />
-      <edge id="3312" source="1415" target="1422" type="documento_edicion" />
+      <edge id="3312" source="1415" target="1422" type="edicion_dedicatoria" />
       <edge id="3313" source="1417" target="1418" type="documento_persona" />
-      <edge id="3314" source="1422" target="1522" type="documento_edicion" />
+      <edge id="3314" source="1422" target="1522" type="edicion_dedicatoria" />
       <edge id="3315" source="1423" target="1426" type="persona_persona" />
       <edge id="3316" source="1423" target="1430" type="documento_persona" />
-      <edge id="3317" source="1424" target="1432" type="documento_persona" />
+      <edge id="3317" source="1424" target="1432" type="persona_dedicatoria" />
       <edge id="3318" source="1424" target="1427" type="edicion_persona" />
       <edge id="3319" source="1425" target="1427" type="edicion_obra" />
       <edge id="3320" source="1425" target="1428" type="obra_persona" />
       <edge id="3321" source="1425" target="1598" type="obra_persona" />
       <edge id="3322" source="1426" target="1430" type="documento_persona" />
-      <edge id="3323" source="1427" target="1432" type="documento_edicion" />
+      <edge id="3323" source="1427" target="1432" type="edicion_dedicatoria" />
       <edge id="3324" source="1427" target="1429" type="edicion_impresion" />
       <edge id="3325" source="1427" target="1430" type="documento_edicion" />
       <edge id="3326" source="1428" target="1429" type="impresion_persona" />
@@ -14910,7 +14733,7 @@
       <edge id="3346" source="1445" target="1585" type="edicion_obra" />
       <edge id="3347" source="1445" target="1586" type="edicion_persona" />
       <edge id="3348" source="1446" target="1447" type="edicion_impresion" />
-      <edge id="3349" source="1447" target="1573" type="documento_edicion" />
+      <edge id="3349" source="1447" target="1573" type="edicion_dedicatoria" />
       <edge id="3350" source="1447" target="1575" type="documento_edicion" />
       <edge id="3351" source="1447" target="1448" type="edicion_obra" />
       <edge id="3352" source="1447" target="1577" type="documento_edicion" />
@@ -14929,7 +14752,7 @@
       <edge id="3365" source="1472" target="1491" type="poema_persona" />
       <edge id="3366" source="1472" target="1486" type="poema_persona" />
       <edge id="3367" source="1480" target="1481" type="persona_institucion" />
-      <edge id="3368" source="1481" target="1573" type="documento_persona" />
+      <edge id="3368" source="1481" target="1573" type="persona_dedicatoria" />
       <edge id="3369" source="1486" target="1570" type="edicion_poema" />
       <edge id="3370" source="1487" target="1570" type="edicion_poema" />
       <edge id="3371" source="1488" target="1570" type="edicion_poema" />
@@ -14987,17 +14810,17 @@
       <edge id="3423" source="1536" target="1598" type="poema_persona" />
       <edge id="3424" source="1538" target="1539" type="impresion_persona" />
       <edge id="3425" source="1543" target="1598" type="documento_persona" />
-      <edge id="3426" source="1545" target="1557" type="documento_persona" />
+      <edge id="3426" source="1545" target="1557" type="persona_dedicatoria" />
       <edge id="3427" source="1548" target="1549" type="impresion_persona" />
       <edge id="3428" source="1549" target="1553" type="edicion_impresion" />
       <edge id="3429" source="1549" target="1551" type="impresion_persona" />
       <edge id="3430" source="1550" target="1552" type="documento_persona" />
       <edge id="3431" source="1550" target="1553" type="documento_edicion" />
       <edge id="3432" source="1557" target="1570" type="edicion_persona" />
-      <edge id="3433" source="1557" target="1563" type="documento_persona" />
+      <edge id="3433" source="1557" target="1563" type="persona_dedicatoria" />
       <edge id="3434" source="1561" target="1599" type="poema_persona" />
       <edge id="3435" source="1562" target="1598" type="poema_persona" />
-      <edge id="3436" source="1563" target="1570" type="documento_edicion" />
+      <edge id="3436" source="1563" target="1570" type="edicion_dedicatoria" />
       <edge id="3437" source="1564" target="1570" type="documento_edicion" />
       <edge id="3438" source="1565" target="1602" type="poema_persona" />
       <edge id="3439" source="1566" target="1603" type="poema_persona" />

@@ -30,10 +30,10 @@
           <attvalue for="4" value="{u'Tasa': 8, u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1614-11-17': 1, '1615-10-21': 1, '1616-09-12': 1, '1618-06-25': 1, '1618-01-29': 1, '1617-11-07': 1, '1617-08-18': 1, '1613-08-12': 1, '1618-03-06': 1, '1618-04-09': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 10, 'Poesia': 6}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 5, 'Poesia': 3}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Poesia" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1616" />
           <attvalue for="13" value="Persona" />
@@ -47,10 +47,10 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Fe de erratas': 33}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'': 8, '1612-02-08': 1, '1614-05-15': 1, '1604-12-20': 1, '1618-03-13': 1, '1611-04-09': 1, '1615-10-21': 1, '1614-09-20': 1, '1616-12-15': 1, '1613-08-07': 1, '1612-11-02': 1, '1618-06-23': 1, '1614-11-10': 1, '1607-03-07': 1, '1609-03-28': 1, '1617-09-24': 1, '1607-10-16': 1, '1609-11-18': 1, '1618-03-04': 1, '1615-03-20': 1, '1609-02-04': 1, '1612-12-04': 1, '1615-10-13': 1, '1618-04-04': 1, '1615-05-03': 1, '1608-06-25': 1, '1605-04-01': 1}" />
-          <attvalue for="7" value="{'': 2, 'Teatro': 78, 'Ficcion': 36, 'Poesia': 28}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'': 1, 'Teatro': 4, 'Ficcion': 18, 'Poesia': 14}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Colegio de la Madre de Dios de los Teologos': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Poesia" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1612" />
           <attvalue for="13" value="Persona" />
@@ -60,13 +60,13 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1, u'Madrid': 16}" />
-          <attvalue for="7" value="{'': 2, 'Teatro': 24, 'Ficcion': 22, 'Poesia': 4}" />
+          <attvalue for="7" value="{'': 1, 'Teatro': 1, 'Ficcion': 11, 'Poesia': 2}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 15, u'Otro documento': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1, '1607-07-17': 1, '1612-02-09': 1, '1609-02-10': 1, '1605-02-09': 1, '1618-01-01': 1, '1605-01-01': 1, '1615-11-05': 1, '1612-11-06': 1, '1617-08-18': 1, '1618-06-25': 1, '1617-09-24': 1, '1613-08-12': 1, '1617-01-01': 1, '1617-06-25': 1, '1608-06-25': 1, '1605-04-01': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Poesia" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1612" />
           <attvalue for="2" value="Madrid" />
@@ -80,7 +80,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Marquesado de Montesclaros': 1}" />
           <attvalue for="10" value="" />
@@ -93,7 +93,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 2}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-08-18': 1, '1617-06-25': 1}" />
@@ -109,7 +109,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="3" value="{'Inquisidor de Milan': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
@@ -126,7 +126,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1607-02-23': 1}" />
@@ -146,7 +146,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-09-12': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Navarra': 1, u'Convento de San Agustin': 1}" />
           <attvalue for="10" value="" />
@@ -159,7 +159,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Pamplona': 6}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2, u'Impresion': 4}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1614-01-11': 2, '1617-09-17': 1, '1617-11-17': 1, '1615-01-01': 1, '1617-01-01': 1}" />
@@ -179,7 +179,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-09-17': 1, '1614-01-11': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Navarra': 1}" />
           <attvalue for="10" value="" />
@@ -197,7 +197,7 @@
           <attvalue for="4" value="{u'Tasa': 3}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1609-07-24': 1, '1602-11-30': 1, '1604-02-27': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 2, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 1, 'Poesia': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -215,10 +215,10 @@
           <attvalue for="4" value="{u'Tasa': 4}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1609-04-01': 1, '1604-12-04': 1, '1614-09-24': 1, '1613-06-12': 1}" />
-          <attvalue for="7" value="{'Teatro': 8, 'Ficcion': 6, 'Poesia': 4}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 3, 'Poesia': 2}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Poesia" />
           <attvalue for="11" value="Valladolid" />
           <attvalue for="12" value="1610" />
           <attvalue for="13" value="Persona" />
@@ -232,9 +232,9 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-11-17': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
-          <attvalue for="9" value="{u'Convento de San Francisco de Pamplona': 1, u'Consejo de Navarra': 1, u'Orden de San Francisco': 1}" />
+          <attvalue for="9" value="{u'Convento de San Francisco de Pamplona': 1, u'Orden de San Francisco': 1, u'Consejo de Navarra': 1}" />
           <attvalue for="10" value="" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1617" />
@@ -245,7 +245,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="3" value="{'Veinticuatro de Sevilla': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
@@ -267,7 +267,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 14}" />
+          <attvalue for="7" value="{'Ficcion': 7}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Casa de Zuniga': 1, u'Ducado de Bejar': 1, u'Marquesado de Gibraleon': 1, u'Condado de Belalcazar': 1, u'Vizcondado de Puebla de Alcocer': 1, u'Condado de Banares': 1}" />
           <attvalue for="10" value="" />
@@ -280,7 +280,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 2}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Impresion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-06-04': 1, '1617-01-01': 1}" />
@@ -296,7 +296,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Sevilla': 1, u'Aranjuez': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Natural de Murcia': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
@@ -314,7 +314,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Veinticuatro de Sevilla': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
@@ -331,7 +331,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Milan': 2}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Impresion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1603-08-26': 2}" />
@@ -352,7 +352,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1605-03-27': 1, '1605-03-25': 1}" />
-          <attvalue for="7" value="{'Historia': 2, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Historia': 1, 'Ficcion': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -365,7 +365,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valladolid': 3}" />
-          <attvalue for="7" value="{'Teatro': 48}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="4" value="{u'Impresion': 3}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1609-07-24': 2, '1605-07-14': 1}" />
@@ -381,7 +381,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-01-01': 1}" />
@@ -402,7 +402,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1604-11-10': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Archidiocesis de Valencia': 1}" />
           <attvalue for="10" value="" />
@@ -415,7 +415,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-01-10': 1}" />
@@ -431,7 +431,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="3" value="{'Secretario de de su senoria': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
@@ -452,7 +452,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'1608-12-12': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Ducado de Cea': 1}" />
           <attvalue for="10" value="" />
@@ -469,7 +469,7 @@
           <attvalue for="4" value="{u'Aprobacion': 4}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'': 2, '1617-11-16': 1, '1610-05-23': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 6}" />
+          <attvalue for="7" value="{'Ficcion': 1, 'Poesia': 3}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Convento de la Santisima Trinidad': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -482,7 +482,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valencia': 1, u'Madrid': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Poesia': 1}" />
           <attvalue for="3" value="{'Vicecanciller encargado general de tesorero': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1, u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
@@ -503,7 +503,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1614-08-02': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1, u'Convento de nuestra senora del Carmen': 1, u'Orden de los carmelitas': 1}" />
           <attvalue for="10" value="" />
@@ -520,7 +520,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Orden de los carmelitas': 1}" />
           <attvalue for="10" value="" />
@@ -533,7 +533,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -553,7 +553,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-01-27': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Archidiocesis de Valencia': 1}" />
           <attvalue for="10" value="" />
@@ -571,7 +571,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Marquesado de San German': 1}" />
           <attvalue for="10" value="" />
@@ -584,7 +584,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-12-04': 1}" />
@@ -604,7 +604,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1609-01-21': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'San Felipe el Real': 1}" />
           <attvalue for="10" value="" />
@@ -617,7 +617,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Mexico': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1602-10-20': 1}" />
@@ -637,7 +637,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'1607-07-15': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Ducado de Alcala de los Gazules': 1}" />
           <attvalue for="10" value="" />
@@ -650,7 +650,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="3" value="{'Pintor': 1}" />
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="13" value="Persona" />
@@ -667,7 +667,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1, u'Madrid': 3, u'Barcelona': 2, u'Valladolid': 1, u'Segovia': 2, u'Lerida': 1}" />
-          <attvalue for="7" value="{'Poesia': 12}" />
+          <attvalue for="7" value="{'Poesia': 6}" />
           <attvalue for="3" value="{'Natural de Segovia': 1}" />
           <attvalue for="14" value="{'true': 3}" />
           <attvalue for="13" value="Persona" />
@@ -685,7 +685,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 6}" />
-          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 8}" />
+          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 4}" />
           <attvalue for="4" value="{u'Impresion': 6}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1614-11-17': 1, '1614-09-24': 1, '1615-10-19': 1, '1616-01-01': 1, '1614-05-17': 1, '1618-03-06': 1}" />
@@ -705,7 +705,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1603-09-24': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Condado de Villalonga': 1}" />
           <attvalue for="10" value="" />
@@ -722,7 +722,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Condado de Bunol': 1}" />
           <attvalue for="10" value="" />
@@ -735,7 +735,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1600-01-18': 1}" />
@@ -751,7 +751,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1600-01-07': 1}" />
@@ -767,7 +767,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-04-13': 1}" />
@@ -783,7 +783,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1601-01-01': 1}" />
@@ -799,7 +799,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lerida': 2, u'San Juan de Ortega': 1, u'Valladolid': 1, u'Madrid': 2}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1603-09-24': 1, '1615-01-01': 1, '1611-02-04': 1, '1603-10-22': 1, '1603-06-16': 1, '1614-05-17': 1}" />
@@ -815,7 +815,7 @@
       <node id="128" label="Gabriel de Nao">
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="3" value="{'Vecino de Valladolid': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="11" value="" />
@@ -829,7 +829,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 3}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 4}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 2}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-03-04': 1, '1598-02-16': 1, '1600-01-01': 1}" />
@@ -845,7 +845,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1, u'Valladolid': 1}" />
-          <attvalue for="7" value="{'': 2}" />
+          <attvalue for="7" value="{'': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1, '1604-08-04': 1}" />
@@ -862,7 +862,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Coimbra': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1600-01-04': 1}" />
@@ -878,7 +878,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-08-01': 1}" />
@@ -898,7 +898,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1614-05-10': 1, '1607-11-07': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Flandes': 1}" />
           <attvalue for="10" value="" />
@@ -911,14 +911,14 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Bruselas': 10}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 10}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 5}" />
           <attvalue for="3" value="{'Impresor de sus Altezas': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 4, u'Impresion': 6}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1614-01-01': 1, '1618-01-01': 1, '1610-11-07': 1, '1617-08-18': 1, '1611-01-01': 1, '1614-05-10': 2, '1617-01-01': 1, '1616-02-04': 2}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1614" />
           <attvalue for="2" value="Bruselas" />
@@ -928,7 +928,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 2}" />
-          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1, 'Poesia': 1}" />
           <attvalue for="3" value="{'Nombre latinizado': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="13" value="Persona" />
@@ -945,7 +945,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Milan': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-01-01': 1}" />
@@ -966,7 +966,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1611-11-15': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Compania de Jesus': 1, u'Colegio de Mantua': 1}" />
           <attvalue for="10" value="" />
@@ -979,7 +979,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -999,7 +999,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-09-29': 1}" />
-          <attvalue for="7" value="{'Ficcion': 6}" />
+          <attvalue for="7" value="{'Ficcion': 3}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Navarra': 1}" />
           <attvalue for="10" value="" />
@@ -1012,7 +1012,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 3}" />
-          <attvalue for="7" value="{'Ficcion': 6}" />
+          <attvalue for="7" value="{'Ficcion': 3}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 3}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 3}" />
@@ -1028,7 +1028,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 3}" />
-          <attvalue for="7" value="{'Ficcion': 6}" />
+          <attvalue for="7" value="{'Ficcion': 3}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 3}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 3}" />
@@ -1049,7 +1049,7 @@
           <attvalue for="4" value="{u'Tasa': 10, u'Privilegio/Licencia': 5}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-02-28': 1, '1610-11-10': 1, '1609-02-10': 1, '1612-12-16': 1, '1604-02-20': 1, '1609-08-11': 1, '1599-03-17': 1, '1612-02-09': 1, '1611-04-14': 1, '1605-07-14': 1, '1609-10-04': 1, '1612-10-11': 1, '1604-07-28': 1, '1611-06-22': 1, '1609-11-18': 1}" />
-          <attvalue for="7" value="{'Teatro': 128, 'Ficcion': 2, 'Poesia': 10}" />
+          <attvalue for="7" value="{'Teatro': 6, 'Ficcion': 1, 'Poesia': 5}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -1062,7 +1062,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Amberes': 1, u'Bruselas': 1, u'Anvers': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1607-01-01': 1, '1605-01-01': 1, '1604-09-20': 1}" />
@@ -1078,7 +1078,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Teatro': 8}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1613-02-28': 1}" />
@@ -1094,7 +1094,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Cordoba': 1}" />
-          <attvalue for="7" value="{'Teatro': 8}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1613-06-12': 1}" />
@@ -1111,7 +1111,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Cordoba': 1}" />
-          <attvalue for="7" value="{'Teatro': 8}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1613-06-12': 1}" />
@@ -1127,10 +1127,10 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 3}" />
-          <attvalue for="7" value="{'Poesia': 6}" />
+          <attvalue for="7" value="{'Poesia': 3}" />
           <attvalue for="4" value="{u'Impresion': 3}" />
           <attvalue for="13" value="Persona" />
-          <attvalue for="6" value="{'1603-01-01': 1, '1602-11-30': 1, '1599-03-17': 1}" />
+          <attvalue for="6" value="{'1602-11-30': 1, '1603-01-01': 1, '1599-03-17': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="5" value="printer/editor" />
           <attvalue for="10" value="" />
@@ -1148,7 +1148,7 @@
           <attvalue for="4" value="{u'Aprobacion': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1618-04-19': 1, '1616-08-01': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1, 'Poesia': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Convento de Santa Caterina': 1, u'Orden de los predicadores': 1, u'Diocesis de Barcelona': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -1161,7 +1161,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1, u'Madrid': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-03-17': 1, '1599-02-16': 1}" />
@@ -1183,7 +1183,7 @@
           <attvalue for="4" value="{u'Tasa': 2, u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1615-06-05': 1, '1615-10-19': 1, '1615-06-13': 1}" />
-          <attvalue for="7" value="{'Teatro': 44, 'Poesia': 4}" />
+          <attvalue for="7" value="{'Teatro': 2, 'Poesia': 2}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -1196,7 +1196,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1, u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1600-05-15': 2}" />
@@ -1212,7 +1212,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Sevilla': 2}" />
-          <attvalue for="7" value="{'Historia': 2, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Historia': 1, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1613-01-01': 1, '1615-01-01': 1}" />
@@ -1233,7 +1233,7 @@
           <attvalue for="4" value="{u'Tasa': 5, u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1607-07-17': 1, '1598-11-27': 1, '1603-10-22': 1, '1618-03-13': 1, '1598-08-15': 1, '1599-11-27': 1}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 10}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 5}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1, u'San Lorenzo el Real de El Escorial': 1}" />
           <attvalue for="10" value="" />
@@ -1246,7 +1246,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Anvers': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-01': 1}" />
@@ -1267,7 +1267,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1616-06-06': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Diocesis de Lerida': 1}" />
           <attvalue for="10" value="" />
@@ -1280,7 +1280,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1, u'Najera': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-03-13': 1, '1617-01-19': 1}" />
@@ -1301,7 +1301,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Marquesado de Priego': 1, u'Marquesado de Montalban': 1}" />
           <attvalue for="10" value="" />
@@ -1318,7 +1318,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1609-06-15': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Diocesis de Segovia': 1}" />
           <attvalue for="10" value="" />
@@ -1331,7 +1331,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Toledo': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1612-10-11': 1}" />
@@ -1347,7 +1347,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Najera': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-03-13': 1}" />
@@ -1363,7 +1363,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1616-12-23': 1}" />
@@ -1383,7 +1383,7 @@
           <attvalue for="4" value="{u'Carta': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1609-12-01': 1, '1608-12-01': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Orden de San Bernardo': 1}" />
           <attvalue for="10" value="" />
@@ -1401,7 +1401,7 @@
           <attvalue for="4" value="{u'Carta': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1608-12-10': 1, '1608-12-16': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1, u'Consejo de Indias': 1}" />
           <attvalue for="10" value="" />
@@ -1418,7 +1418,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1615-10-28': 1}" />
-          <attvalue for="7" value="{'Teatro': 22}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Convento de Santa Caterina': 1}" />
           <attvalue for="10" value="" />
@@ -1435,7 +1435,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1609-09-22': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Santo Tomas de Madrid': 1}" />
           <attvalue for="10" value="" />
@@ -1448,7 +1448,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1, u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Tasa': 1, u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1616-09-10': 1, '1617-01-21': 1}" />
@@ -1464,7 +1464,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 3}" />
-          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Tasa': 1, u'Privilegio/Licencia': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1610-11-19': 1, '1611-01-14': 1, '1617-01-17': 1}" />
@@ -1484,7 +1484,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1, u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'': 1, '1616-10-26': 1, '1616-08-22': 1}" />
-          <attvalue for="7" value="{'Ficcion': 6}" />
+          <attvalue for="7" value="{'Ficcion': 3}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Portugal': 1}" />
           <attvalue for="10" value="" />
@@ -1497,13 +1497,13 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 5, '': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 4, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 2, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Tasa': 2, u'Privilegio/Licencia': 4}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1616-09-10': 1, '1617-01-21': 1, '1610-11-19': 1, '1612-01-30': 1, '1617-01-17': 1, '1611-01-14': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="signatory" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1613" />
           <attvalue for="2" value="Lisboa" />
@@ -1513,7 +1513,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 2}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="3" value="{'Mayordomo del santisimo sacramento de la parroquial de Toledo': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="13" value="Persona" />
@@ -1535,7 +1535,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Condado de Fuensalida': 1}" />
           <attvalue for="10" value="" />
@@ -1548,7 +1548,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valladolid': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-02-09': 1}" />
@@ -1564,7 +1564,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1}" />
-          <attvalue for="7" value="{'Teatro': 30}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1}" />
@@ -1580,7 +1580,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-05-09': 1}" />
@@ -1596,7 +1596,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-04-18': 1}" />
@@ -1612,7 +1612,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 2, u'Toledo': 3}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1612-10-11': 1, '1609-03-15': 2}" />
@@ -1629,7 +1629,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valladolid': 1}" />
-          <attvalue for="7" value="{'Teatro': 48}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="4" value="{u'Fe de erratas': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-07-07': 1}" />
@@ -1645,7 +1645,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 2}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1616-08-22': 1, '1616-10-26': 1}" />
@@ -1661,7 +1661,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-07-29': 1}" />
@@ -1677,7 +1677,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1, u'Arganda del Rey': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-01-01': 1, '1615-03-23': 1, '1615-01-24': 1}" />
@@ -1699,7 +1699,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Condado de Aranda': 1, u'Vizcondado de Rueda': 1}" />
           <attvalue for="10" value="" />
@@ -1712,14 +1712,14 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Bruselas': 13}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 14}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 7}" />
           <attvalue for="3" value="{'Impresor de sus Altezas, en el aguila de oro cerca del palacio': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 5, u'Impresion': 8}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1610-01-01': 1, '1614-01-01': 1, '1610-11-07': 1, '1607-03-07': 2, '1611-01-01': 1, '1614-05-10': 2, '1604-01-15': 2, '1607-10-08': 1, '1600-05-15': 1, '1608-01-01': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1608" />
           <attvalue for="2" value="Bruselas" />
@@ -1733,7 +1733,7 @@
           <attvalue for="4" value="{'dedicatory': 2}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 2}" />
-          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 6}" />
+          <attvalue for="7" value="{'Ficcion': 1, 'Poesia': 3}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1, u'San Lorenzo el Real de El Escorial': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -1745,7 +1745,7 @@
       <node id="3" label="Bernardo Grassa">
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
-          <attvalue for="7" value="{'Teatro': 168}" />
+          <attvalue for="7" value="{'Teatro': 7}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="10" value="" />
@@ -1758,7 +1758,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 3}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2, u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1602-11-12': 1, '1603-10-15': 1, '1604-01-01': 1}" />
@@ -1778,7 +1778,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1616-05-27': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Archidiocesis de Valencia': 1}" />
           <attvalue for="10" value="" />
@@ -1795,7 +1795,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1607-02-20': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Convento de Santa Caterina': 1}" />
           <attvalue for="10" value="" />
@@ -1812,7 +1812,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-03-06': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Diocesis de Cordoba': 1}" />
           <attvalue for="10" value="" />
@@ -1829,7 +1829,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1610-11-07': 1, '1600-05-15': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Consejo de Flandes': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -1842,7 +1842,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1611-01-14': 1}" />
@@ -1858,7 +1858,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 2, u'Madrid': 1}" />
-          <attvalue for="7" value="{'Poesia': 6}" />
+          <attvalue for="7" value="{'Poesia': 3}" />
           <attvalue for="4" value="{u'Carta': 3}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 2, '1596-11-27': 1}" />
@@ -1874,7 +1874,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valencia': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-07-18': 1}" />
@@ -1890,7 +1890,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valencia': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-07-18': 1}" />
@@ -1906,7 +1906,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1614-11-15': 1}" />
@@ -1922,7 +1922,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valencia': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-07-18': 1}" />
@@ -1943,7 +1943,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Orden de Santiago': 1}" />
           <attvalue for="10" value="" />
@@ -1956,7 +1956,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 2}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-03-06': 1, '1618-01-29': 1}" />
@@ -1972,7 +1972,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 5, u'Alcala': 2, u'Bruselas': 14, u'Anvers': 2, u'Zaragoza': 11, u'Madrid': 41, u'Amberes': 23, u'Sevilla': 2, u'Barcelona': 15, u'Milan': 1, u'Lerida': 1, u'Valladolid': 58, u'Toledo': 1, u'Lisboa': 24, u'Valencia': 11, u'Oliva': 1, u'Cordoba': 2}" />
-          <attvalue for="7" value="{'Teatro': 364, 'Ficcion': 22, 'Poesia': 26}" />
+          <attvalue for="7" value="{'Teatro': 16, 'Ficcion': 11, 'Poesia': 13}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Marquesado de Sarria': 1, u'Consejo de Inquisicion': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -1980,7 +1980,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1, u'Obra': 35, u'Privilegio/Licencia': 8, u'Otro documento': 2, u'Carta': 3}" />
           <attvalue for="3" value="{'Secretario del Marques de Sarria. Familiar del Santo Oficio': 1}" />
           <attvalue for="14" value="{'true': 35}" />
-          <attvalue for="6" value="{'': 4, '1602-11-30': 1, '1611-12-02': 1, '1611-01-14': 1, '1602-01-01': 1, '1611-06-22': 12, '1615-06-05': 1, '1614-06-30': 1, '1596-11-27': 1, '1608-01-01': 1, '1614-09-24': 1, '1614-01-01': 1, '1609-02-10': 1, '1609-03-15': 1, '1608-08-23': 1, '1605-01-01': 23, '1613-08-23': 1, '1612-01-30': 12, '1604-01-01': 13, '1605-07-14': 11, '1617-01-01': 1, '1612-04-06': 1, '1607-01-01': 12, '1618-06-25': 12, '1598-11-27': 1, '1616-01-01': 1, '1599-02-16': 1, '1611-01-01': 26, '1603-12-06': 1, '1609-01-01': 1, '1609-11-18': 12, '1598-08-15': 1, '1613-06-12': 2, '1602-10-20': 1, '1603-01-01': 1, '1612-01-01': 1, '1609-07-24': 11, '1599-04-26': 1, '1604-02-27': 1, '1612-02-09': 1, '1604-07-28': 11, '1605-04-01': 1}" />
+          <attvalue for="6" value="{'': 4, '1611-01-14': 1, '1602-11-30': 1, '1611-12-02': 1, '1612-02-09': 1, '1602-01-01': 1, '1611-06-22': 12, '1615-06-05': 1, '1614-06-30': 1, '1596-11-27': 1, '1608-01-01': 1, '1603-12-06': 1, '1614-01-01': 1, '1609-02-10': 1, '1609-03-15': 1, '1608-08-23': 1, '1605-01-01': 23, '1613-08-23': 1, '1612-01-30': 12, '1605-07-14': 11, '1617-01-01': 1, '1612-04-06': 1, '1607-01-01': 12, '1618-06-25': 12, '1598-11-27': 1, '1616-01-01': 1, '1599-02-16': 1, '1611-01-01': 26, '1614-09-24': 1, '1609-01-01': 1, '1609-11-18': 12, '1598-08-15': 1, '1613-06-12': 2, '1602-10-20': 1, '1603-01-01': 1, '1612-01-01': 1, '1609-07-24': 11, '1599-04-26': 1, '1604-02-27': 1, '1604-01-01': 13, '1604-07-28': 11, '1605-04-01': 1}" />
           <attvalue for="11" value="Madrid" />
           <attvalue for="5" value="author" />
           <attvalue for="12" value="1608" />
@@ -1995,7 +1995,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-12-23': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -2007,8 +2007,8 @@
       <node id="441" label="Cristobal Suarez de Figueroa">
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
-          <attvalue for="1" value="{u'Madrid': 3, u'Barcelona': 1, u'Aranjuez': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 2}" />
+          <attvalue for="1" value="{u'Madrid': 3, u'Aranjuez': 1, u'Barcelona': 1}" />
+          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 1}" />
           <attvalue for="14" value="{'true': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-08-09': 1, '1612-05-19': 1, '1617-11-16': 1, '1612-11-06': 1, '1618-04-19': 1}" />
@@ -2016,7 +2016,7 @@
           <attvalue for="4" value="{u'Obra': 2, u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="author" />
           <attvalue for="10" value="Poesia" />
-          <attvalue for="11" value="Aranjuez" />
+          <attvalue for="11" value="Barcelona" />
           <attvalue for="12" value="1615" />
           <attvalue for="2" value="Madrid" />
         </attvalues>
@@ -2030,7 +2030,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-12-23': 1, '1617-11-07': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -2047,7 +2047,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-12-23': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -2064,7 +2064,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-12-23': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -2082,7 +2082,7 @@
           <attvalue for="4" value="{u'Tasa': 2, u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1614-11-08': 1, '1613-12-23': 1, '1614-05-17': 1}" />
-          <attvalue for="7" value="{'Historia': 2, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Historia': 1, 'Ficcion': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -2100,7 +2100,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-12-23': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1, u'Marquesado del Valle': 1}" />
           <attvalue for="10" value="" />
@@ -2113,7 +2113,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 2, u'Bruselas': 1, u'Valladolid': 1, u'Barcelona': 2}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1610-01-01': 1, '1603-01-31': 1, '1605-01-01': 1, '1609-01-01': 1, '1618-03-06': 1}" />
@@ -2130,7 +2130,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1, '1616-01-01': 1}" />
@@ -2147,7 +2147,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1, '1616-01-01': 1}" />
@@ -2168,7 +2168,7 @@
           <attvalue for="4" value="{u'Aprobacion': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1612-05-10': 1, '1612-07-09': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Convento de la Santisima Trinidad': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -2181,7 +2181,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="3" value="{'Capitan y governador de Pernambuco en Nova Lusitania': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
@@ -2198,7 +2198,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1, '1616-01-01': 1}" />
@@ -2220,7 +2220,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Marquesado de Canete': 1}" />
           <attvalue for="10" value="" />
@@ -2233,7 +2233,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1, '1616-01-01': 1}" />
@@ -2254,8 +2254,8 @@
           <attvalue for="3" value="{'Coronista del Rey': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 3}" />
           <attvalue for="5" value="signatory" />
-          <attvalue for="6" value="{'1614-01-06': 1, '1613-05-05': 1, '1617-06-10': 1}" />
-          <attvalue for="7" value="{'Historia': 4, 'Ficcion': 2}" />
+          <attvalue for="6" value="{'1613-05-05': 1, '1614-01-06': 1, '1617-06-10': 1}" />
+          <attvalue for="7" value="{'Historia': 2, 'Ficcion': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -2268,7 +2268,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1}" />
-          <attvalue for="7" value="{'Teatro': 22}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1}" />
@@ -2288,10 +2288,10 @@
           <attvalue for="4" value="{u'Aprobacion': 13}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'': 1, '1611-03-29': 1, '1614-12-11': 1, '1614-09-16': 1, '1617-07-24': 1, '1615-11-05': 1, '1616-12-19': 1, '1612-12-30': 1, '1614-10-03': 1, '1617-09-24': 1, '1609-08-01': 1, '1612-07-09': 1, '1617-05-16': 1}" />
-          <attvalue for="7" value="{'Teatro': 172, 'Ficcion': 28, 'Poesia': 6}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Teatro': 8, 'Ficcion': 14, 'Poesia': 3}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1614" />
           <attvalue for="13" value="Persona" />
@@ -2305,7 +2305,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 8}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1615-11-21': 1, '1615-03-30': 1, '1616-09-24': 1, '1617-08-09': 1, '1617-06-25': 1, '1615-01-24': 1, '1617-11-26': 1, '1617-01-19': 1}" />
-          <attvalue for="7" value="{'Ficcion': 14, 'Poesia': 4}" />
+          <attvalue for="7" value="{'Ficcion': 7, 'Poesia': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -2322,7 +2322,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-08-15': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Archidiocesis de Zaragoza': 1}" />
           <attvalue for="10" value="" />
@@ -2340,7 +2340,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Diocesis de Barcelona': 1}" />
           <attvalue for="10" value="" />
@@ -2357,7 +2357,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-12-23': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -2370,7 +2370,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-04-16': 1}" />
@@ -2391,7 +2391,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 14}" />
+          <attvalue for="7" value="{'Ficcion': 7}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Ducado de Osuna': 1, u'Marquesado de Penafiel': 1, u'Condado de Urena': 1}" />
           <attvalue for="10" value="" />
@@ -2404,13 +2404,13 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 5}" />
-          <attvalue for="7" value="{'Historia': 4, 'Teatro': 24, 'Ficcion': 4}" />
+          <attvalue for="7" value="{'Historia': 2, 'Teatro': 1, 'Ficcion': 2}" />
           <attvalue for="4" value="{u'Impresion': 5}" />
           <attvalue for="13" value="Persona" />
-          <attvalue for="6" value="{'1612-01-30': 1, '1604-12-04': 1, '1605-03-08': 1, '1605-03-29': 1, '1609-09-02': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="6" value="{'1612-01-30': 1, '1605-03-08': 1, '1604-12-04': 1, '1605-03-29': 1, '1609-09-02': 1}" />
+          <attvalue for="8" value="Historia" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Historia" />
+          <attvalue for="10" value="Ficcion" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1607" />
           <attvalue for="2" value="Lisboa" />
@@ -2425,7 +2425,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-02-04': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Convento de San Francisco de Mexico': 1, u'Orden de San Francisco': 1}" />
           <attvalue for="10" value="" />
@@ -2438,7 +2438,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Mayordomo del santisimo sacramento de la parroquial de Toledo': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
@@ -2460,7 +2460,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1612-05-17': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Convento de San Francisco de Mexico': 1}" />
           <attvalue for="10" value="" />
@@ -2473,7 +2473,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-01': 1}" />
@@ -2493,7 +2493,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-02-05': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Orden de San Francisco': 1}" />
           <attvalue for="10" value="" />
@@ -2506,7 +2506,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valencia': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1602-08-08': 1}" />
@@ -2522,7 +2522,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-06-22': 1}" />
@@ -2538,7 +2538,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1, u'Madrid': 1, u'Sevilla': 1, u'Mexico': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Orden de San Francisco': 1}" />
           <attvalue for="10" value="" />
@@ -2546,7 +2546,7 @@
           <attvalue for="4" value="{u'Obra': 1, u'Carta': 1, u'Privilegio/Licencia': 2}" />
           <attvalue for="3" value="{'Guardian del Convento de Tlaxcala, Ministro provincial de la Orden de San Francisco en la provincia de Santo Evangelico de Mexico': 1}" />
           <attvalue for="14" value="{'true': 1}" />
-          <attvalue for="6" value="{'': 1, '1612-05-17': 1, '1613-05-18': 1, '1615-01-01': 1}" />
+          <attvalue for="6" value="{'': 1, '1613-05-18': 1, '1615-01-01': 1, '1612-05-17': 1}" />
           <attvalue for="11" value="Madrid" />
           <attvalue for="5" value="author" />
           <attvalue for="12" value="1613" />
@@ -2561,10 +2561,10 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 5}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1616-08-22': 1, '1609-12-16': 1, '1609-09-23': 1, '1612-01-27': 1, '1618-07-24': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 2, 'Poesia': 4}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 1, 'Poesia': 2}" />
+          <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1, u'Consejo de Portugal': 1}" />
-          <attvalue for="10" value="Poesia" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1612" />
           <attvalue for="13" value="Persona" />
@@ -2573,7 +2573,7 @@
       <node id="383" label="Francisco Martinez Polo">
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="3" value="{'Catedratico de prima de Medicina, en la Universidad de Valladolid': 1}" />
           <attvalue for="2" value="" />
           <attvalue for="8" value="Teatro" />
@@ -2588,7 +2588,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 2, u'Madrid': 1, u'Valladolid': 1, u'Mexico': 2}" />
-          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 4}" />
+          <attvalue for="7" value="{'Ficcion': 1, 'Poesia': 2}" />
           <attvalue for="14" value="{'true': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1603-07-10': 1, '1603-09-14': 1, '1604-01-01': 2, '1607-10-16': 1, '1604-08-11': 1}" />
@@ -2605,13 +2605,13 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 2, u'Madrid': 4}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 4, 'Poesia': 6}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 2, 'Poesia': 3}" />
           <attvalue for="4" value="{u'Impresion': 6}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1611-01-01': 1, '1609-04-01': 1, '1611-04-14': 1, '1609-01-01': 1, '1609-11-18': 1, '1608-01-01': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Poesia" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Poesia" />
+          <attvalue for="10" value="Ficcion" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1609" />
           <attvalue for="2" value="Madrid" />
@@ -2625,7 +2625,7 @@
           <attvalue for="4" value="{u'Tasa': 2, u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1599-04-26': 1, '1604-08-11': 1, '1607-08-11': 1, '1599-02-16': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 6}" />
+          <attvalue for="7" value="{'Ficcion': 1, 'Poesia': 3}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -2638,14 +2638,14 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 2, u'Madrid': 6, u'Valladolid': 1}" />
-          <attvalue for="7" value="{'Teatro': 72, 'Ficcion': 6, 'Poesia': 8}" />
+          <attvalue for="7" value="{'Teatro': 3, 'Ficcion': 3, 'Poesia': 4}" />
           <attvalue for="3" value="{'Mercader de libros': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2, u'Impresion': 7}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1614-09-24': 1, '1615-10-19': 1, '1604-02-20': 1, '1609-08-11': 1, '1611-01-01': 1, '1611-04-14': 1, '1609-01-01': 1, '1609-11-18': 1, '1608-01-01': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Poesia" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Poesia" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1610" />
           <attvalue for="2" value="Madrid" />
@@ -2655,7 +2655,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 4, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Teatro': 44, 'Ficcion': 4, 'Poesia': 4}" />
+          <attvalue for="7" value="{'Teatro': 2, 'Ficcion': 2, 'Poesia': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1612-03-27': 1, '1614-10-15': 1, '1609-01-05': 1, '1618-01-01': 1, '1618-01-12': 1}" />
@@ -2672,7 +2672,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -2693,7 +2693,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 18}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 9}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Marquesado de Poza': 1, u'Consejo de Hacienda': 1, u'Casa de Monzon': 1}" />
           <attvalue for="10" value="" />
@@ -2706,7 +2706,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 20}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 10}" />
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -2722,7 +2722,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="3" value="{'Se relaciona con Â¨El Monasterio de la Santisima TrinidadÂ¨, tal vez sea igual que Â¨El Convento de la Santisma TrinidadÂ¨': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
@@ -2743,7 +2743,7 @@
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="5" value="author" />
           <attvalue for="6" value="{'1613-07-31': 1, '1609-04-01': 1, '1609-02-08': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="4" value="{u'Aprobacion': 1, u'Obra': 1, u'Privilegio/Licencia': 1}" />
           <attvalue for="9" value="{u'Consejo de Aragon': 1}" />
@@ -2760,11 +2760,11 @@
           <attvalue for="2" value="Lisboa" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 3}" />
           <attvalue for="5" value="signatory" />
-          <attvalue for="6" value="{'1610-11-24': 1, '1612-01-27': 1, '1609-09-02': 1}" />
-          <attvalue for="7" value="{'Historia': 2, 'Teatro': 24, 'Poesia': 2}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="6" value="{'1612-01-27': 1, '1610-11-24': 1, '1609-09-02': 1}" />
+          <attvalue for="7" value="{'Historia': 1, 'Teatro': 1, 'Poesia': 1}" />
+          <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1}" />
-          <attvalue for="10" value="Historia" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1610" />
           <attvalue for="13" value="Persona" />
@@ -2778,7 +2778,7 @@
           <attvalue for="4" value="{u'Aprobacion': 2, u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1616-08-22': 1, '1604-11-26': 1, '1604-11-16': 1}" />
-          <attvalue for="7" value="{'Historia': 4, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Historia': 2, 'Ficcion': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1, u'Convento de Sao Francisco': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -2795,7 +2795,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Ducado de Braganza': 1}" />
           <attvalue for="10" value="" />
@@ -2808,7 +2808,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1607-01-01': 1}" />
@@ -2828,7 +2828,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 3}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1605-03-27': 1, '1605-03-25': 1, '1605-02-21': 1}" />
-          <attvalue for="7" value="{'Historia': 4, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Historia': 2, 'Ficcion': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -2841,10 +2841,10 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 2, u'Cordoba': 1}" />
-          <attvalue for="7" value="{'Historia': 6}" />
+          <attvalue for="7" value="{'Historia': 3}" />
           <attvalue for="14" value="{'true': 3}" />
           <attvalue for="13" value="Persona" />
-          <attvalue for="6" value="{'1617-01-01': 1, '1605-03-08': 1, '1609-09-02': 1}" />
+          <attvalue for="6" value="{'1609-09-02': 1, '1605-03-08': 1, '1617-01-01': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="4" value="{u'Obra': 3}" />
           <attvalue for="5" value="author" />
@@ -2858,10 +2858,10 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1, u'Madrid': 7, u'Barcelona': 2, u'Toledo': 1}" />
-          <attvalue for="7" value="{'Teatro': 44, 'Ficcion': 10, 'Poesia': 16}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Teatro': 2, 'Ficcion': 5, 'Poesia': 8}" />
+          <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
-          <attvalue for="10" value="Poesia" />
+          <attvalue for="10" value="Ficcion" />
           <attvalue for="2" value="Madrid" />
           <attvalue for="4" value="{u'Aprobacion': 4, u'Obra': 3, u'Privilegio/Licencia': 2}" />
           <attvalue for="3" value="{'Capellan del cardenal de Sandoval': 1}" />
@@ -2877,7 +2877,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-01': 1}" />
@@ -2893,7 +2893,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Senor de la villa Cilleruelo y Valle de la ciudad de Hebro, capitan de lanzas de la guardia del excelente seonr condestable de Castilla, governador del estado de Milan': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
@@ -2910,7 +2910,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1, '1616-01-01': 1}" />
@@ -2932,7 +2932,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-02-05': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Convento de San Francisco de Madrid': 1, u'Orden de San Francisco': 1}" />
           <attvalue for="10" value="" />
@@ -2949,7 +2949,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1612-02-22': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Convento de Santiago Tecali': 1}" />
           <attvalue for="10" value="" />
@@ -2967,7 +2967,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Teatro': 72}" />
+          <attvalue for="7" value="{'Teatro': 3}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -2984,7 +2984,7 @@
           <attvalue for="4" value="{u'Tasa': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1599-03-04': 1}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 1}" />
           <attvalue for="8" value="" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -2997,7 +2997,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -3018,7 +3018,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 3}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1598-02-16': 1, '1599-02-16': 2}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 2, 'Poesia': 8}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 1, 'Poesia': 4}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -3031,7 +3031,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-07-24': 1}" />
@@ -3052,7 +3052,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1602-11-12': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Virreinato de Aragon': 1}" />
           <attvalue for="10" value="" />
@@ -3069,7 +3069,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1618-07-19': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1}" />
           <attvalue for="10" value="" />
@@ -3082,7 +3082,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Hermano de Juan Bermudez': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
@@ -3103,7 +3103,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1613-01-26': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Compania de Jesus': 1}" />
           <attvalue for="10" value="" />
@@ -3120,10 +3120,10 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 11}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1614-11-15': 1, '1613-05-18': 1, '1609-03-15': 1, '1612-11-22': 1, '1609-02-08': 1, '1611-12-02': 1, '1614-01-21': 1, '1614-06-30': 1, '1614-10-18': 1, '1611-04-30': 1, '1612-06-03': 1}" />
-          <attvalue for="7" value="{'Historia': 4, 'Teatro': 22, 'Ficcion': 6, 'Poesia': 12}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Historia': 2, 'Teatro': 1, 'Ficcion': 3, 'Poesia': 6}" />
+          <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
-          <attvalue for="10" value="Poesia" />
+          <attvalue for="10" value="Ficcion" />
           <attvalue for="11" value="Aranjuez" />
           <attvalue for="12" value="1612" />
           <attvalue for="13" value="Persona" />
@@ -3133,7 +3133,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-04-30': 1}" />
@@ -3153,7 +3153,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'1603-09-15': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Casa de Zuniga': 1, u'Archidiocesis de Mexico': 1}" />
           <attvalue for="10" value="" />
@@ -3166,7 +3166,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-01-01': 1}" />
@@ -3186,7 +3186,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1611-01-04': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Diocesis de Lerida': 1}" />
           <attvalue for="10" value="" />
@@ -3203,7 +3203,7 @@
           <attvalue for="4" value="{u'Aprobacion': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1598-08-06': 1, '1599-01-22': 1}" />
-          <attvalue for="7" value="{'Ficcion': 12, 'Poesia': 6}" />
+          <attvalue for="7" value="{'Ficcion': 6, 'Poesia': 3}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Convento de nuestra senora del Carmen': 1, u'Orden de los carmelitas': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -3216,7 +3216,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1, u'Valladolid': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1611-06-22': 1, '1610-11-10': 1}" />
@@ -3232,7 +3232,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1603-10-15': 1}" />
@@ -3248,7 +3248,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 6}" />
+          <attvalue for="7" value="{'Ficcion': 3}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-04-30': 1}" />
@@ -3264,7 +3264,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-03': 1}" />
@@ -3280,7 +3280,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 2}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1602-11-08': 1, '1603-04-11': 1}" />
@@ -3296,7 +3296,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-03-23': 1}" />
@@ -3312,7 +3312,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 2}" />
-          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 1}" />
           <attvalue for="3" value="{'Tal vez Â´Luis BosiusÂ´ en Latin': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="13" value="Persona" />
@@ -3333,7 +3333,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1607-11-07': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Flandes': 1}" />
           <attvalue for="10" value="" />
@@ -3351,7 +3351,7 @@
           <attvalue for="4" value="{'dedicatory': 6}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 6}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 34, 'Poesia': 4}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 17, 'Poesia': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Italia': 1, u'Orden de Alcantara': 1, u'Consejo de Indias': 1, u'Condado de Villalba': 1, u'Condado de Andrade': 1, u'Condado de Lemos': 1, u'Marquesado de Sarria': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -3364,7 +3364,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1603-12-11': 1}" />
@@ -3380,7 +3380,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Bruselas': 2}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1607-11-07': 1, '1608-01-01': 1}" />
@@ -3396,7 +3396,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 2}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-08-18': 1, '1617-06-25': 1}" />
@@ -3413,7 +3413,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1602-08': 1}" />
@@ -3433,7 +3433,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1603-12-11': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Archidiocesis de Zaragoza': 1}" />
           <attvalue for="10" value="" />
@@ -3446,7 +3446,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1, '1616-01-01': 1}" />
@@ -3463,7 +3463,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1, u'Milan': 1, u'Bruselas': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="3" value="{'Escribio bajo el pseudomino Mateo Lujan de Sayavedra': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
@@ -3481,7 +3481,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Toledo': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-07-18': 1}" />
@@ -3497,7 +3497,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valladolid': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1611-06-22': 1}" />
@@ -3513,7 +3513,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valladolid': 1}" />
-          <attvalue for="7" value="{'': 2}" />
+          <attvalue for="7" value="{'': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-09-26': 1}" />
@@ -3533,7 +3533,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1618-01-12': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Compania de Jesus': 1}" />
           <attvalue for="10" value="" />
@@ -3546,7 +3546,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1612-01-25': 1}" />
@@ -3567,7 +3567,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'1603-08-26': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Condado de Castion': 1}" />
           <attvalue for="10" value="" />
@@ -3585,7 +3585,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-08-10': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Orden de San Agustin': 2, u'Consejo de Inquisicion': 1}" />
           <attvalue for="10" value="" />
@@ -3597,7 +3597,7 @@
       <node id="229" label="Rodrigo de Tapia">
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Caballero del habito de Santiago, hijo de Pedro de Tapia': 1}" />
           <attvalue for="2" value="" />
           <attvalue for="8" value="Poesia" />
@@ -3612,7 +3612,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-06-21': 1}" />
@@ -3628,7 +3628,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="3" value="{'Senor de Masa Magrel': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
@@ -3645,7 +3645,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 2}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Impresion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-27': 1, '1617-06-04': 1}" />
@@ -3661,7 +3661,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valencia': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-01-01': 1}" />
@@ -3677,7 +3677,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -3693,7 +3693,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-08-18': 1}" />
@@ -3713,7 +3713,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1608-08-23': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -3726,13 +3726,13 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 5, u'Valladolid': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 6, 'Poesia': 4}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 3, 'Poesia': 2}" />
           <attvalue for="4" value="{u'Impresion': 6}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1616-09-12': 1, '1615-03-23': 1, '1598-11-27': 1, '1599-04-26': 1, '1617-11-16': 1, '1604-07-28': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Poesia" />
           <attvalue for="11" value="Valladolid" />
           <attvalue for="12" value="1608" />
           <attvalue for="2" value="Madrid" />
@@ -3742,7 +3742,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Milan': 3}" />
-          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 3}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1611-01-01': 1, '1603-08-26': 2}" />
@@ -3758,13 +3758,13 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 5}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 4}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 2}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2, u'Impresion': 3}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-01-01': 1, '1613-12-23': 1, '1617-11-07': 1, '1614-05-17': 1, '1618-06-25': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1616" />
           <attvalue for="2" value="Madrid" />
@@ -3774,7 +3774,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lerida': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="3" value="{'Prior de San Agustin de Lerida': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
@@ -3796,7 +3796,7 @@
           <attvalue for="4" value="{'dedicatory': 3}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 3}" />
-          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 6}" />
+          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 3}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Estado': 1, u'Consejo de Inquisicion': 1, u'Archidiocesis de Toledo': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -3814,7 +3814,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 8}" />
+          <attvalue for="7" value="{'Poesia': 4}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1}" />
           <attvalue for="10" value="" />
@@ -3832,7 +3832,7 @@
           <attvalue for="4" value="{u'Tasa': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-12-12': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -3849,7 +3849,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Otro documento': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-10-19': 2}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Ficcion" />
@@ -3866,7 +3866,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1598-01-13': 1}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 4}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -3884,7 +3884,7 @@
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Condado de Saldana': 1}" />
           <attvalue for="10" value="" />
@@ -3897,7 +3897,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1612-02-18': 1}" />
@@ -3913,7 +3913,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Mexico': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604': 1}" />
@@ -3929,7 +3929,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="3" value="{'Secretario de gobernacion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
@@ -3946,7 +3946,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Tarragona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1603-01-01': 1}" />
@@ -3962,7 +3962,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valencia': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1602-08-20': 1}" />
@@ -3982,7 +3982,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Ducado de Braganza': 1, u'Ducado de Barcelos': 1}" />
           <attvalue for="10" value="" />
@@ -3999,7 +3999,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 4}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1607-03-07': 1, '1604-09-20': 1, '1604-01-15': 1, '1607-10-08': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Flandes': 1}" />
           <attvalue for="10" value="" />
@@ -4012,7 +4012,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Amberes': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1611-01-01': 1}" />
@@ -4028,13 +4028,13 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1, u'Barcelona': 8}" />
-          <attvalue for="7" value="{'Teatro': 46, 'Ficcion': 10, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Teatro': 2, 'Ficcion': 5, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 8}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-01-12': 1, '1618-01-01': 1, '1605-01-01': 1, '1616-01-01': 1, '1611-01-01': 1, '1602-01-01': 1, '1600-01-01': 1, '1616-08-01': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="Madrid" />
           <attvalue for="12" value="1610" />
           <attvalue for="2" value="Barcelona" />
@@ -4044,7 +4044,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Segovia': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Senor provisor': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
@@ -4061,7 +4061,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Tarragona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1603-01-01': 1}" />
@@ -4077,7 +4077,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 3}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 3}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1610-11-19': 1, '1611-01-14': 1, '1612-01-30': 1}" />
@@ -4093,7 +4093,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1616-02-04': 1}" />
@@ -4113,7 +4113,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1612-05-17': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Convento de San Francisco de Mexico': 1, u'Orden de San Francisco': 1}" />
           <attvalue for="10" value="" />
@@ -4126,7 +4126,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valencia': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-01-01': 1}" />
@@ -4142,7 +4142,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Teatro': 120}" />
+          <attvalue for="7" value="{'Teatro': 5}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1609-07-30': 1}" />
@@ -4158,7 +4158,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -4174,7 +4174,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -4190,7 +4190,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Teatro': 96}" />
+          <attvalue for="7" value="{'Teatro': 4}" />
           <attvalue for="3" value="{'Mujer de Alonso Velez de Guevara. Aparece un poema por un tal Alonso de Guevar en El peregrino indiano, no creo que sea el mismo, sin embargo, hace falta mas investigacion. Ahora van incluidos como dos personas distintas': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
@@ -4207,7 +4207,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="3" value="{'Colegial de Santa Cruz de Valladolid, provisor general en todo su obisbado, catedratico de propriedad de decreto y abad de San Juan de Cenero': 1}" />
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="13" value="Persona" />
@@ -4228,7 +4228,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1604-02-15': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="8" value="Poesia" />
           <attvalue for="9" value="{u'Convento de Santa Caterina': 1, u'Orden de los predicadores': 1}" />
           <attvalue for="10" value="" />
@@ -4245,7 +4245,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Marquesado de Villalva': 1, u'Ducado de Feria': 1, u'Virreinato de Valencia': 1}" />
           <attvalue for="10" value="" />
@@ -4258,7 +4258,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1, u'Tarragona': 1, u'Madrid': 4, u'Bruselas': 1, u'Barcelona': 2, u'Milan': 1, u'Coimbra': 1, u'Lisboa': 3}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 22}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 11}" />
           <attvalue for="14" value="{'true': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-12-04': 2, '1603-01-01': 1, '1599-04-30': 1, '1599-06-22': 1, '1603-08-26': 1, '1601-01-01': 1, '1600-01-04': 1, '1600-01-01': 2, '1598-02-16': 1, '1600-05-15': 1, '1600-01-18': 1}" />
@@ -4280,7 +4280,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1617-04-18': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Marquesado de Gelves': 1, u'Condado de Priego': 1, u'Virreinato de Aragon': 1, u'Consejo de Aragon': 1}" />
           <attvalue for="10" value="" />
@@ -4293,7 +4293,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8}" />
+          <attvalue for="7" value="{'Ficcion': 4}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-4-27': 1}" />
@@ -4309,7 +4309,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valladolid': 2}" />
-          <attvalue for="7" value="{'Teatro': 48}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="4" value="{u'Fe de erratas': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1611-06-09': 1, '1609-04-20': 1}" />
@@ -4325,7 +4325,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Socius S. Officy y Magistri Sac. Pal. Apost': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
@@ -4342,7 +4342,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1616-09-22': 1}" />
@@ -4358,7 +4358,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Vicesgerens Â¿Virrey?': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
@@ -4375,7 +4375,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="3" value="{'Procurator Monasteri Sanct. Benedicti Vallisoletani': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
@@ -4392,7 +4392,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Sevilla': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-04-09': 1}" />
@@ -4408,7 +4408,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1, u'Sevilla': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-04-09': 1, '1617-11-26': 1}" />
@@ -4430,7 +4430,7 @@
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1609-04-06': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="8" value="Historia" />
           <attvalue for="9" value="{u'Orden de San Francisco': 1}" />
           <attvalue for="10" value="" />
@@ -4443,7 +4443,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-01-01': 1}" />
@@ -4459,7 +4459,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -4479,7 +4479,7 @@
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1614-12-26': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Santo Tomas de Madrid': 1}" />
           <attvalue for="10" value="" />
@@ -4492,7 +4492,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1602-08': 1}" />
@@ -4508,7 +4508,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Anvers': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-01': 1}" />
@@ -4529,7 +4529,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Teatro': 24}" />
+          <attvalue for="7" value="{'Teatro': 1}" />
           <attvalue for="8" value="Teatro" />
           <attvalue for="9" value="{u'Condado de Sastago': 1}" />
           <attvalue for="10" value="" />
@@ -4546,10 +4546,10 @@
           <attvalue for="4" value="{u'Aprobacion': 2, u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1610-01-01': 1, '1601-10-31': 1, '1617-11-29': 1, '1617-06-04': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 6, 'Poesia': 2}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 3, 'Poesia': 1}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Convento de Santa Caterina': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1611" />
           <attvalue for="13" value="Persona" />
@@ -4559,7 +4559,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4}" />
+          <attvalue for="7" value="{'Ficcion': 2}" />
           <attvalue for="4" value="{u'Otro documento': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -4580,7 +4580,7 @@
           <attvalue for="4" value="{u'Tasa': 4, u'Privilegio/Licencia': 1}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1612-11-06': 1, '1612-05-19': 1, '1617-11-16': 1, '1615-03-23': 1, '1616-12-23': 1}" />
-          <attvalue for="7" value="{'Ficcion': 8, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -4593,7 +4593,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-27': 1}" />
@@ -4609,7 +4609,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Madrid': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-02-25': 1}" />
@@ -4625,7 +4625,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Sevilla': 2}" />
-          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-01-01': 1, '1604-02-27': 1}" />
@@ -4641,10 +4641,10 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valladolid': 5}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 16}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 8}" />
           <attvalue for="4" value="{u'Aprobacion': 4, u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
-          <attvalue for="6" value="{'1603-12-11': 1, '1604-08-04': 1, '1603-11-25': 1, '1604-08-02': 1, '1603-05-15': 1}" />
+          <attvalue for="6" value="{'1604-08-04': 1, '1603-05-15': 1, '1603-11-25': 1, '1604-08-02': 1, '1603-12-11': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="signatory" />
           <attvalue for="10" value="" />
@@ -4657,7 +4657,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-07-05': 1}" />
@@ -4677,7 +4677,7 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 4}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1603-01-31': 1, '1604-09-26': 2, '1603-06-16': 1}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 12}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 6}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Castilla': 1}" />
           <attvalue for="10" value="" />
@@ -4694,8 +4694,8 @@
           <attvalue for="3" value="{'Â¿Gasol?': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 2}" />
           <attvalue for="5" value="signatory" />
-          <attvalue for="6" value="{'1613-08-23': 1, '1613-08-09': 1}" />
-          <attvalue for="7" value="{'Ficcion': 4, 'Poesia': 2}" />
+          <attvalue for="6" value="{'1613-08-09': 1, '1613-08-23': 1}" />
+          <attvalue for="7" value="{'Ficcion': 2, 'Poesia': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'San Lorenzo el Real de El Escorial': 1}" />
           <attvalue for="10" value="Poesia" />
@@ -4717,7 +4717,7 @@
           <attvalue for="11" value="" />
           <attvalue for="5" value="author" />
           <attvalue for="10" value="" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="12" value="1617" />
           <attvalue for="2" value="Zaragoza" />
         </attvalues>
@@ -4726,13 +4726,13 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 6}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 8, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 4, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 6}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-03-01': 1, '1603-02-26': 1, '1605-01-01': 1, '1618-07-24': 1, '1617-01-17': 1, '1600-01-18': 1}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="5" value="printer/editor" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1608" />
           <attvalue for="2" value="Lisboa" />
@@ -4746,10 +4746,10 @@
           <attvalue for="4" value="{u'Aprobacion': 5}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1605-03-27': 1, '1609-12-15': 1, '1605-02-26': 1, '1604-09-07': 1, '1604-08-26': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 6, 'Poesia': 2}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 3, 'Poesia': 1}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Inquisicion': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1605" />
           <attvalue for="13" value="Persona" />
@@ -4762,11 +4762,11 @@
           <attvalue for="2" value="Lisboa" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 11}" />
           <attvalue for="5" value="signatory" />
-          <attvalue for="6" value="{'1604-12-04': 1, '1604-09-09': 1, '1605-03-01': 1, '1612-01-27': 1, '1603-02-26': 1, '1604-08-31': 1, '1609-12-16': 1, '1600-01-04': 1, '1605-03-29': 1, '1600-01-18': 1, '1604-11-23': 1}" />
-          <attvalue for="7" value="{'Historia': 4, 'Teatro': 48, 'Ficcion': 12, 'Poesia': 2}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="6" value="{'1604-12-04': 1, '1604-09-09': 1, '1605-03-01': 1, '1605-03-29': 1, '1603-02-26': 1, '1604-08-31': 1, '1609-12-16': 1, '1600-01-04': 1, '1612-01-27': 1, '1600-01-18': 1, '1604-11-23': 1}" />
+          <attvalue for="7" value="{'Historia': 2, 'Teatro': 2, 'Ficcion': 6, 'Poesia': 1}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Portugal': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Historia" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1604" />
           <attvalue for="13" value="Persona" />
@@ -4776,7 +4776,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Pamplona': 4, u'Madrid': 12, u'Bruselas': 5, u'Barcelona': 3, u'Milan': 1, u'Valladolid': 2, u'Lisboa': 4, u'Valencia': 1}" />
-          <attvalue for="7" value="{'Ficcion': 50, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 25, 'Poesia': 1}" />
           <attvalue for="14" value="{'true': 5}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-09-26': 1, '1614-05-10': 1, '1616-02-04': 1, '1617-01-27': 1, '1614-10-18': 1, '1615-03-30': 1, '1617-01-21': 1, '1612-11-22': 1, '1617-06-04': 1, '1617-11-17': 1, '1605-03-29': 1, '1617-01-01': 4, '1605-07-18': 1, '1613-08-09': 1, '1614-11-17': 1, '1605-03-01': 1, '1607-03-07': 1, '1605-02-09': 2, '1617-09-24': 1, '1615-01-01': 2, '1614-01-11': 1, '1618-01-01': 1, '1615-11-05': 1, '1617-01-17': 1, '1613-08-12': 1, '1608-06-25': 1, '1605-01-01': 1}" />
@@ -4793,7 +4793,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 3}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Teatro': 1, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 3}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1610-11-19': 1, '1611-01-14': 1, '1612-01-30': 1}" />
@@ -4809,7 +4809,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'Poesia': 4}" />
+          <attvalue for="7" value="{'Poesia': 2}" />
           <attvalue for="4" value="{u'Carta': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -4825,7 +4825,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Bruselas': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1608-01-01': 1}" />
@@ -4847,7 +4847,7 @@
           <attvalue for="4" value="{'dedicatory': 1}" />
           <attvalue for="5" value="patron" />
           <attvalue for="6" value="{'': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Guerra': 1}" />
           <attvalue for="10" value="" />
@@ -4860,7 +4860,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="3" value="{'Asesor': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
@@ -4877,7 +4877,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{'': 1}" />
-          <attvalue for="7" value="{'': 2, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'': 1, 'Ficcion': 1}" />
           <attvalue for="4" value="{u'Fe de erratas': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'': 1}" />
@@ -4893,7 +4893,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Valladolid': 1}" />
-          <attvalue for="7" value="{'Teatro': 96}" />
+          <attvalue for="7" value="{'Teatro': 4}" />
           <attvalue for="3" value="{'Secretario. Me parece que hay 2 Juan Gracian en la base de datos, uno que es impresor y el otro que firma las aprobaciones de las Comedias de Valladolid. Tal vez sea Juan Gracian Dantisco hermano de Tomas Gracian Dantisco, persona que firma otras aprobaciones durante esta epoca': 1}" />
           <attvalue for="4" value="{u'Aprobacion': 1}" />
           <attvalue for="13" value="Persona" />
@@ -4914,10 +4914,10 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 3}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1616-08-22': 1, '1616-10-26': 1, '1612-01-27': 1}" />
-          <attvalue for="7" value="{'Teatro': 24, 'Ficcion': 4}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Teatro': 1, 'Ficcion': 2}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Portugal': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Teatro" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1614" />
           <attvalue for="13" value="Persona" />
@@ -4927,7 +4927,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-04-30': 1}" />
@@ -4943,7 +4943,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-21': 1}" />
@@ -4959,7 +4959,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Cordoba': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1617-01-01': 1}" />
@@ -4975,7 +4975,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 2, u'Barcelona': 2}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="14" value="{'true': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 2, '1616-01-01': 2}" />
@@ -4992,7 +4992,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lerida': 1, u'Barcelona': 3}" />
-          <attvalue for="7" value="{'Ficcion': 6, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 3, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 4}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1618-04-19': 1, '1607-02-23': 1, '1612-01-01': 1, '1609-01-01': 1}" />
@@ -5008,7 +5008,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lerida': 4}" />
-          <attvalue for="7" value="{'Ficcion': 6, 'Poesia': 2}" />
+          <attvalue for="7" value="{'Ficcion': 3, 'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 4}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1611-02-04': 1, '1612-01-01': 1, '1616-06-06': 1, '1615-01-01': 1}" />
@@ -5024,7 +5024,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Mexico': 1}" />
-          <attvalue for="7" value="{'Poesia': 2}" />
+          <attvalue for="7" value="{'Poesia': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1604-01-01': 1}" />
@@ -5044,10 +5044,10 @@
           <attvalue for="4" value="{u'Privilegio/Licencia': 10}" />
           <attvalue for="5" value="signatory" />
           <attvalue for="6" value="{'1604-12-04': 1, '1604-09-09': 1, '1605-03-01': 1, '1609-09-23': 1, '1603-02-26': 1, '1604-08-31': 1, '1600-01-04': 1, '1605-03-29': 1, '1600-01-18': 1, '1604-11-23': 1}" />
-          <attvalue for="7" value="{'Historia': 4, 'Teatro': 24, 'Ficcion': 12, 'Poesia': 2}" />
-          <attvalue for="8" value="Teatro" />
+          <attvalue for="7" value="{'Historia': 2, 'Teatro': 1, 'Ficcion': 6, 'Poesia': 1}" />
+          <attvalue for="8" value="Ficcion" />
           <attvalue for="9" value="{u'Consejo de Portugal': 1}" />
-          <attvalue for="10" value="Ficcion" />
+          <attvalue for="10" value="Historia" />
           <attvalue for="11" value="" />
           <attvalue for="12" value="1603" />
           <attvalue for="13" value="Persona" />
@@ -5057,7 +5057,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Ficcion': 2}" />
+          <attvalue for="7" value="{'Ficcion': 1}" />
           <attvalue for="4" value="{u'Impresion': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-04-30': 1}" />
@@ -5073,7 +5073,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Zaragoza': 3}" />
-          <attvalue for="7" value="{'Historia': 2, 'Ficcion': 2}" />
+          <attvalue for="7" value="{'Historia': 1, 'Ficcion': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1, u'Impresion': 2}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1599-06-22': 1, '1617-04-18': 2}" />
@@ -5089,7 +5089,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Alcala': 1, u'Barcelona': 1}" />
-          <attvalue for="7" value="{'Teatro': 44}" />
+          <attvalue for="7" value="{'Teatro': 2}" />
           <attvalue for="14" value="{'true': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1615-06-05': 1, '1616-01-01': 1}" />
@@ -5106,7 +5106,7 @@
         <attvalues>
           <attvalue for="0" value="{'True': 1}" />
           <attvalue for="1" value="{u'Lisboa': 1}" />
-          <attvalue for="7" value="{'Historia': 2}" />
+          <attvalue for="7" value="{'Historia': 1}" />
           <attvalue for="4" value="{u'Privilegio/Licencia': 1}" />
           <attvalue for="13" value="Persona" />
           <attvalue for="6" value="{'1605-02-21': 1}" />

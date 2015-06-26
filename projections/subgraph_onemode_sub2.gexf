@@ -1,0 +1,303 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="15" title="earliest_year" type="integer" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="real" type="string" />
+      <attribute id="1" title="lugar" type="string" />
+      <attribute id="2" title="genero" type="string" />
+      <attribute id="3" title="author" type="string" />
+      <attribute id="4" title="type" type="string" />
+      <attribute id="5" title="fecha" type="string" />
+      <attribute id="6" title="top_genre" type="string" />
+      <attribute id="7" title="doc_type" type="string" />
+      <attribute id="8" title="role" type="string" />
+      <attribute id="9" title="second_genre" type="string" />
+      <attribute id="10" title="second_place" type="string" />
+      <attribute id="11" title="avg_date" type="string" />
+      <attribute id="12" title="top_place" type="string" />
+      <attribute id="13" title="notas" type="string" />
+      <attribute id="14" title="inst" type="string" />
+    </attributes>
+    <nodes>
+      <node id="170" label="Diego Davalos y Figueroa">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Lima': 2}" />
+          <attvalue for="2" value="{'Filosofia': 1}" />
+          <attvalue for="3" value="{'true': 1}" />
+          <attvalue for="4" value="Persona" />
+          <attvalue for="5" value="{'1602-03-20': 1, '1603-11-29': 1}" />
+          <attvalue for="6" value="Filosofia" />
+          <attvalue for="7" value="{u'Obra': 1, u'Privilegio/Licencia': 1}" />
+          <attvalue for="8" value="author" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1602" />
+          <attvalue for="12" value="Lima" />
+        </attvalues>
+      </node>
+      <node id="169" label="Luis de Velasco y Castilla, Virrey del Peru">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'La Paz': 1}" />
+          <attvalue for="12" value="La Paz" />
+          <attvalue for="13" value="{'Caballero de la orden de Santiago, Capitan general de los reinos del Peru, Chile, Tierra firme': 1}" />
+          <attvalue for="7" value="{'dedicatory': 1}" />
+          <attvalue for="8" value="patron" />
+          <attvalue for="5" value="{'1601-09-06': 1}" />
+          <attvalue for="2" value="{'Filosofia': 1}" />
+          <attvalue for="6" value="Filosofia" />
+          <attvalue for="14" value="{u'Orden de Santiago': 1, u'Real Audiencia del Peru': 1, u'Virreinato del Peru': 1}" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1601" />
+          <attvalue for="4" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="175" label="Juan de Zuniga">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{'': 1}" />
+          <attvalue for="12" value="" />
+          <attvalue for="7" value="{u'Fe de erratas': 1}" />
+          <attvalue for="8" value="signatory" />
+          <attvalue for="5" value="{'': 1}" />
+          <attvalue for="2" value="{'Filosofia': 1}" />
+          <attvalue for="6" value="Filosofia" />
+          <attvalue for="14" value="{u'Casa de Zuniga': 1}" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="" />
+          <attvalue for="4" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="174" label="Antonio de Nagera Medrano">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Lima': 1}" />
+          <attvalue for="12" value="Lima" />
+          <attvalue for="7" value="{u'Tasa': 1}" />
+          <attvalue for="8" value="signatory" />
+          <attvalue for="5" value="{'1603-11-29': 1}" />
+          <attvalue for="2" value="{'Filosofia': 1}" />
+          <attvalue for="6" value="Filosofia" />
+          <attvalue for="14" value="{u'Real Audiencia del Peru': 1}" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1603" />
+          <attvalue for="4" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="173" label="Alonso Fernandez de Cordoba">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Lima': 1}" />
+          <attvalue for="2" value="{'Filosofia': 1}" />
+          <attvalue for="7" value="{u'Privilegio/Licencia': 1}" />
+          <attvalue for="4" value="Persona" />
+          <attvalue for="5" value="{'1602-03-20': 1}" />
+          <attvalue for="6" value="Filosofia" />
+          <attvalue for="8" value="signatory" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1602" />
+          <attvalue for="12" value="Lima" />
+        </attvalues>
+      </node>
+      <node id="172" label="Bartolome Garces de la Serna">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{'': 1}" />
+          <attvalue for="2" value="{'Filosofia': 1}" />
+          <attvalue for="7" value="{u'Fe de erratas': 1}" />
+          <attvalue for="4" value="Persona" />
+          <attvalue for="5" value="{'': 1}" />
+          <attvalue for="6" value="Filosofia" />
+          <attvalue for="8" value="signatory" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="" />
+          <attvalue for="12" value="" />
+        </attvalues>
+      </node>
+      <node id="171" label="Diego de Ojeda, Fray">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Lima': 1}" />
+          <attvalue for="12" value="Lima" />
+          <attvalue for="13" value="{'De la orden de los predicadores': 1}" />
+          <attvalue for="7" value="{u'Aprobacion': 1}" />
+          <attvalue for="8" value="signatory" />
+          <attvalue for="5" value="{'1602-03-08': 1}" />
+          <attvalue for="2" value="{'Filosofia': 1}" />
+          <attvalue for="6" value="Filosofia" />
+          <attvalue for="14" value="{u'Orden de los predicadores': 1}" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1602" />
+          <attvalue for="4" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="96" label="Antonio Ricardo">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Lima': 1}" />
+          <attvalue for="2" value="{'Filosofia': 1}" />
+          <attvalue for="7" value="{u'Impresion': 1}" />
+          <attvalue for="4" value="Persona" />
+          <attvalue for="5" value="{'1603-11-29': 1}" />
+          <attvalue for="6" value="Filosofia" />
+          <attvalue for="8" value="printer/editor" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1603" />
+          <attvalue for="12" value="Lima" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="565" source="96" target="169" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="571" source="96" target="175" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="570" source="96" target="174" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="569" source="96" target="173" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="568" source="96" target="172" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="567" source="96" target="171" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="566" source="96" target="170" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1140" source="169" target="175" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1139" source="169" target="174" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1138" source="169" target="173" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1137" source="169" target="172" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1136" source="169" target="171" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1135" source="169" target="170" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1155" source="175" target="174" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1154" source="175" target="173" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1152" source="175" target="172" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1149" source="175" target="171" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1145" source="175" target="170" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1153" source="174" target="173" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1151" source="174" target="172" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1148" source="174" target="171" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1144" source="174" target="170" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1150" source="173" target="172" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1147" source="173" target="171" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1143" source="173" target="170" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1146" source="172" target="171" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1142" source="172" target="170" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1141" source="171" target="170" weight="0.142857142857">
+        <attvalues>
+          <attvalue for="15" value="2000" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

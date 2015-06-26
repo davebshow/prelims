@@ -1,0 +1,161 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="14" title="earliest_year" type="integer" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="real" type="string" />
+      <attribute id="1" title="lugar" type="string" />
+      <attribute id="2" title="top_place" type="string" />
+      <attribute id="3" title="doc_type" type="string" />
+      <attribute id="4" title="role" type="string" />
+      <attribute id="5" title="fecha" type="string" />
+      <attribute id="6" title="genero" type="string" />
+      <attribute id="7" title="top_genre" type="string" />
+      <attribute id="8" title="inst" type="string" />
+      <attribute id="9" title="second_genre" type="string" />
+      <attribute id="10" title="second_place" type="string" />
+      <attribute id="11" title="avg_date" type="string" />
+      <attribute id="12" title="type" type="string" />
+      <attribute id="13" title="author" type="string" />
+    </attributes>
+    <nodes>
+      <node id="296" label="Teresa de Zuniga, Duquesa de Arcos">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Sevilla': 1}" />
+          <attvalue for="2" value="Sevilla" />
+          <attvalue for="3" value="{'dedicatory': 1}" />
+          <attvalue for="4" value="patron" />
+          <attvalue for="5" value="{'1605-04-23': 1}" />
+          <attvalue for="6" value="{'Historia': 1}" />
+          <attvalue for="7" value="Historia" />
+          <attvalue for="8" value="{u'Casa de Zuniga': 1, u'Ducado de Arcos': 1}" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1605" />
+          <attvalue for="12" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="297" label="Alonso Rodriguez Gamarra">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Sevilla': 1}" />
+          <attvalue for="6" value="{'Historia': 1}" />
+          <attvalue for="3" value="{u'Privilegio/Licencia': 1}" />
+          <attvalue for="12" value="Persona" />
+          <attvalue for="5" value="{'1605-01-01': 1}" />
+          <attvalue for="7" value="Historia" />
+          <attvalue for="4" value="signatory" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1605" />
+          <attvalue for="2" value="Sevilla" />
+        </attvalues>
+      </node>
+      <node id="295" label="Diego de Pantoja">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Sevilla': 1, u'Pekin': 1}" />
+          <attvalue for="2" value="Sevilla" />
+          <attvalue for="13" value="{'true': 1}" />
+          <attvalue for="4" value="author" />
+          <attvalue for="5" value="{'1605-01-01': 1, '1602-03-09': 1}" />
+          <attvalue for="6" value="{'Historia': 1}" />
+          <attvalue for="7" value="Historia" />
+          <attvalue for="3" value="{u'Obra': 1, u'Carta': 1}" />
+          <attvalue for="8" value="{u'Compania de Jesus': 1}" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="Pekin" />
+          <attvalue for="11" value="1603" />
+          <attvalue for="12" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="298" label="Esteban de Villarreal">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Sevilla': 1}" />
+          <attvalue for="6" value="{'Historia': 1}" />
+          <attvalue for="3" value="{'dedicatory': 1}" />
+          <attvalue for="12" value="Persona" />
+          <attvalue for="5" value="{'1605-04-23': 1}" />
+          <attvalue for="7" value="Historia" />
+          <attvalue for="4" value="patron" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1605" />
+          <attvalue for="2" value="Sevilla" />
+        </attvalues>
+      </node>
+      <node id="299" label="Luis de Guzman">
+        <attvalues>
+          <attvalue for="0" value="{'True': 1}" />
+          <attvalue for="1" value="{u'Pekin': 1}" />
+          <attvalue for="2" value="Pekin" />
+          <attvalue for="3" value="{u'Carta': 1}" />
+          <attvalue for="4" value="signatory" />
+          <attvalue for="5" value="{'1602-03-09': 1}" />
+          <attvalue for="6" value="{'Historia': 1}" />
+          <attvalue for="7" value="Historia" />
+          <attvalue for="8" value="{u'Compania de Jesus': 1}" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="" />
+          <attvalue for="11" value="1602" />
+          <attvalue for="12" value="Persona" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1826" source="296" target="297" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1822" source="296" target="295" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1827" source="296" target="298" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1828" source="296" target="299" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1823" source="297" target="295" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1829" source="297" target="298" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1830" source="297" target="299" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1824" source="295" target="298" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1825" source="295" target="299" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+      <edge id="1831" source="298" target="299" weight="0.25">
+        <attvalues>
+          <attvalue for="14" value="2000" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

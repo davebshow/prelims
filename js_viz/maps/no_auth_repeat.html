@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.provinces {
+  fill: #ddc;;
+}
+
+.province-borders {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.subunit-borders {
+  fill: none;
+  stroke: #777;
+  stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
+
+.subunit-label {
+  fill: #777;
+  fill-opacity: .5;
+  font-size: 25px;
+  font-weight: 300;
+  text-anchor: middle;
+}
+
+/*.q0-9 { fill:rgb(247,251,255); }
+.q1-9 { fill:rgb(222,235,247); }
+.q2-9 { fill:rgb(198,219,239); }
+.q3-9 { fill:rgb(158,202,225); }
+.q4-9 { fill:rgb(107,174,214); }
+.q5-9 { fill:rgb(66,146,198); }
+.q6-9 { fill:rgb(33,113,181); }
+.q7-9 { fill:rgb(8,81,156); }
+.q8-9 { fill:rgb(8,48,107); }*/
+
+.q0-9{fill:rgb(255,247,236)}
+.q1-9{fill:rgb(254,232,200)}
+.q2-9{fill:rgb(253,212,158)}
+.q3-9{fill:rgb(253,187,132)}
+.q4-9{fill:rgb(252,141,89)}
+.q5-9{fill:rgb(239,101,72)}
+.q6-9{fill:rgb(215,48,31)}
+.q7-9{fill:rgb(179,0,0)}
+.q8-9{fill:rgb(127,0,0)}
+
+/*.q0-9{fill:rgb(247,252,253)}
+.q1-9{fill:rgb(229,245,249)}
+.q2-9{fill:rgb(204,236,230)}
+.q3-9{fill:rgb(153,216,201)}
+.q4-9{fill:rgb(102,194,164)}
+.q5-9{fill:rgb(65,174,118)}
+.q6-9{fill:rgb(35,139,69)}
+.q7-9{fill:rgb(0,109,44)}
+.q8-9{fill:rgb(0,68,27)}*/
+
+</style>
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+<script>
+
+var width = 450,
+    height = 350;
+
+
+function mapInit (data) {
+    var rateById = d3.map();
+
+    var quantize = d3.scale.quantize()
+        .domain([1, 9])
+        .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
+
+    var projection = d3.geo.mercator()
+        .scale(1500)
+        .center([-5, 40])
+        .translate([width / 2, height / 2]);
+
+    var path = d3.geo.path()
+        .projection(projection);
+
+    var svg = d3.select("body").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    queue()
+        .defer(d3.json, "spain_data/spain.json")
+        .defer(d3.csv, data, function(d) { rateById.set(d.id, +d.count); })
+        .await(ready);
+
+    function ready(error, es) {
+        if (error) throw error;
+
+        svg.append("g")
+            .attr("class", "provinces")
+            .selectAll("path")
+            .data(topojson.feature(es, es.objects.provinces).features)
+            .enter().append("path")
+            .attr("class", function(d) {  console.log("d", d); return quantize(rateById.get(d.properties.woe_id)); })
+            .attr("d", path);
+
+        svg.append("path")
+            .datum(topojson.mesh(es, es.objects.provinces, function(a, b) { return a !== b; }))
+            .attr("class", "province-borders")
+            .attr("d", path);
+
+        svg.append("path")
+            .datum(topojson.mesh(es, es.objects.subunits, function(a, b) { return a !== b; }))
+            .attr("class", "subunit-borders")
+            .attr("d", path);
+
+        // Add places
+        // svg.append("path")
+        //     .datum(topojson.feature(es, es.objects.places))
+        //     .attr("d", path)
+        //     .attr("class", "place");
+        //
+        // svg.selectAll(".place-label")
+        //     .data(topojson.feature(es, es.objects.places).features)
+        //     .enter().append("text")
+        //     .attr("class", "place-label")
+        //     .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+        //     .attr("dy", ".35em")
+        //     .text(function(d) { return d.properties.NAME; });
+        //
+        // svg.selectAll(".place-label")
+        //     .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
+        //      .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; });
+    }
+}
+var infiles = ["western_europe_data/tsv/no_auth_mod12.csv",
+               "western_europe_data/tsv/no_auth_mod11.csv",
+               "western_europe_data/tsv/no_auth_mod10.csv",
+               "western_europe_data/tsv/no_auth_mod7.csv",
+               "western_europe_data/tsv/no_auth_mod8.csv",
+               "western_europe_data/tsv/no_auth_mod5.csv",
+               "western_europe_data/tsv/no_auth_mod9.csv",
+               "western_europe_data/tsv/no_auth_mod4.csv",
+               "western_europe_data/tsv/no_auth_mod0.csv",
+               "western_europe_data/tsv/no_auth_mod3.csv",
+               "western_europe_data/tsv/no_auth_mod2.csv",
+               "western_europe_data/tsv/no_auth_mod15.csv"]
+for (i=0; i<infiles.length; i++) {
+    var data = infiles[i]
+    mapInit(data);
+}
+// d3.select(self.frameElement).style("height", height + "px");
+
+</script>

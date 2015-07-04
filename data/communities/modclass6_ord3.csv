@@ -1,0 +1,37 @@
+,,,,,,,,,,,,,role,,top_place,,,Modularity Class
+266,266,Diego de la Huerta,{'Historia': 1},{'1617-04-13': 1},Historia,Persona,1617,{u'Zaragoza': 1},,,{u'Aprobacion': 1},,signatory,{'True': 1},Zaragoza,,,0
+141,141,"Luisa de Padilla y Manrique, Condesa de Aranda",{'Historia': 1},{'': 1},Historia,Persona,,{'': 1},"{u'Condado de Aranda': 1, u'Vizcondado de Rueda': 1}",,{'dedicatory': 1},,patron,{'True': 1},,"{'Vizcondesa de Viota, y Rueda, Senora de la Tenencia de Alcalaten, y de las Boronias de Ventilova, Mizlata y Cortes': 1}",,0
+142,142,Juan de Larombe,{'Historia': 1},{'1617-04-18': 1},Historia,Persona,1617,{u'Zaragoza': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Zaragoza,,,0
+105,105,Agustin de Morlanes,{'Historia': 1},{'1617-04-16': 1},Historia,Persona,1617,{u'Zaragoza': 1},,,{u'Aprobacion': 1},,signatory,{'True': 1},Zaragoza,,,0
+104,104,"Diego Carrillo de Mendoza y Pimentel, Virrey de Aragon",{'Historia': 1},{'1617-04-18': 1},Historia,Persona,1617,{u'Zaragoza': 1},"{u'Marquesado de Gelves': 1, u'Condado de Priego': 1, u'Virreinato de Aragon': 1, u'Consejo de Aragon': 1}",,{u'Privilegio/Licencia': 1},,signatory,{'True': 1},Zaragoza,{'Marques de Gelbes': 1},,0
+143,143,Pedro Morejon,{'Historia': 1},{'1617-04-18': 1},Historia,Persona,1617,{u'Zaragoza': 1},{u'Compania de Jesus': 1},,{u'Obra': 1},,author,{'True': 1},Zaragoza,,{'true': 1},0
+69,69,Varez de Castro,"{'': 1, 'Ficcion': 2}","{'1599-03-04': 1, '1598-02-16': 1, '1600-01-01': 1}",Ficcion,Persona,1599,{u'Madrid': 3},,,"{u'Privilegio/Licencia': 1, u'Impresion': 2}",,printer/editor,{'True': 1},Madrid,,,2
+70,70,Mateo Aleman,"{'': 1, 'Ficcion': 11}","{'1604-12-04': 2, '1603-01-01': 1, '1599-04-30': 1, '1599-06-22': 1, '1603-08-26': 1, '1601-01-01': 1, '1600-01-04': 1, '1600-01-01': 2, '1598-02-16': 1, '1600-05-15': 1, '1600-01-18': 1}",Ficcion,Persona,1600,"{u'Zaragoza': 1, u'Tarragona': 1, u'Madrid': 4, u'Bruselas': 1, u'Barcelona': 2, u'Milan': 1, u'Coimbra': 1, u'Lisboa': 3}",,Lisboa,"{u'Obra': 2, u'Privilegio/Licencia': 2}",,author,{'True': 1},Madrid,,{'true': 2},2
+432,432,"Francisco de Rojas, Marques de Poza","{'': 1, 'Ficcion': 9}",{'': 1},Ficcion,Persona,,{'': 1},"{u'Marquesado de Poza': 1, u'Consejo de Hacienda': 1, u'Casa de Monzon': 1}",,{'dedicatory': 1},,patron,{'True': 1},,{'Presidente del Consejo de Hacienda': 1},,2
+422,422,Diogo Gomez Loureiro,{'Ficcion': 1},{'1600-01-04': 1},Ficcion,Persona,1600,{u'Coimbra': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Coimbra,,,2
+123,123,Luis Perez,{'Ficcion': 1},{'1600-01-18': 1},Ficcion,Persona,1600,{u'Lisboa': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Lisboa,,,2
+124,124,"Antonio Tarrique, Fray",{'Ficcion': 1},{'1600-01-07': 1},Ficcion,Persona,1600,{u'Lisboa': 1},,,{u'Aprobacion': 1},,signatory,{'True': 1},Lisboa,,,2
+65,65,Gonzalo de la Vega,"{'': 1, 'Ficcion': 1}",{'1599-03-04': 1},,Persona,1599,{u'Madrid': 1},{u'Consejo de Castilla': 1},,{u'Tasa': 1},Ficcion,signatory,{'True': 1},Madrid,,,2
+68,68,Juan Vazquez de Marmol,"{'': 1, 'Ficcion': 1}",{'': 1},,Persona,,{'': 1},,,{u'Fe de erratas': 1},Ficcion,signatory,{'True': 1},,,,2
+126,126,Juan Martinez,{'Ficcion': 1},{'1601-01-01': 1},Ficcion,Persona,1601,{u'Madrid': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Madrid,,,2
+66,66,"Diego Davilo, Fray","{'': 1, 'Ficcion': 2}",{'1598-01-13': 1},Ficcion,Persona,1598,{u'Madrid': 1},{u'Consejo de Castilla': 1},,{u'Aprobacion': 1},,signatory,{'True': 1},Madrid,,,2
+267,267,Juan de Bonilla,"{'Historia': 1, 'Ficcion': 1}","{'1599-06-22': 1, '1617-04-18': 2}",Historia,Persona,1611,{u'Zaragoza': 3},,,"{u'Privilegio/Licencia': 1, u'Impresion': 2}",Ficcion,printer/editor,{'True': 1},Zaragoza,,,0
+106,106,"Pedro de Molina, Vicario General de Zaragoza",{'Historia': 1},{'1617-08-15': 1},Historia,Persona,1617,{u'Zaragoza': 1},{u'Archidiocesis de Zaragoza': 1},,{u'Privilegio/Licencia': 1},,signatory,{'True': 1},Zaragoza,,,0
+35,35,Juan Perez de Valdivielso,{'Ficcion': 1},{'1599-06-22': 1},Ficcion,Persona,1599,{u'Zaragoza': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Zaragoza,,,0
+73,73,Galvan,{'Ficcion': 1},{'1599-06-22': 1},Ficcion,Persona,1599,{u'Zaragoza': 1},,,{u'Privilegio/Licencia': 1},,signatory,{'True': 1},Zaragoza,{'Asesor': 1},,0
+165,165,Agostino Galamini,{'Ficcion': 2},{'': 1},Ficcion,Persona,,{'': 1},,,{u'Privilegio/Licencia': 1},,signatory,{'True': 1},,{'Inquisidor de Milan': 1},,1
+167,167,Pedromartir Locarno,{'Ficcion': 2},{'1603-08-26': 2},Ficcion,Persona,1603,{u'Milan': 2},,,{u'Impresion': 2},,printer/editor,{'True': 1},Milan,,,1
+99,99,"Fabrico Serbellon, Conde de Castion",{'Ficcion': 2},{'1603-08-26': 1},Ficcion,Persona,1603,{u'Milan': 1},{u'Condado de Castion': 1},,{'dedicatory': 1},,patron,{'True': 1},Milan,{'Senor del Marquesado de Romanan': 1},,1
+163,163,Jeronimo Bordon,"{'Ficcion': 2, 'Poesia': 1}","{'1611-01-01': 1, '1603-08-26': 2}",Ficcion,Persona,1605,{u'Milan': 3},,,{u'Impresion': 3},Poesia,printer/editor,{'True': 1},Milan,,,1
+60,60,Pedro de Velasco,{'Poesia': 1},{'': 1},Poesia,Persona,,{'': 1},,,{'dedicatory': 1},,patron,{'True': 1},,"{'Senor de la villa Cilleruelo y Valle de la ciudad de Hebro, capitan de lanzas de la guardia del excelente seonr condestable de Castilla, governador del estado de Milan': 1}",,1
+57,57,Aloysius Barrola Augustanis,"{'Ficcion': 1, 'Poesia': 1}",{'': 2},Ficcion,Persona,,{'': 2},,,{u'Privilegio/Licencia': 2},Poesia,signatory,{'True': 1},,{'Nombre latinizado': 1},,1
+182,182,"Julius Cordelles, Vicario General",{'Ficcion': 3},{'1599-04-30': 1},Ficcion,Persona,1599,{u'Barcelona': 1},,,{u'Privilegio/Licencia': 1},,signatory,{'True': 1},Barcelona,,,2
+48,48,"Juan Vicente, Fray",{'Ficcion': 4},{'1599-4-27': 1},Ficcion,Persona,1599,{u'Barcelona': 1},,,{u'Aprobacion': 1},,signatory,{'True': 1},Barcelona,,,2
+274,274,Hieronymo Martin,{'Ficcion': 1},{'1603-01-01': 1},Ficcion,Persona,1603,{u'Tarragona': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Tarragona,,,2
+276,276,Roberto,{'Ficcion': 1},{'1603-01-01': 1},Ficcion,Persona,1603,{u'Tarragona': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Tarragona,,,2
+144,144,Gabriel Graells,{'Ficcion': 1},{'1599-04-30': 1},Ficcion,Persona,1599,{u'Barcelona': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Barcelona,,,2
+47,47,Jeronimo Genoves,{'Ficcion': 1},{'1599-04-30': 1},Ficcion,Persona,1599,{u'Barcelona': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Barcelona,,,2
+344,344,Giraldo Dotil,{'Ficcion': 1},{'1599-04-30': 1},Ficcion,Persona,1599,{u'Barcelona': 1},,,{u'Impresion': 1},,printer/editor,{'True': 1},Barcelona,,,2
+162,162,Aloysius Bossius,"{'Ficcion': 2, 'Poesia': 1}",{'': 2},Ficcion,Persona,,{'': 2},,,{u'Privilegio/Licencia': 2},Poesia,signatory,{'True': 1},,{'Tal vez Â´Luis BosiusÂ´ en Latin': 1},,1
+280,280,"Mateo de Canseco, vicario general",{'Ficcion': 1},{'1599-06-21': 1},Ficcion,Persona,1599,{u'Zaragoza': 1},,,{u'Privilegio/Licencia': 1},,signatory,{'True': 1},Zaragoza,,,0
+433,433,Alonso de Barros,"{'': 1, 'Ficcion': 10}",{'': 1},Ficcion,Persona,,{'': 1},,,{u'Otro documento': 1},,signatory,{'True': 1},,,,2

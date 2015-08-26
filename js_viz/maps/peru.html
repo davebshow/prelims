@@ -58,16 +58,15 @@ li.key {
     padding-left: 0;
     padding-right: 0;
 }
-
-.q0-9{fill:rgb(247,252,253)}
-.q1-9{fill:rgb(229,245,249)}
-.q2-9{fill:rgb(204,236,230)}
-.q3-9{fill:rgb(153,216,201)}
-.q4-9{fill:rgb(102,194,164)}
-.q5-9{fill:rgb(65,174,118)}
-.q6-9{fill:rgb(35,139,69)}
-.q7-9{fill:rgb(0,109,44)}
-.q8-9{fill:rgb(0,68,27)}
+.q0-9{fill:rgb(255,247,236)}
+.q1-9{fill:rgb(254,232,200)}
+.q2-9{fill:rgb(253,212,158)}
+.q3-9{fill:rgb(253,187,132)}
+.q4-9{fill:rgb(252,141,89)}
+.q5-9{fill:rgb(239,101,72)}
+.q6-9{fill:rgb(215,48,31)}
+.q7-9{fill:rgb(179,0,0)}
+.q8-9{fill:rgb(127,0,0)}
 
 </style>
 <body>
@@ -77,17 +76,17 @@ li.key {
 <script>
 
 var width = 1400,
-    height = 700;
+    height = 1000;
 
 var rateById = d3.map();
 
 var quantize = d3.scale.quantize()
-    .domain([-1, 8])
+    .domain([0, 18])
     .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
 var projection = d3.geo.mercator()
     .scale(2500)
-    .center([0, 40])
+    .center([-77, -11])
     .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()
@@ -98,8 +97,8 @@ var svg = d3.select("body").append("svg")
     .attr("height", height);
 
 queue()
-    .defer(d3.json, "/spain_data/spain.json")
-    .defer(d3.csv, "/spain_data/csv/printers.csv", function(d) { rateById.set(d.id, +d.count); })
+    .defer(d3.json, "peru_data/peru.json")
+    .defer(d3.csv, "peru_data/csv/editions.csv", function(d) { rateById.set(d.id, +d.count); })
     .await(ready);
 
 function ready(error, es) {
@@ -124,22 +123,22 @@ function ready(error, es) {
         .attr("d", path);
 
     // Add places
-    svg.append("path")
-        .datum(topojson.feature(es, es.objects.places))
-        .attr("d", path)
-        .attr("class", "place");
+    // svg.append("path")
+    //     .datum(topojson.feature(es, es.objects.places))
+    //     .attr("d", path)
+    //     .attr("class", "place");
 
-    svg.selectAll(".place-label")
-        .data(topojson.feature(es, es.objects.places).features)
-        .enter().append("text")
-        .attr("class", "place-label")
-        .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
-        .attr("dy", ".35em")
-        .text(function(d) { return d.properties.NAME; });
-
-    svg.selectAll(".place-label")
-        .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
-         .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; });
+    // svg.selectAll(".place-label")
+    //     .data(topojson.feature(es, es.objects.places).features)
+    //     .enter().append("text")
+    //     .attr("class", "place-label")
+    //     .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+    //     .attr("dy", ".35em")
+    //     .text(function(d) { return d.properties.NAME; });
+    //
+    // svg.selectAll(".place-label")
+    //     .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
+    //      .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; });
 }
 
 d3.select(self.frameElement).style("height", height + "px");

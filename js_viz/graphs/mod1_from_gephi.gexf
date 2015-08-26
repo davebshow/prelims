@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-07-07">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="genero" type="string"></attribute>
+      <attribute id="1" title="fecha" type="string"></attribute>
+      <attribute id="2" title="top_genre" type="string"></attribute>
+      <attribute id="3" title="type" type="string"></attribute>
+      <attribute id="4" title="avg_date" type="string"></attribute>
+      <attribute id="5" title="lugar" type="string"></attribute>
+      <attribute id="6" title="inst" type="string"></attribute>
+      <attribute id="7" title="second_place" type="string"></attribute>
+      <attribute id="8" title="doc_type" type="string"></attribute>
+      <attribute id="9" title="second_genre" type="string"></attribute>
+      <attribute id="10" title="role" type="string"></attribute>
+      <attribute id="11" title="real" type="string"></attribute>
+      <attribute id="12" title="top_place" type="string"></attribute>
+      <attribute id="13" title="notas" type="string"></attribute>
+      <attribute id="14" title="author" type="string"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="15" title="earliest_year" type="long"></attribute>
+    </attributes>
+    <nodes>
+      <node id="203" label="Henry Smeyers">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1617-07-05': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Bruselas': 1}"></attvalue>
+          <attvalue for="8" value="{u'Aprobacion': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Bruselas"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="174.2967" y="-115.55335" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="134" label="Leon de San Pedro, Fray">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1617-11-17': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Pamplona': 1}"></attvalue>
+          <attvalue for="6" value="{u'Convento de San Francisco de Pamplona': 1, u'Orden de San Francisco': 1, u'Consejo de Navarra': 1}"></attvalue>
+          <attvalue for="8" value="{u'Aprobacion': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Pamplona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="54.212814" y="-227.82483" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="208" label="Miguel de Cervantes Saavedra">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 25, 'Poesia': 1}"></attvalue>
+          <attvalue for="1" value="{'1604-09-26': 1, '1614-05-10': 1, '1616-02-04': 1, '1617-01-27': 1, '1614-10-18': 1, '1615-03-30': 1, '1617-01-21': 1, '1612-11-22': 1, '1617-06-04': 1, '1617-11-17': 1, '1605-03-29': 1, '1617-01-01': 4, '1605-07-18': 1, '1613-08-09': 1, '1614-11-17': 1, '1605-03-01': 1, '1607-03-07': 1, '1605-02-09': 2, '1617-09-24': 1, '1615-01-01': 2, '1614-01-11': 1, '1618-01-01': 1, '1615-11-05': 1, '1617-01-17': 1, '1613-08-12': 1, '1608-06-25': 1, '1605-01-01': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1612"></attvalue>
+          <attvalue for="5" value="{u'Pamplona': 4, u'Madrid': 12, u'Bruselas': 5, u'Barcelona': 3, u'Milan': 1, u'Valladolid': 2, u'Lisboa': 4, u'Valencia': 1}"></attvalue>
+          <attvalue for="7" value="Bruselas"></attvalue>
+          <attvalue for="8" value="{u'Obra': 5, u'Privilegio/Licencia': 6}"></attvalue>
+          <attvalue for="9" value="Poesia"></attvalue>
+          <attvalue for="10" value="author"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Madrid"></attvalue>
+          <attvalue for="14" value="{'true': 5}"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="9.627907"></viz:size>
+        <viz:position x="32.307842" y="-17.456358" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="184" label="Pedro Fernandez de Castro, Conde de Lemos">
+        <attvalues>
+          <attvalue for="0" value="{'': 1, 'Ficcion': 17, 'Poesia': 2}"></attvalue>
+          <attvalue for="1" value="{'': 6}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="5" value="{'': 6}"></attvalue>
+          <attvalue for="6" value="{u'Consejo de Italia': 1, u'Orden de Alcantara': 1, u'Consejo de Indias': 1, u'Condado de Villalba': 1, u'Condado de Andrade': 1, u'Condado de Lemos': 1, u'Marquesado de Sarria': 1}"></attvalue>
+          <attvalue for="8" value="{'dedicatory': 6}"></attvalue>
+          <attvalue for="9" value="Poesia"></attvalue>
+          <attvalue for="10" value="patron"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="13" value="{'Conde de Andrade y Villalva, Marques de Sarria, Gentilhombre de la Camara de su Magestad, Presidente del Consejo Supremo de Italia, Comendador de Cncomienda de la Zarza, de la orden de Alcantara. Pariente del duque de Lerma': 1}"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="9.627907"></viz:size>
+        <viz:position x="204.30968" y="-71.42861" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="394" label="DeVitte">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1616-02-04': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1616"></attvalue>
+          <attvalue for="5" value="{u'Bruselas': 1}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Bruselas"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="240.82477" y="-54.602722" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="362" label="Huberto Antonio">
+        <attvalues>
+          <attvalue for="0" value="{'Teatro': 1, 'Ficcion': 5}"></attvalue>
+          <attvalue for="1" value="{'1614-01-01': 1, '1618-01-01': 1, '1610-11-07': 1, '1617-08-18': 1, '1611-01-01': 1, '1614-05-10': 2, '1617-01-01': 1, '1616-02-04': 2}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1614"></attvalue>
+          <attvalue for="5" value="{u'Bruselas': 10}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 4, u'Impresion': 6}"></attvalue>
+          <attvalue for="9" value="Teatro"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Bruselas"></attvalue>
+          <attvalue for="13" value="{'Impresor de sus Altezas': 1}"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="3.27907"></viz:size>
+        <viz:position x="157.20325" y="61.098106" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="132" label="Nicolas de Assiayn">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 4}"></attvalue>
+          <attvalue for="1" value="{'1614-01-11': 2, '1617-09-17': 1, '1617-11-17': 1, '1615-01-01': 1, '1617-01-01': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1615"></attvalue>
+          <attvalue for="5" value="{u'Pamplona': 6}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 2, u'Impresion': 4}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Pamplona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.6511629"></viz:size>
+        <viz:position x="93.49831" y="-251.55179" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="133" label="Geronimo de Parada, Fray">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1617-09-12': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Pamplona': 1}"></attvalue>
+          <attvalue for="6" value="{u'Consejo de Navarra': 1, u'Convento de San Agustin': 1}"></attvalue>
+          <attvalue for="8" value="{u'Aprobacion': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Pamplona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="69.10908" y="-246.46681" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="131" label="Pedro de Zunzarren">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 4}"></attvalue>
+          <attvalue for="1" value="{'1617-09-17': 1, '1614-01-11': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1615"></attvalue>
+          <attvalue for="5" value="{u'Pamplona': 2}"></attvalue>
+          <attvalue for="6" value="{u'Consejo de Navarra': 1}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 2}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Pamplona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.6511629"></viz:size>
+        <viz:position x="115.32587" y="-256.9277" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="53" label="Pedro de Olivares, Fray">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 3}"></attvalue>
+          <attvalue for="1" value="{'1613-09-29': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1613"></attvalue>
+          <attvalue for="5" value="{u'Pamplona': 1}"></attvalue>
+          <attvalue for="6" value="{u'Consejo de Navarra': 1}"></attvalue>
+          <attvalue for="8" value="{u'Aprobacion': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Pamplona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.3255814"></viz:size>
+        <viz:position x="150.91888" y="-252.6313" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="224" label="Raphael Vives">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1617-01-01': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Barcelona': 1}"></attvalue>
+          <attvalue for="8" value="{u'Impresion': 1}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Barcelona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.6511629"></viz:size>
+        <viz:position x="204.77065" y="-170.97789" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="9" label="Sebastian Matevat">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1617-01-27': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Barcelona': 1}"></attvalue>
+          <attvalue for="8" value="{u'Impresion': 1}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Barcelona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.8139535"></viz:size>
+        <viz:position x="84.889404" y="-196.15556" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="425" label="Pedro Patricio Mey">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1605-07-18': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1605"></attvalue>
+          <attvalue for="5" value="{u'Valencia': 1}"></attvalue>
+          <attvalue for="8" value="{u'Impresion': 1}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Valencia"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.3255814"></viz:size>
+        <viz:position x="-17.981762" y="-161.5009" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="424" label="Jusepe Ferrer">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1605-07-18': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1605"></attvalue>
+          <attvalue for="5" value="{u'Valencia': 1}"></attvalue>
+          <attvalue for="8" value="{u'Impresion': 1}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Valencia"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.3255814"></viz:size>
+        <viz:position x="0.5308696" y="-179.4115" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="8" label="Domingo Abbad y Huerta">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1617-01-27': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Valencia': 1}"></attvalue>
+          <attvalue for="6" value="{u'Archidiocesis de Valencia': 1}"></attvalue>
+          <attvalue for="8" value="{u'Aprobacion': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Valencia"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.8139535"></viz:size>
+        <viz:position x="127.0791" y="-214.58426" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="416" label="De Salba">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 3}"></attvalue>
+          <attvalue for="1" value="{'': 3}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="5" value="{u'Barcelona': 3}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 3}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Barcelona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.3023257"></viz:size>
+        <viz:position x="168.62944" y="-173.60036" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="223" label="T. Berti">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1617-08-18': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Bruselas': 1}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Bruselas"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="203.01921" y="-123.3418" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="138" label="Alfonso Lopez de Zuniga y Perez de Guzman, Duque de Bejar">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 7}"></attvalue>
+          <attvalue for="1" value="{'': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="5" value="{'': 1}"></attvalue>
+          <attvalue for="6" value="{u'Casa de Zuniga': 1, u'Ducado de Bejar': 1, u'Marquesado de Gibraleon': 1, u'Condado de Belalcazar': 1, u'Vizcondado de Puebla de Alcocer': 1, u'Condado de Banares': 1}"></attvalue>
+          <attvalue for="8" value="{'dedicatory': 1}"></attvalue>
+          <attvalue for="10" value="patron"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="13" value="{'Marques de Gibralon, Conde de Belalcazar y Banares, Vizconde de la Puebla de Alcozer, Senor de las villas de Capilla, Curiel y Burguillos': 1}"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="3.1162791"></viz:size>
+        <viz:position x="112.973045" y="3.1297479" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="226" label="Joan Simon">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 2}"></attvalue>
+          <attvalue for="1" value="{'1617-01-27': 1, '1617-06-04': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Barcelona': 2}"></attvalue>
+          <attvalue for="8" value="{u'Impresion': 2}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Barcelona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.4651163"></viz:size>
+        <viz:position x="116.46201" y="-131.17654" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="225" label="Bautista Sorita">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 2}"></attvalue>
+          <attvalue for="1" value="{'1617-06-04': 1, '1617-01-01': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1617"></attvalue>
+          <attvalue for="5" value="{u'Barcelona': 2}"></attvalue>
+          <attvalue for="8" value="{u'Impresion': 2}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Barcelona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.3023257"></viz:size>
+        <viz:position x="149.36475" y="-101.60176" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="7" label="Juan Jusepe Martinez Rubio">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1616-05-27': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1616"></attvalue>
+          <attvalue for="5" value="{u'Valencia': 1}"></attvalue>
+          <attvalue for="6" value="{u'Archidiocesis de Valencia': 1}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Valencia"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.8139535"></viz:size>
+        <viz:position x="105.31486" y="-206.55678" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="415" label="De Vall">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 3}"></attvalue>
+          <attvalue for="1" value="{'': 3}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="5" value="{u'Barcelona': 3}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 3}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Barcelona"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="2.3023257"></viz:size>
+        <viz:position x="150.80923" y="-163.7214" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+      <node id="426" label="Luis Pellicer, Fray">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 2}"></attvalue>
+          <attvalue for="1" value="{'1605-07-18': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1605"></attvalue>
+          <attvalue for="5" value="{u'Valencia': 1}"></attvalue>
+          <attvalue for="8" value="{u'Aprobacion': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Valencia"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.8139535"></viz:size>
+        <viz:position x="66.166885" y="-114.02575" z="0.0"></viz:position>
+        <viz:color r="120" g="214" b="26"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="908" source="134" target="208" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="902" source="134" target="132" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="909" source="134" target="184" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="907" source="134" target="133" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="898" source="134" target="131" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1361" source="208" target="224" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1340" source="208" target="416" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="208" target="7" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1339" source="208" target="415" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1342" source="208" target="425" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1360" source="208" target="223" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1343" source="208" target="426" weight="0.45">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="903" source="208" target="132" weight="0.95">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1349" source="208" target="394" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1209" source="208" target="184" weight="2.602381">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1363" source="208" target="226" weight="0.34285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1362" source="208" target="225" weight="0.36666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="905" source="208" target="133" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="899" source="208" target="131" weight="0.95">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="385" source="208" target="53" weight="0.75">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1365" source="208" target="362" weight="1.025">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1289" source="208" target="203" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1341" source="208" target="424" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="208" target="9" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1218" source="184" target="223" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="904" source="184" target="132" weight="0.95">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1188" source="184" target="394" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1221" source="184" target="226" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1220" source="184" target="225" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="906" source="184" target="133" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="900" source="184" target="131" weight="0.95">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="386" source="184" target="53" weight="0.75">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1223" source="184" target="362" weight="0.525">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1203" source="184" target="203" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="184" target="9" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2059" source="394" target="362" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1290" source="362" target="203" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="901" source="132" target="133" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="896" source="132" target="131" weight="0.95">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="388" source="132" target="53" weight="0.75">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="897" source="133" target="131" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="387" source="131" target="53" weight="0.75">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1531" source="224" target="416" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1534" source="224" target="415" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1219" source="224" target="184" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1532" source="224" target="225" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2191" source="425" target="426" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2189" source="425" target="424" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2190" source="424" target="426" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="8" target="208" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="8" target="416" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="8" target="7" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="8" target="415" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="8" target="184" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="8" target="226" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="8" target="9" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="416" target="7" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2176" source="416" target="415" weight="0.43452382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1194" source="416" target="184" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1541" source="416" target="226" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1535" source="416" target="225" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="416" target="9" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1529" source="223" target="362" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1292" source="223" target="203" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="942" source="138" target="208" weight="1.7333333">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="944" source="138" target="425" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="939" source="138" target="426" weight="0.45">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="936" source="138" target="226" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="935" source="138" target="225" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="945" source="138" target="362" weight="0.5">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="938" source="138" target="424" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1543" source="226" target="426" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1536" source="226" target="225" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="226" target="9" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1539" source="225" target="426" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="7" target="415" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="7" target="184" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="7" target="226" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="7" target="9" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1193" source="415" target="184" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1544" source="415" target="226" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1540" source="415" target="225" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="415" target="9" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

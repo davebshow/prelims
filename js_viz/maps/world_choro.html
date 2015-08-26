@@ -3,7 +3,7 @@
 <style>
 
 .provinces {
-  fill: #ddc;;
+  fill: #ddc;
 }
 
 .province-borders {
@@ -37,15 +37,27 @@
 .q7-9 { fill:rgb(8,81,156); }
 .q8-9 { fill:rgb(8,48,107); }*/
 
-/*.q0-9{fill:rgb(247,252,253)}
-.q1-9{fill:rgb(224,236,244)}
-.q2-9{fill:rgb(191,211,230)}
-.q3-9{fill:rgb(158,188,218)}
-.q4-9{fill:rgb(140,150,198)}
-.q5-9{fill:rgb(140,107,177)}
-.q6-9{fill:rgb(136,65,157)}
-.q7-9{fill:rgb(129,15,124)}
-.q8-9{fill:rgb(77,0,75)}*/
+/*.q0-9{fill:rgb(255,247,236)}
+.q1-9{fill:rgb(254,232,200)}
+.q2-9{fill:rgb(253,212,158)}
+.q3-9{fill:rgb(253,187,132)}
+.q4-9{fill:rgb(252,141,89)}
+.q5-9{fill:rgb(239,101,72)}
+.q6-9{fill:rgb(215,48,31)}
+.q7-9{fill:rgb(179,0,0)}
+.q8-9{fill:rgb(127,0,0)}*/
+#legend {
+    padding: 1.5em 0 0 1.5em;
+}
+
+li.key {
+    border-top-width: 15px;
+    border-top-style: solid;
+    font-size: .75em;
+    width: 10%;
+    padding-left: 0;
+    padding-right: 0;
+}
 
 .q0-9{fill:rgb(255,247,236)}
 .q1-9{fill:rgb(254,232,200)}
@@ -56,15 +68,15 @@
 .q6-9{fill:rgb(215,48,31)}
 .q7-9{fill:rgb(179,0,0)}
 .q8-9{fill:rgb(127,0,0)}
+
 </style>
 <body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
-<script src="legend.js"></script>
 <script>
 
-var width = 1200,
+var width = 1400,
     height = 700;
 
 var rateById = d3.map();
@@ -74,8 +86,8 @@ var quantize = d3.scale.quantize()
     .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
 var projection = d3.geo.mercator()
-    .scale(1700)
-    .center([5, 45])
+.scale(100)
+.center([5, 40])
     .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()
@@ -86,39 +98,39 @@ var svg = d3.select("body").append("svg")
     .attr("height", height);
 
 queue()
-    .defer(d3.json, "western_europe_data/we.json")
-    .defer(d3.csv, "western_europe_data/tsv/editions.csv", function(d) { console.log("quant", d);rateById.set(d.id, +d.count); })
+    .defer(d3.json, "world/world.json")
+    // .defer(d3.csv, "mexico_data/csv/editions.csv", function(d) { rateById.set(d.id, +d.count); })
     .await(ready);
 
-function ready(error, we) {
+function ready(error, es) {
     if (error) throw error;
 
     svg.append("g")
         .attr("class", "provinces")
         .selectAll("path")
-        .data(topojson.feature(we, we.objects.provinces).features)
+        .data(topojson.feature(es, es.objects.provinces).features)
         .enter().append("path")
-        .attr("class", function(d) {  return quantize(rateById.get(d.properties.woe_id)); })
+        .attr("class", function(d) {return quantize(rateById.get(d.properties.woe_id)); })
         .attr("d", path);
 
     svg.append("path")
-        .datum(topojson.mesh(we, we.objects.provinces, function(a, b) { return a !== b; }))
+        .datum(topojson.mesh(es, es.objects.provinces, function(a, b) { return a !== b; }))
         .attr("class", "province-borders")
         .attr("d", path);
 
     svg.append("path")
-        .datum(topojson.mesh(we, we.objects.subunits, function(a, b) { return a !== b; }))
+        .datum(topojson.mesh(es, es.objects.subunits, function(a, b) { return a !== b; }))
         .attr("class", "subunit-borders")
         .attr("d", path);
 
     // Add places
     // svg.append("path")
-    //     .datum(topojson.feature(we, we.objects.places))
+    //     .datum(topojson.feature(es, es.objects.places))
     //     .attr("d", path)
     //     .attr("class", "place");
-    //
+
     // svg.selectAll(".place-label")
-    //     .data(topojson.feature(we, we.objects.places).features)
+    //     .data(topojson.feature(es, es.objects.places).features)
     //     .enter().append("text")
     //     .attr("class", "place-label")
     //     .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
@@ -128,27 +140,6 @@ function ready(error, we) {
     // svg.selectAll(".place-label")
     //     .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
     //      .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; });
-
-    // svg.selectAll(".subunit-label")
-    //     .data(topojson.feature(we, we.objects.subunits).features)
-    //     .enter().append("text")
-    //     .attr("class", function(d) { return "subunit-label " + d.id; })
-    //     .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
-    //     .attr("dy", ".35em")
-    //     .text(function(d) { return d.properties.NAME; });
-
-
-    svg.append("g")
-      .attr("class", "legendQuant")
-      .attr("transform", "translate(20,20)");
-
-    var legend = d3.legend.color()
-      .labelFormat(d3.format(".2f"))
-      .useClass(true)
-      .scale(quantize);
-
-    svg.select(".legendQuant")
-      .call(legend);
 }
 
 d3.select(self.frameElement).style("height", height + "px");

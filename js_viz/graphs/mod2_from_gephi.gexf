@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-07-07">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="genero" type="string"></attribute>
+      <attribute id="1" title="fecha" type="string"></attribute>
+      <attribute id="2" title="top_genre" type="string"></attribute>
+      <attribute id="3" title="type" type="string"></attribute>
+      <attribute id="4" title="avg_date" type="string"></attribute>
+      <attribute id="5" title="lugar" type="string"></attribute>
+      <attribute id="6" title="inst" type="string"></attribute>
+      <attribute id="7" title="second_place" type="string"></attribute>
+      <attribute id="8" title="doc_type" type="string"></attribute>
+      <attribute id="9" title="second_genre" type="string"></attribute>
+      <attribute id="10" title="role" type="string"></attribute>
+      <attribute id="11" title="real" type="string"></attribute>
+      <attribute id="12" title="top_place" type="string"></attribute>
+      <attribute id="13" title="notas" type="string"></attribute>
+      <attribute id="14" title="author" type="string"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="15" title="earliest_year" type="long"></attribute>
+    </attributes>
+    <nodes>
+      <node id="149" label="Alonso Pimentel y Esterlico">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="5" value="{'': 1}"></attvalue>
+          <attvalue for="6" value="{u'Consejo de Guerra': 1}"></attvalue>
+          <attvalue for="8" value="{'dedicatory': 1}"></attvalue>
+          <attvalue for="10" value="patron"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="13" value="{'Del Consejo de Guerra y capitan de lanzas espanolas en Flandes': 1}"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="638.4641" y="204.25078" z="0.0"></viz:position>
+        <viz:color r="120" g="26" b="214"></viz:color>
+      </node>
+      <node id="148" label="Francisco Lopez de Úbeda">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1608-01-01': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1608"></attvalue>
+          <attvalue for="5" value="{u'Bruselas': 1}"></attvalue>
+          <attvalue for="8" value="{u'Obra': 1}"></attvalue>
+          <attvalue for="10" value="author"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Bruselas"></attvalue>
+          <attvalue for="14" value="{'true': 1}"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="631.83636" y="180.3622" z="0.0"></viz:position>
+        <viz:color r="120" g="26" b="214"></viz:color>
+      </node>
+      <node id="188" label="Olivero Brunello">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1607-11-07': 1, '1608-01-01': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1607"></attvalue>
+          <attvalue for="5" value="{u'Bruselas': 2}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 1, u'Impresion': 1}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Bruselas"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="641.8946" y="233.89055" z="0.0"></viz:position>
+        <viz:color r="120" g="26" b="214"></viz:color>
+      </node>
+      <node id="55" label="P. Piermans">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 2}"></attvalue>
+          <attvalue for="1" value="{'1614-05-10': 1, '1607-11-07': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1610"></attvalue>
+          <attvalue for="5" value="{u'Bruselas': 2}"></attvalue>
+          <attvalue for="6" value="{u'Consejo de Flandes': 1}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 2}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Bruselas"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="620.5767" y="258.39243" z="0.0"></viz:position>
+        <viz:color r="120" g="26" b="214"></viz:color>
+      </node>
+      <node id="187" label="Grimaldy">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1}"></attvalue>
+          <attvalue for="1" value="{'1607-11-07': 1}"></attvalue>
+          <attvalue for="2" value="Ficcion"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1607"></attvalue>
+          <attvalue for="5" value="{u'Bruselas': 1}"></attvalue>
+          <attvalue for="6" value="{u'Consejo de Flandes': 1}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Bruselas"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="1.4883721"></viz:size>
+        <viz:position x="613.72235" y="225.77902" z="0.0"></viz:position>
+        <viz:color r="120" g="26" b="214"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1032" source="149" target="148" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1037" source="149" target="187" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1036" source="149" target="188" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="396" source="149" target="55" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1033" source="148" target="187" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1034" source="148" target="188" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="395" source="148" target="55" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="399" source="188" target="55" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1228" source="187" target="188" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="398" source="187" target="55" weight="0.2">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

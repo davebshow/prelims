@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-07-07">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="genero" type="string"></attribute>
+      <attribute id="1" title="fecha" type="string"></attribute>
+      <attribute id="2" title="top_genre" type="string"></attribute>
+      <attribute id="3" title="type" type="string"></attribute>
+      <attribute id="4" title="avg_date" type="string"></attribute>
+      <attribute id="5" title="lugar" type="string"></attribute>
+      <attribute id="6" title="inst" type="string"></attribute>
+      <attribute id="7" title="second_place" type="string"></attribute>
+      <attribute id="8" title="doc_type" type="string"></attribute>
+      <attribute id="9" title="second_genre" type="string"></attribute>
+      <attribute id="10" title="role" type="string"></attribute>
+      <attribute id="11" title="real" type="string"></attribute>
+      <attribute id="12" title="top_place" type="string"></attribute>
+      <attribute id="13" title="notas" type="string"></attribute>
+      <attribute id="14" title="author" type="string"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="15" title="earliest_year" type="long"></attribute>
+    </attributes>
+    <nodes>
+      <node id="390" label="Pedro de Campos Guerrero">
+        <attvalues>
+          <attvalue for="0" value="{'Poesia': 2}"></attvalue>
+          <attvalue for="1" value="{'1603-07-10': 1}"></attvalue>
+          <attvalue for="2" value="Poesia"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1603"></attvalue>
+          <attvalue for="5" value="{'': 1}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="13" value="{'Secretario de gobernacion': 1}"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.9767442"></viz:size>
+        <viz:position x="340.92145" y="-276.26144" z="0.0"></viz:position>
+        <viz:color r="214" g="167" b="26"></viz:color>
+      </node>
+      <node id="222" label="Garcia de Mendoza y Zuniga, Fray, Arzobispo de Mexico">
+        <attvalues>
+          <attvalue for="0" value="{'Poesia': 2}"></attvalue>
+          <attvalue for="1" value="{'1603-09-15': 1}"></attvalue>
+          <attvalue for="2" value="Poesia"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1603"></attvalue>
+          <attvalue for="5" value="{u'Mexico': 1}"></attvalue>
+          <attvalue for="6" value="{u'Casa de Zuniga': 1, u'Archidiocesis de Mexico': 1}"></attvalue>
+          <attvalue for="8" value="{'dedicatory': 1}"></attvalue>
+          <attvalue for="10" value="patron"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Mexico"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.9767442"></viz:size>
+        <viz:position x="368.3075" y="-282.62192" z="0.0"></viz:position>
+        <viz:color r="214" g="167" b="26"></viz:color>
+      </node>
+      <node id="272" label="Melchior Ocharte">
+        <attvalues>
+          <attvalue for="0" value="{'Poesia': 1}"></attvalue>
+          <attvalue for="1" value="{'1604': 1}"></attvalue>
+          <attvalue for="2" value="Poesia"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1604"></attvalue>
+          <attvalue for="5" value="{u'Mexico': 1}"></attvalue>
+          <attvalue for="8" value="{u'Impresion': 1}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Mexico"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.6511629"></viz:size>
+        <viz:position x="443.36197" y="-305.82352" z="0.0"></viz:position>
+        <viz:color r="214" g="167" b="26"></viz:color>
+      </node>
+      <node id="349" label="Antonio Ávila de la Cadena Arcediano de la nueva Galicia">
+        <attvalues>
+          <attvalue for="0" value="{'Poesia': 2}"></attvalue>
+          <attvalue for="1" value="{'1602-10-20': 1}"></attvalue>
+          <attvalue for="2" value="Poesia"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1602"></attvalue>
+          <attvalue for="5" value="{u'Mexico': 1}"></attvalue>
+          <attvalue for="8" value="{'dedicatory': 1}"></attvalue>
+          <attvalue for="10" value="patron"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Mexico"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.9767442"></viz:size>
+        <viz:position x="370.2913" y="-255.69531" z="0.0"></viz:position>
+        <viz:color r="214" g="167" b="26"></viz:color>
+      </node>
+      <node id="353" label="Diego Lopez Davalos">
+        <attvalues>
+          <attvalue for="0" value="{'Poesia': 1}"></attvalue>
+          <attvalue for="1" value="{'1604-01-01': 1}"></attvalue>
+          <attvalue for="2" value="Poesia"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1604"></attvalue>
+          <attvalue for="5" value="{u'Mexico': 1}"></attvalue>
+          <attvalue for="8" value="{u'Impresion': 1}"></attvalue>
+          <attvalue for="10" value="printer/editor"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="12" value="Mexico"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.8139535"></viz:size>
+        <viz:position x="341.7189" y="-249.76228" z="0.0"></viz:position>
+        <viz:color r="214" g="167" b="26"></viz:color>
+      </node>
+      <node id="350" label="Isabel de Tobar y Guzman">
+        <attvalues>
+          <attvalue for="0" value="{'Poesia': 2}"></attvalue>
+          <attvalue for="1" value="{'': 1}"></attvalue>
+          <attvalue for="2" value="Poesia"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="5" value="{'': 1}"></attvalue>
+          <attvalue for="8" value="{u'Carta': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.9767442"></viz:size>
+        <viz:position x="396.7114" y="-262.1224" z="0.0"></viz:position>
+        <viz:color r="214" g="167" b="26"></viz:color>
+      </node>
+      <node id="406" label="Sebastian Torrero">
+        <attvalues>
+          <attvalue for="0" value="{'Poesia': 2}"></attvalue>
+          <attvalue for="1" value="{'1603-09-14': 1}"></attvalue>
+          <attvalue for="2" value="Poesia"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1603"></attvalue>
+          <attvalue for="5" value="{'': 1}"></attvalue>
+          <attvalue for="8" value="{u'Privilegio/Licencia': 1}"></attvalue>
+          <attvalue for="10" value="signatory"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="13" value="{'Secretario de de su senoria': 1}"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.9767442"></viz:size>
+        <viz:position x="394.44626" y="-237.72513" z="0.0"></viz:position>
+        <viz:color r="214" g="167" b="26"></viz:color>
+      </node>
+      <node id="438" label="Bernardo de Balbuena">
+        <attvalues>
+          <attvalue for="0" value="{'Ficcion': 1, 'Poesia': 2}"></attvalue>
+          <attvalue for="1" value="{'1603-07-10': 1, '1603-09-14': 1, '1604-01-01': 2, '1607-10-16': 1, '1604-08-11': 1}"></attvalue>
+          <attvalue for="2" value="Poesia"></attvalue>
+          <attvalue for="3" value="Persona"></attvalue>
+          <attvalue for="4" value="1604"></attvalue>
+          <attvalue for="5" value="{'': 2, u'Madrid': 1, u'Valladolid': 1, u'Mexico': 2}"></attvalue>
+          <attvalue for="7" value="Mexico"></attvalue>
+          <attvalue for="8" value="{u'Obra': 2, u'Privilegio/Licencia': 3}"></attvalue>
+          <attvalue for="9" value="Ficcion"></attvalue>
+          <attvalue for="10" value="author"></attvalue>
+          <attvalue for="11" value="{'True': 1}"></attvalue>
+          <attvalue for="14" value="{'true': 2}"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="2.7906976"></viz:size>
+        <viz:position x="349.54825" y="-94.04094" z="0.0"></viz:position>
+        <viz:color r="214" g="167" b="26"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1524" source="390" target="222" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1759" source="390" target="272" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1989" source="390" target="349" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2006" source="390" target="353" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2135" source="390" target="438" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1994" source="390" target="350" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2134" source="390" target="406" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1525" source="222" target="272" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1527" source="222" target="349" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1522" source="222" target="353" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1526" source="222" target="438" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1528" source="222" target="350" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1523" source="222" target="406" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1762" source="272" target="349" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1758" source="272" target="438" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1760" source="272" target="350" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1761" source="272" target="406" weight="0.16666667">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1987" source="349" target="353" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1990" source="349" target="438" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1991" source="349" target="350" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1988" source="349" target="406" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2005" source="353" target="438" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1992" source="353" target="350" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2007" source="353" target="406" weight="0.14285715">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1995" source="350" target="438" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1993" source="350" target="406" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2164" source="406" target="438" weight="0.30952382">
+        <attvalues>
+          <attvalue for="15" value="2000"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -98,7 +98,7 @@ var svg = d3.select("body").append("svg")
     .attr("height", height);
 
 queue()
-    .defer(d3.json, "/spain_data/spain.json")
+    .defer(d3.json, "spain_data/spain.json")
     .defer(d3.csv, "spain_data/csv/printers.csv", function(d) { rateById.set(d.id, +d.count); })
     .await(ready);
 
